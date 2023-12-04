@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Programming principles debunked
+
+- ~Don't Repeat yourself~ Generalize only after a threshold of repetition
+- ~Keep it simple stupid~ Architecture it such it can be perfected
+
 <!--
 **julienreszka/julienreszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
