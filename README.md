@@ -5,6 +5,7 @@
 - ~Don't Repeat yourself~ Generalize only after a threshold of repetition
 - ~Keep it simple stupid~ Architecture it such it can be perfected
 - ~You Ain't Gonna Need It~ Mistakes happen but Failure is not an option
+- ~Fail Fast~ Develop mechanisms of control 
 
 <!--
 **julienreszka/julienreszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
