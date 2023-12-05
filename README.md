@@ -12,7 +12,8 @@ Architecture it such it can be perfected
 
 ### ~You Ain't Gonna Need It~ 
 
-Mistakes happen but Failure is not an option
+Mistakes happen but Failure is not an option.
+Make sure that if there are defects, they either have a workaround and they are in secondary features
 
 ### ~Fail Fast~ 
 
