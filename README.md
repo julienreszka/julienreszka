@@ -11,6 +11,7 @@ Duplications are less costly than wrong abstraction.
 ### ~Keep it simple stupid~ 
 
 Architecture it such it can be perfected.
+
 It's highly unlikely that you will get it right on the first try so make sure you will be able to improve it on next iterations.
 
 ### ~You Ain't Gonna Need It~ 
