@@ -12,7 +12,7 @@ Duplications are less costly than wrong abstraction.
 
 ### ~Keep it simple stupid~ 
 
-Don't keep it simple, make it smart.
+Don't keep it simple stupid.
 
 Architecture it such it can be perfected.
 
