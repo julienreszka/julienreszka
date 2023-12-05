@@ -4,11 +4,15 @@
 
 ### ~Don't Repeat yourself~ 
 
+Repeat yourself.
+
 Generalize only after a threshold of repetition.
 
 Duplications are less costly than wrong abstraction.
 
 ### ~Keep it simple stupid~ 
+
+Don't keep it simple, make it smart.
 
 Architecture it such it can be perfected.
 
@@ -16,11 +20,15 @@ It's highly unlikely that you will get it right on the first try so make sure yo
 
 ### ~You Ain't Gonna Need It~ 
 
+You will probably need this.
+
 Mistakes happen but Failure is not an option.
 
 Make sure that if there are defects, they either have a workaround and they are in secondary features.
 
 ### ~Fail Fast~ 
+
+Slow but steady.
 
 Develop mechanisms of control.
 
