@@ -24,7 +24,7 @@ You will probably need this.
 
 Mistakes happen but Failure is not an option.
 
-Make sure that if there are defects, they either have a workaround and they are in secondary features.
+Make sure that if there are defects, they have a workaround and they are in secondary features.
 
 ### ~Fail Fast~ 
 
