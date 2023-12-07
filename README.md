@@ -36,7 +36,7 @@ Crashing an airplane won't teach you as much as using a wind tunnel to fly a mod
 
 ### ~Read the fucking manual (RTFM)~
 
-You shouldn't need a manual.
+You don't need a manual.
 
 Make assertions.
 
