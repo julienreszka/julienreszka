@@ -48,6 +48,6 @@ Manuals are often out of date.
 
 **Don't rely on a manual.**
 
-Make assertions.
+Make assertions to probe the system.
 
-Compare how you expect the system to work and how it is actually working, figure out the system like a hacker would.
+Help project maintainers make their code more intuitive by comparing how you expect the system to work and how it is actually working.
