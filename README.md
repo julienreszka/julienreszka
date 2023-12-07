@@ -4,15 +4,19 @@
 
 ### ~Don't Repeat yourself (DRY)~ 
 
-Repeat yourself.
+Tight coupling makes a system less flexible and harder to maintain.
+
+**Repeat yourself.**
 
 Generalize only after a threshold of repetition.
 
-Duplications are less costly than wrong abstraction.
+Duplications are less costly than wrong abstractions.
 
 ### ~Keep it simple stupid (KISS)~ 
 
-Don't keep it simple stupid.
+Certain problems are inherently complex.
+
+**Don't keep it simple stupid.**
 
 Architecture it such it can be perfected.
 
@@ -20,15 +24,19 @@ It's highly unlikely that you will get it right on the first try so make sure yo
 
 ### ~You Ain't Gonna Need It (YAGNI)~ 
 
-You will probably need this.
+Accumulating defects will inevitably lead to some kind of failure.
 
-Mistakes happen but Failure is not an option.
+**You will probably need this.**
+
+Recognize that Mistakes happen but also that Failure is not an option.
 
 Make sure that if there are defects, they have a workaround and they are in secondary features.
 
 ### ~Fail Fast~ 
 
-Slow but steady.
+Failure is a significant drain on resources.
+
+**Slow but steady.**
 
 Develop mechanisms of control.
 
@@ -36,7 +44,9 @@ Crashing an airplane won't teach you as much as using a wind tunnel to fly a mod
 
 ### ~Read the fucking manual (RTFM)~
 
-You don't need a manual.
+Manuals are often out of date.
+
+**Don't rely on a manual.**
 
 Make assertions.
 
