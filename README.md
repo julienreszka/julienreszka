@@ -51,3 +51,13 @@ Manuals are often out of date.
 Make assertions to probe the system.
 
 Help project maintainers make their code more intuitive by comparing how you expect the system to work and how it is actually working.
+
+### ~Maintain UI consistency~
+
+Mainting UI consistency over time is a fool's errand.
+
+**Don't reinvent the wheel**
+
+Focus on the user experience.
+
+It's ok if a UI component doesn't match the style of the app but makes things easier for the user because he already knows how to use it.
