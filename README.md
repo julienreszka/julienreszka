@@ -54,7 +54,7 @@ Help project maintainers make their code more intuitive by comparing how you exp
 
 ### ~Maintain UI consistency~
 
-Mainting UI consistency over time is a fool's errand.
+Trying to maintain UI consistency over time is a fool's errand.
 
 **Don't reinvent the wheel**
 
