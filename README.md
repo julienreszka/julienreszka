@@ -61,3 +61,12 @@ Trying to maintain UI consistency over time is a fool's errand.
 Focus on the user experience.
 
 It's ok if a UI component doesn't match the style of the app but makes things easier for the user because he already knows how to use it.
+
+### ~Be conservative in what you send, be liberal in what you accept (Postel's Law)~
+
+Malicious actors exploit lax input validation to inject harmful code or manipulate protocols.
+
+**Be conservative in both what you send and receive.**
+
+Strict input and output validation improves interoperability by enforcing clear communication standards.
+
