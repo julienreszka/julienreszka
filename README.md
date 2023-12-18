@@ -74,7 +74,7 @@ Strict input and output validation improves interoperability by enforcing clear 
 
 It's possible to make accurate estimates.
 
-**Breakdown tasks into 3 parts, the optimistic duration, the buffer for realistic duration, the buffer for peasimistic duration.**
+**Breakdown tasks into 3 parts, the optimistic duration, the buffer for realistic duration, the buffer for pessimistic duration.**
 
-By sizing your degree of uncertainty for each task you will be able to tell whether more work should be done on the specification and preliminary work.
+By sizing your degree of uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work.
 
