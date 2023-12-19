@@ -78,3 +78,7 @@ It's possible to make accurate estimates.
 
 By sizing your degree of uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work.
 
+## Favorite vs code extensions
+
+1. [Todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+1. [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
