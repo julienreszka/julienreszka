@@ -36,7 +36,7 @@ Recognize that Mistakes happen but also that Failure is not an option.
 
 Make sure that if there are defects, they have a workaround and they are in secondary features.
 
-Classify defects severity with "no_workaround" and "critical component" flags.
+Classify defects severity with "has_no_workaround" and "is_critical_component" flags.
 
 ### ~Fail Fast~ 
 
