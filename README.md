@@ -42,7 +42,7 @@ Classify defects severity with "has_no_workaround" and "is_critical_component" f
 
 Failure is a significant drain on resources.
 
-**Slow but steady.**
+**Recover quickly.**
 
 Develop mechanisms of control.
 
