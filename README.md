@@ -41,6 +41,7 @@ Failure is a significant drain on resources.
 Develop mechanisms of control.
 
 Crashing an airplane won't teach you as much as using a wind tunnel to fly a model in an environment that you can control.
+Instead of returning immediately one error, make an arrays of reasons to abort so that you can solve all at once instead of one by one.
 
 ### ~Read the fucking manual (RTFM)~
 
