@@ -24,6 +24,8 @@ Architecture it such it can be perfected.
 
 It's highly unlikely that you will get it right on the first try so make sure you will be able to improve it on next iterations.
 
+Use feature toggles to architecture your app in an extensible way.
+
 ### ~You Ain't Gonna Need It (YAGNI)~ 
 
 Accumulating defects will inevitably lead to some kind of failure.
