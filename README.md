@@ -12,6 +12,8 @@ Generalize only after a threshold of repetition.
 
 Duplications are less costly than wrong abstractions.
 
+Use global search to find all the places where something is used, use regex to be more effective in your search.
+
 ### ~Keep it simple stupid (KISS)~ 
 
 Certain problems are inherently complex.
