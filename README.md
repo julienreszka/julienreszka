@@ -32,6 +32,8 @@ Recognize that Mistakes happen but also that Failure is not an option.
 
 Make sure that if there are defects, they have a workaround and they are in secondary features.
 
+Classify defects severity with "no_workaround" and "critical component" flags.
+
 ### ~Fail Fast~ 
 
 Failure is a significant drain on resources.
