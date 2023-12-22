@@ -70,6 +70,8 @@ Focus on the user experience.
 
 It's ok if a UI component doesn't match the style of the app but makes things easier for the user because he already knows how to use it.
 
+Write functional requirements that say what a feature in a specific context allows or does not allow users to do by doing what.
+
 ### ~Be conservative in what you send, be liberal in what you accept (Postel's Law)~
 
 Malicious actors exploit lax input validation to inject harmful code or manipulate protocols.
