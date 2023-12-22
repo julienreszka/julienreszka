@@ -80,6 +80,8 @@ Malicious actors exploit lax input validation to inject harmful code or manipula
 
 Strict input and output validation improves interoperability by enforcing clear communication standards.
 
+Sanitize data, Parameterize queries, use whitelists. 
+
 ### ~It always takes longer than you expect (Hofstadter’s Law).~
 
 It's possible to make accurate estimates.
