@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Programming principles debunked
+## 9 Programming principles debunked
 
 ### ~Don't Repeat yourself (DRY)~ 
 
