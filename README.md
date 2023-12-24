@@ -110,7 +110,7 @@ Delaying optimization until later stages will lead to significant performance is
 
 **Make fast benchmarking part of your development process.**
 
-Focus your optimization efforts on on high level evaluations and long term functional requirements.
+Focus your optimization efforts on high level evaluations and long term functional requirements.
 
 Look at the overall process before going into details.
 
