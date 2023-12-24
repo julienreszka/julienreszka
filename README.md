@@ -114,6 +114,10 @@ Focus your optimization efforts on on high level evaluations and long term funct
 
 Look at the overall process before going into details.
 
+### The less it knows the better (Law of Demeter)
+
+Writing wrappers to satisfy LoD always leads to significant performance and maintainability issues.
+
 ## Favorite vs code extensions
 
 1. [Todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
