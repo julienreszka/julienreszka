@@ -16,6 +16,8 @@ Tight coupling makes a system less flexible and harder to maintain.
 
 **Repeat yourself.**
 
+WET: Write everything twice
+
 Generalize only after a threshold of repetition.
 
 Duplications are less costly than wrong abstractions and there is never enough granularity.
@@ -27,6 +29,8 @@ Use global search to find all the places where something is used, use regex to b
 Certain problems are inherently complex.
 
 **Don't keep it simple stupid.**
+
+PUSH: Perfect Until Sufficiently Honed
 
 Architecture it such it can be perfected.
 
