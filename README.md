@@ -120,7 +120,7 @@ Writing wrappers to satisfy LoD always leads to significant performance and main
 
 **Create a single entry point**
 
-Prefer the Facade pattern which provides a cleaner, more intuitive interface to interact with complex systems, ultimately improving both performance and maintainability of the codebase.”
+Prefer the Facade pattern which provides a cleaner, more intuitive interface to interact with complex systems, ultimately improving both performance and maintainability of the codebase.
 
 ## Favorite vs code extensions
 
