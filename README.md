@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 9 Popular Programming Principles DEBUNKED
+## 10 Popular Programming Principles DEBUNKED
 
 Contrary to popular belief, good programmers aren't lazy.
 
