@@ -118,6 +118,10 @@ Look at the overall process before going into details.
 
 Writing wrappers to satisfy LoD always leads to significant performance and maintainability issues.
 
+**Create a single entry point**
+
+Prefer the Facade pattern which provides a cleaner, more intuitive interface to interact with complex systems, ultimately improving both performance and maintainability of the codebase.”
+
 ## Favorite vs code extensions
 
 1. [Todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
