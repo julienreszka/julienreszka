@@ -8,7 +8,7 @@ It may seem like they are because some of the most lazy programming principles h
 
 In fact, good programmers are often disciplined, methodical, and strategic in their approach. 
 
-Let's explore some of the widely adopted programming principles that are often debunked and rejected by experienced developers.
+Let's explore some of the widely adopted programming principles that are debunked and rejected by experienced developers.
 
 ### ~Don't Repeat yourself (DRY)~ 
 
