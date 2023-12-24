@@ -92,6 +92,16 @@ Breakdown tasks into 3 parts, the optimistic duration, the buffer for realistic 
 
 By sizing your degree of uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work.
 
+### ~Premature Optimization is the root of all evil (Donald Knuth)~
+
+Delaying optimization until later stages will lead to significant performance issues that are costly to rectify.
+
+**Make fast benchmarking part of your development process.**
+
+Focus your optimization efforts on on high level evaluations and long term functional requirements.
+
+Look at the overall process before going into details.
+
 ## Favorite vs code extensions
 
 1. [Todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
