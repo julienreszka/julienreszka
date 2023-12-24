@@ -2,6 +2,14 @@
 
 ## 9 Popular Programming Principles DEBUNKED
 
+Contrary to popular belief, good programmers aren't lazy.
+
+It may seem like they are because some of the most lazy programming principles have been widely adopted and celebrated in the programming community.
+
+In fact, good programmers are often disciplined, methodical, and strategic in their approach. 
+
+Let's explore some of the widely accepted programming principles that are often misunderstood or debunked by experienced developers.
+
 ### ~Don't Repeat yourself (DRY)~ 
 
 Tight coupling makes a system less flexible and harder to maintain.
