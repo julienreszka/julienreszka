@@ -114,7 +114,7 @@ Focus your optimization efforts on high level evaluations and long term function
 
 Look at the overall process before going into details.
 
-### The less it knows the better (Law of Demeter)
+### ~The less it knows the better (Law of Demeter)~
 
 Writing wrappers to satisfy LoD always leads to significant performance and maintainability issues.
 
