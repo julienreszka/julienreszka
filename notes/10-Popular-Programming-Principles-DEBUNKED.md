@@ -226,6 +226,24 @@ Focus your optimization efforts on high level evaluations and long term function
 
 Look at the overall process before going into details. 
 
+### For example
+
+Let's consider the development of a website for an e-commerce platform. In this scenario, the team delays optimization until the later stages of development.
+
+Initially, the focus is on creating a functional website that allows users to browse products, add items to their cart, and proceed to checkout. The team works on designing the user interface, implementing basic functionality, and ensuring that the website works as intended.
+
+However, optimization for performance is not a priority during this phase. As the development progresses, more features are added, such as user reviews, personalized recommendations, and integration with third-party services.
+
+As the website nears completion, the team starts testing and realizes that the site is loading slowly. Page load times are high, especially when there's a peak in user traffic. Users experience delays when accessing product pages or navigating between different sections of the site.
+
+Upon investigation, it's discovered that the website's code is not optimized. Images are not properly compressed, resulting in larger file sizes that slow down page loading times. The code for fetching and displaying product information is inefficient, causing delays in rendering pages. Additionally, the database queries are not optimized, leading to slow retrieval of information.
+
+Now, to rectify these performance issues, the team needs to conduct a thorough optimization process. They have to compress images, refactor code to improve efficiency, optimize database queries, and possibly even redesign certain functionalities to enhance performance.
+
+This optimization phase becomes time-consuming and costly. The team needs to allocate resources to rework various aspects of the website to make it more responsive and faster for users. Moreover, during the period of slow performance, the website might have lost potential customers who were deterred by the sluggish user experience.
+
+Had the team incorporated benchmarking and optimization practices early in the development process, they could have identified these performance bottlenecks sooner. By focusing on high-level evaluations and considering long-term functional requirements, they could have built a more optimized and responsive website from the outset, avoiding the need for extensive rework and delivering a better user experience from the start.
+
 ## ~The less it knows the better (Law of Demeter)~
 
 Writing wrappers to satisfy LoD always leads to significant performance and maintainability issues.
