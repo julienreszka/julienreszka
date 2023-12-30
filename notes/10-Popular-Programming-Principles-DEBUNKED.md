@@ -70,6 +70,16 @@ Make assertions to probe the system.
 
 Help project maintainers make their code more intuitive by comparing how you expect the system to work and how it is actually working.
 
+### For example:
+
+Let's consider the documentation for a widely-used open-source project, like Git, the version control system. Over time, Git has had comprehensive documentation, but it's a complex tool that undergoes updates and changes. As a result, some aspects of the documentation might not always perfectly align with the latest version or might lack details on newer functionalities.
+
+For instance, imagine a scenario where the Git documentation hasn't been updated to include a newly introduced command that simplifies the process of reverting changes within a repository. The manual might still suggest a more convoluted approach that was standard before the introduction of this newer, more efficient command.
+
+In such a case, relying solely on the manual might lead users to follow outdated or less efficient procedures. However, proactive exploration and testing within the Git system could reveal this new command and its functionalities. Users who delve into the system and compare their expectations of functionality based on the manual with the actual capabilities of the updated Git version might notice discrepancies.
+
+These users could then contribute by informing the maintainers about the missing or outdated information in the documentation. By doing so, they help the maintainers update the manual, ensuring that it accurately reflects the current features and capabilities of the Git system. This, in turn, assists other users who rely on the documentation to utilize the latest and most efficient tools available within Git.
+
 ## ~Maintain UI consistency~
 
 Trying to maintain UI consistency over time is a fool's errand.
@@ -82,7 +92,9 @@ It's ok if a UI component doesn't match the style of the app but makes things ea
 
 Write functional requirements that say what `a feature` `in a specific context` `allows or does not allow` `users with a certain role` `to do` `by doing what`.
 
-For example breaking down the YouTube UI into components might look like this:
+### For example 
+
+Breaking down the YouTube UI into components might look like this:
 
 ### Components of YouTube UI:
 1. **Header**: Contains the search bar, YouTube logo, and navigation links.
@@ -130,7 +142,7 @@ Strict input and output validation improves interoperability by enforcing clear 
 
 Sanitize data, Parameterize queries, use whitelists.
 
-For example:
+### For example:
 
 Let's consider a scenario involving a web application that interacts with a backend database. One common vulnerability is SQL injection, where malicious SQL commands are injected into input fields to manipulate the database.
 
@@ -174,7 +186,7 @@ Each deepest subtask break it down into 3 parts:
 
 By sizing your degree of pessimism and therefore uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
 
-Example:
+### Example:
 
 ```
 - [ ] A 390 min
