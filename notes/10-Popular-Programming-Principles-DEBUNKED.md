@@ -82,6 +82,44 @@ It's ok if a UI component doesn't match the style of the app but makes things ea
 
 Write functional requirements that say what `a feature` `in a specific context` `allows or does not allow` `users with a certain role` `to do` `by doing what`.
 
+For example breaking down the YouTube UI into components might look like this:
+
+### Components of YouTube UI:
+1. **Header**: Contains the search bar, YouTube logo, and navigation links.
+2. **Sidebar**: Displays subscription channels, library, and trending videos.
+3. **Video Player**: Displays the selected video along with playback controls.
+4. **Comments Section**: Allows users to view and post comments.
+5. **Recommendation Section**: Displays recommended videos based on user activity.
+6. **Channel Information**: Shows details about the channel hosting the video.
+
+### Functional Requirements:
+
+1. **Header**:
+   - **Allows** all users to search for videos **by typing keywords** into the search bar.
+   - **Does not allow** unauthorized users to access creator studio settings.
+   
+2. **Sidebar**:
+   - **Allows** logged-in users to access their subscription channels and manage playlists.
+   - **Does not allow** users without an account to view subscription content.
+
+3. **Video Player**:
+   - **Allows** all users to play, pause, and control the volume of the video being watched.
+   - **Does not allow** users to download the video directly from the player.
+
+4. **Comments Section**:
+   - **Allows** logged-in users to post comments and replies on the video.
+   - **Does not allow** users with a viewer role to delete other users' comments.
+
+5. **Recommendation Section**:
+   - **Allows** all users to view recommended videos based on their watch history.
+   - **Does not allow** users to disable the recommendation feature entirely.
+
+6. **Channel Information**:
+   - **Allows** users to view details about the channel, such as subscriber count and description.
+   - **Does not allow** users to edit channel information without proper permissions.
+
+Each requirement specifies what a specific component allows or does not allow for users in certain roles within the context of using the YouTube interface.
+
 ## ~Be conservative in what you send, be liberal in what you accept (Postel's Law)~
 
 Malicious actors exploit lax input validation to inject harmful code or manipulate protocols.
