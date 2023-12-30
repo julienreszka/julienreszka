@@ -96,7 +96,7 @@ Write functional requirements that say what `a feature` `in a specific context` 
 
 Breaking down the YouTube UI into components might look like this:
 
-### Components of YouTube UI:
+#### Components of YouTube UI:
 1. **Header**: Contains the search bar, YouTube logo, and navigation links.
 2. **Sidebar**: Displays subscription channels, library, and trending videos.
 3. **Video Player**: Displays the selected video along with playback controls.
@@ -104,7 +104,7 @@ Breaking down the YouTube UI into components might look like this:
 5. **Recommendation Section**: Displays recommended videos based on user activity.
 6. **Channel Information**: Shows details about the channel hosting the video.
 
-### Functional Requirements:
+#### Functional Requirements:
 
 1. **Header**:
    - **Allows** all users to search for videos **by typing keywords** into the search bar.
@@ -186,7 +186,7 @@ Each deepest subtask break it down into 3 parts:
 
 By sizing your degree of pessimism and therefore uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
 
-### Example:
+### For Example:
 
 ```
 - [ ] A 390 min
