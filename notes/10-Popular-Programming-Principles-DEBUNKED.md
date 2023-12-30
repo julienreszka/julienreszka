@@ -96,11 +96,39 @@ Sanitize data, Parameterize queries, use whitelists.
 
 It's possible to make accurate estimates.
 
-**Make realistic deadlines**
+**Make pessimistic estimates**
 
 Breakdown tasks into 3 parts, the optimistic duration, the buffer for realistic duration, the buffer for pessimistic duration.
 
 By sizing your degree of uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work.
+
+Example:
+
+```
+- [ ] A 390 min
+  - [ ] AA 145 min
+    - [ ] AA optimistic duration 100 min
+    - [ ] AA realistic buffer 15 min
+    - [ ] AA pessimistic buffer 30 min
+  - [ ] AB 245 min
+    - [ ] ABA 45 min
+      - [ ] ABA optimistic duration 30 min
+      - [ ] ABA realistic buffer 5 min
+      - [ ] ABA pessimistic buffer 10 min
+    - [ ] ABB 60 min
+      - [ ] ABB optimistic duration 40 min
+      - [ ] ABB realistic buffer 10 min
+      - [ ] ABB pessimistic buffer 10 min
+    - [ ] ABC 140 min
+      - [ ] ABCA 60 min
+        - [ ] ABCA optimistic duration 40 min
+        - [ ] ABCA realistic buffer 10 min
+        - [ ] ABCA pessimistic buffer 10 min
+      - [ ] ABCB 80 min
+        - [ ] ABCB optimistic duration 60 min
+        - [ ] ABCB realistic buffer 10 min
+        - [ ] ABCB pessimistic buffer 10 min
+```
 
 ## ~Premature Optimization is the root of all evil (Donald Knuth)~
 
