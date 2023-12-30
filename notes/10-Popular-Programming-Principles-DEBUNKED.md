@@ -218,7 +218,7 @@ In this example we can see that sometimes the pessimistic buffer is even larger 
 
 ## ~Premature Optimization is the root of all evil (Donald Knuth)~
 
-Delaying optimization until later stages will lead to significant performance issues that are costly to rectify.
+Delaying optimization until later stages will lead to significant performance issues that are costly to rectify and will lead to product market fit failure.
 
 **Make fast benchmarking part of your development process.**
 
