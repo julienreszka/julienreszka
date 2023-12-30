@@ -92,6 +92,36 @@ Strict input and output validation improves interoperability by enforcing clear 
 
 Sanitize data, Parameterize queries, use whitelists.
 
+For example:
+
+Let's consider a scenario involving a web application that interacts with a backend database. One common vulnerability is SQL injection, where malicious SQL commands are injected into input fields to manipulate the database.
+
+Suppose there's a login page where users input their credentials. Without proper validation, a malicious user could enter something like this into the username field:
+
+```sql
+' OR '1'='1
+```
+
+If the application doesn’t validate or sanitize this input properly, it might construct a SQL query like:
+
+```sql
+SELECT * FROM users WHERE username = '' OR '1'='1' AND password = 'input_password';
+```
+
+In this case, because '1'='1' always evaluates to true, the query would return a result, allowing the attacker to log in without a valid username and password combination.
+
+To prevent this, the application should implement parameterized queries:
+
+```sql
+SELECT * FROM users WHERE username = ? AND password = ?;
+```
+
+The application then fills in the placeholders with the provided username and password values. This prevents the user input from being directly interpreted as SQL code and avoids the risk of injection attacks.
+
+Additionally, input validation and sanitization techniques should be applied. For instance, the application should validate that the username contains only permissible characters (such as alphanumeric characters) and doesn’t contain any SQL commands or special characters that might be used for injection.
+
+Implementing these measures—parameterized queries, input validation, and data sanitization—helps prevent malicious users from exploiting vulnerabilities and ensures a more secure interaction between the application and the backend database.
+
 ## ~It always takes longer than you expect (Hofstadter’s Law).~
 
 It's possible to make accurate estimates.
