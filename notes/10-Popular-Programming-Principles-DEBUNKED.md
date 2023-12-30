@@ -98,9 +98,13 @@ It's possible to make accurate estimates.
 
 **Make pessimistic estimates**
 
-Breakdown tasks into 3 parts, the optimistic duration, the buffer for realistic duration, the buffer for pessimistic duration.
+Breakdown tasks into subtasks.
+Each deepest subtask break it down into 3 parts:
+- the optimistic duration,
+- the buffer for realistic duration,
+- the buffer for pessimistic duration.
 
-By sizing your degree of uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work.
+By sizing your degree of pessimism and therefore uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
 
 Example:
 
