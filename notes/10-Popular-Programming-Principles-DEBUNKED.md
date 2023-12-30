@@ -214,8 +214,6 @@ Focus your optimization efforts on high level evaluations and long term function
 
 Look at the overall process before going into details. 
 
-Ensure that your optimizations align with overarching objectives, preventing fragmented or short-sighted enhancements that might not contribute meaningfully to the project's ultimate goals.
-
 ## ~The less it knows the better (Law of Demeter)~
 
 Writing wrappers to satisfy LoD always leads to significant performance and maintainability issues.
