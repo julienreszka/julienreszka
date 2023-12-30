@@ -164,6 +164,8 @@ Example:
         - [ ] ABCB pessimistic buffer 10 min
 ```
 
+In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This subtask should be investigated for potential specifications improvements.
+
 ## ~Premature Optimization is the root of all evil (Donald Knuth)~
 
 Delaying optimization until later stages will lead to significant performance issues that are costly to rectify.
