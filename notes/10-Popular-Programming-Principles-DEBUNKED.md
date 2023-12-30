@@ -238,6 +238,11 @@ As the website nears completion, the team starts testing and realizes that the s
 
 Upon investigation, it's discovered that the website's code is not optimized. Images are not properly compressed, resulting in larger file sizes that slow down page loading times. The code for fetching and displaying product information is inefficient, causing delays in rendering pages. Additionally, the database queries are not optimized, leading to slow retrieval of information.
 
+
+Customers don't go through the whole purchasing process even though it is possible because they are used to faster load times.
+
+The consequence is that the competition is beating them on every metric because the laggy website causes a very high bounce rate: visitors leave the page.
+
 Now, to rectify these performance issues, the team needs to conduct a thorough optimization process. They have to compress images, refactor code to improve efficiency, optimize database queries, and possibly even redesign certain functionalities to enhance performance.
 
 This optimization phase becomes time-consuming and costly. The team needs to allocate resources to rework various aspects of the website to make it more responsive and faster for users. Moreover, during the period of slow performance, the website might have lost potential customers who were deterred by the sluggish user experience.
