@@ -96,7 +96,7 @@ Sanitize data, Parameterize queries, use whitelists.
 
 It's possible to make accurate estimates.
 
-**Make pessimistic estimates**
+**Refine your estimates as you refine your specifications by sizing your pessimism**
 
 Breakdown tasks into subtasks.
 Each deepest subtask break it down into 3 parts:
