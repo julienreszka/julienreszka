@@ -212,7 +212,9 @@ Delaying optimization until later stages will lead to significant performance is
 
 Focus your optimization efforts on high level evaluations and long term functional requirements.
 
-Look at the overall process before going into details.
+Look at the overall process before going into details. 
+
+Ensure that your optimizations align with overarching objectives, preventing fragmented or short-sighted enhancements that might not contribute meaningfully to the project's ultimate goals.
 
 ## ~The less it knows the better (Law of Demeter)~
 
