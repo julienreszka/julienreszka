@@ -4,7 +4,7 @@ Contrary to popular belief, good programmers aren't lazy.
 
 It may seem like they are because some of the most lazy programming principles have been widely adopted and celebrated in the programming community.
 
-In reality, those principles were adopted because there are a lot of bad programmers out there.
+In reality, those principles were widely adopted because there are a lot of lazy and bad programmers out there.
 
 In fact, good programmers are often hard working, disciplined, methodical, and strategic in their approach.
 
