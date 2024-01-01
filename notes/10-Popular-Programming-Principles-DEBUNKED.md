@@ -14,7 +14,7 @@ Let's explore some of the widely adopted programming principles that are debunke
 
 Tight coupling makes a system less flexible and harder to maintain.
 
-If two things look the same today it doesn't mean they will stay the same tomorrow. 
+If two things look the same today it doesn't mean they will look the same tomorrow. 
 
 Most likely they will diverge in upcoming versions.
 
