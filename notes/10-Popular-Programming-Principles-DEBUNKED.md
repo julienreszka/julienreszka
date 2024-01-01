@@ -26,6 +26,8 @@ Generalize only after a threshold of repetition.
 
 Duplications are less costly to modify and adjust than abstractions and there is never enough granularity.
 
+Add a warning comment that lists other places where similar code is in use.
+
 Use global search to find all the places where something is used, use regex to be more effective in your search.
 
 ## ~Keep it simple stupid (KISS)~
