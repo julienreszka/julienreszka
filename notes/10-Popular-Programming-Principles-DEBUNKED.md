@@ -36,7 +36,7 @@ Certain problems are inherently complex.
 
 PUSH: Perfect Until Sufficiently Honed
 
-Architecture it such it can be perfected.
+Architecture your functionalities such that they can be perfected.
 
 It's highly unlikely that you will get it right on the first try so make sure you will be able to improve it on next iterations.
 
