@@ -28,7 +28,7 @@ Duplications are less costly to modify and adjust than abstractions and there is
 
 Add a warning comment that lists other places where similar code is in use and attach and identifier to make it easier to search for duplicates.
 
-Use global search to find all the places where something is used, use regex to be more effective in your search.
+Use global search to find all the places where something is used, use regex to be more precise and effective in your search.
 
 ## ~Keep it simple stupid (KISS)~
 
