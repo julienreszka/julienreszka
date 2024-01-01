@@ -24,7 +24,7 @@ WET: Write everything twice
 
 Generalize only after a threshold of repetition.
 
-Duplications are less costly to modify and adjust than wrong abstractions and there is never enough granularity.
+Duplications are less costly to modify and adjust than abstractions and there is never enough granularity.
 
 Use global search to find all the places where something is used, use regex to be more effective in your search.
 
