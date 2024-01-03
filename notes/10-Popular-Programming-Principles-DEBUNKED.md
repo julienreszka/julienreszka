@@ -190,9 +190,9 @@ It's possible to make accurate estimates.
 
 Breakdown tasks into subtasks.
 Each deepest subtask break it down into 3 parts:
-- the optimistic duration,
-- the buffer for realistic duration,
-- the buffer for pessimistic duration.
+- the optimistic duration, the duration it will take if everything goes smoothly
+- the buffer for realistic duration, the additional duration it will take to fix eventual mistakes
+- the buffer for pessimistic duration, the additional duration caused by uncertainty and lack of clarity in specifications
 
 By sizing your degree of pessimism and therefore uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
 
