@@ -226,6 +226,8 @@ By sizing your degree of pessimism and therefore uncertainty for each task you w
 
 In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This subtask should be investigated for potential specifications improvements.
 
+If the clarification of the specifications takes longer than the pessimistic buffer, maybe it's not worth it to clarify and just go with common sense.
+
 ## ~Premature Optimization is the root of all evil (Donald Knuth)~
 
 Delaying optimization until later stages will lead to significant performance issues that are costly to rectify and will lead to product market fit failure.
