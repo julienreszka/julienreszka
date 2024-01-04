@@ -188,13 +188,18 @@ It's possible to make accurate estimates.
 
 **Refine your estimates as you refine your specifications by sizing your pessimism**
 
-Breakdown tasks into subtasks.
-Each deepest subtask break it down into 3 parts:
-- the optimistic duration, the duration it will take if everything goes smoothly, no mistakes, no uncertainties
+Make a Work Breakdown Structure (WBS).
+
+Breakdown a project into components and subcomponents.
+
+Do not break it down into tasks. Here we're talking about "definitions of done" not tasks.
+
+Each deepest subcomponent break it down into 3 parts:
+- the optimistic duration, the duration it will take to make if everything goes smoothly, no mistakes, no uncertainties
 - the buffer for realistic duration, the additional duration it will take to fix eventual mistakes
 - the buffer for pessimistic duration, the additional duration caused by uncertainty and lack of clarity in specifications
 
-By sizing your degree of pessimism and therefore uncertainty for each task you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
+By sizing your degree of pessimism and therefore uncertainty for each livrable you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
 
 ### For Example:
 
