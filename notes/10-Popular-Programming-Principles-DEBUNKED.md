@@ -229,7 +229,7 @@ By sizing your degree of pessimism and therefore uncertainty for each livrable y
         - [ ] ABCB pessimistic buffer 10 min
 ```
 
-In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This subtask should be investigated for potential specifications improvements.
+In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This subcomponent should be investigated for potential specifications improvements.
 
 If the clarification of the specifications takes longer than the pessimistic buffer, maybe it's not worth it to clarify and just go with common sense.
 
