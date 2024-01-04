@@ -248,7 +248,7 @@ Make use of:
 - load tests, responses to different levels of activity
 - scalability tests, resource usage as activity grows
 - stress tests, stability as we get closer to the edge
-- reliability tests, consistency over time
+- reliability tests, consistency in error handling over time
 
 ### For example
 
