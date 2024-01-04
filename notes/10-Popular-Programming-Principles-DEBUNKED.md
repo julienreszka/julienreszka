@@ -244,7 +244,7 @@ Focus your optimization efforts on high level evaluations and long term function
 Look at the overall process before going into details. 
 
 Make use of:
-- speed tests, time to execute a certain operations
+- speed tests, time to execute certain operations
 - load tests, responses to different levels of activity
 - scalability tests, resource usage as activity grows
 - stress tests, stability as we get closer to the edge
