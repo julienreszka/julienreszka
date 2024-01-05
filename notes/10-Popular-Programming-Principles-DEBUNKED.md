@@ -255,9 +255,9 @@ Make use of a verity of test:
 - reliability tests, high consistency in error handling over time
 
 Characteristics of long-term functional requirements (LFRs):
-- Core functionality, capable of addressing the needs of the company to deliver the unique value proposition
-- Durable and scalable, capable of withstanding a growing demand
-- Aligned with the product vision, capable of placing the company as the leader of the market
+- Core functionality, capable of addressing the needs of the company to deliver the unique value proposition, for example supporting sales, marketing, product delivery
+- Durable and scalable, capable of withstanding a growing demand, for example supporting multiple languages, devices, currencies
+- Aligned with the product vision, capable of placing the company as the leader of the market, for example supporting de facto standards
 
 ### For example
 
