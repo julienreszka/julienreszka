@@ -30,6 +30,93 @@ Use comments to Lists places where similar code is in use and attach an identifi
 
 Use global search to find all the places where something is used, use regex to be more precise and effective in your search.
 
+### For example
+
+Let's consider a scenario where you're developing a web application that allows users to calculate the area of different shapes.
+
+You might be tempted to write a single function to calculate the area of all shapes:
+
+```js
+function calculateArea(shape, width, height) {
+  if (shape === "rectangle") {
+    return width * height;
+  } else if (shape === "square") {
+    return width * width;
+  } else if (shape === "circle") {
+    return Math.PI * width * width;
+  } else if (shape === "triangle") {
+    return 0.5 * width * height;
+  } else {
+    throw new Error("Unsupported shape");
+  }
+}
+```
+
+The issue with this is that it violates the Single Responsibility Principle (SRP). The function is responsible for calculating the area of all shapes, which means it has multiple reasons to change. If a new shape is added, the function needs to be updated to include the new shape. If the calculation logic for a shape changes, the function needs to be updated to reflect the new logic. This makes the function more complex and harder to maintain.
+
+```js
+// Functions to calculate the area for different shapes
+function calculateRectangleArea(width, height) {
+  return width * height;
+}
+
+function calculateSquareArea(width) {
+  return width * width;
+}
+
+function calculateCircleArea(radius) {
+  return Math.PI * radius * radius;
+}
+
+function calculateTriangleArea(base, height) {
+  return 0.5 * base * height;
+}
+
+const shapeCalculations = {
+  rectangle: calculateRectangleArea,
+  square: calculateSquareArea,
+  circle: calculateCircleArea,
+  triangle: calculateTriangleArea,
+};
+
+const isFunctionDefined = function (func) {
+  return typeof func === "function";
+};
+
+const featureFlags = {
+  rectangle: true,
+  square: true,
+  circle: false,
+  triangle: true,
+};
+
+const canCalculateArea = function (shape) {
+  const reasons = [];
+
+  if (!(shape in featureFlags))
+    reasons.push(`Calculation for ${shape} is not supported`);
+  if (featureFlags[shape] === false)
+    reasons.push(`Calculation for ${shape} is disabled`);
+
+  if (featureFlags[shape] && !isFunctionDefined(shapeCalculations[shape])) {
+    reasons.push(`Calculation function for ${shape} is not defined`);
+  }
+
+  return { canCalculate: reasons.length === 0, reasons };
+};
+
+function calculateArea(shape, ...args) {
+  const calculationFeasibility = canCalculateArea(shape);
+
+  if (calculationFeasibility.canCalculate) {
+    const calculationFunction = shapeCalculations[shape];
+    return calculationFunction(...args);
+  }
+
+  throw new Error(calculationFeasibility.reasons.join("\n"));
+}
+```
+
 ## ~Keep it simple stupid (KISS)~
 
 Certain problems are inherently complex.
@@ -53,8 +140,8 @@ Here's what KISS would preconise.
 ```js
 // Simple messaging app implementation
 function sendMessage(message) {
-    // Code to send the message
-    console.log(`Sending message: ${message}`);
+  // Code to send the message
+  console.log(`Sending message: ${message}`);
 }
 
 sendMessage("Hello, world!"); // Initial implementation
@@ -63,37 +150,36 @@ sendMessage("Hello, world!"); // Initial implementation
 Here's what it should look like instead with PUSH.
 
 ```js
-
 // Feature toggle flags
 const encryptionEnabled = true;
 const formattingEnabled = true;
 
 // Function to encrypt the message
 function encryptMessage(message) {
-    // Simulated encryption logic
-    return `Encrypted: ${message}`;
+  // Simulated encryption logic
+  return `Encrypted: ${message}`;
 }
 
 // Function to format the message
 function formatMessage(message) {
-    // Simulated formatting logic
-    return `Formatted: ${message}`;
+  // Simulated formatting logic
+  return `Formatted: ${message}`;
 }
 
 // Function to send a message with optional encryption and formatting
 function sendMessage(message) {
-    let processedMessage = message;
+  let processedMessage = message;
 
-    if (encryptionEnabled) {
-        processedMessage = encryptMessage(processedMessage);
-    }
+  if (encryptionEnabled) {
+    processedMessage = encryptMessage(processedMessage);
+  }
 
-    if (formattingEnabled) {
-        processedMessage = formatMessage(processedMessage);
-    }
+  if (formattingEnabled) {
+    processedMessage = formatMessage(processedMessage);
+  }
 
-    // Simulated sending of the processed message
-    console.log(`Sending message: ${processedMessage}`);
+  // Simulated sending of the processed message
+  console.log(`Sending message: ${processedMessage}`);
 }
 
 // Initial message without encryption and formatting
