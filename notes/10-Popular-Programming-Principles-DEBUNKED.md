@@ -331,7 +331,7 @@ Characteristics of long-term functional requirements (LFRs):
 
 - Core functionality, capable of addressing the needs of the company to deliver the unique value proposition, for example supporting sales, marketing, product delivery
 - Durable and scalable, capable of withstanding a growing demand, for example supporting multiple languages, devices, currencies
-- Aligned with the product vision, capable of placing the company as the leader of the market, for example supporting de facto standards
+- Aligned with the product vision, capable of placing the company as the leader of the market, for example supporting de facto standards and becoming a de facto standard
 
 ### For example
 
