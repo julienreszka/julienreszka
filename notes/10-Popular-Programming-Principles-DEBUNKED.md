@@ -54,6 +54,8 @@ function calculateArea(shape, width, height) {
 
 The issue with this is that it violates the Single Responsibility Principle (SRP). The function is responsible for calculating the area of all shapes, which means it has multiple reasons to change. If a new shape is added, the function needs to be updated to include the new shape. If the calculation logic for a shape changes, the function needs to be updated to reflect the new logic. This makes the function more complex and harder to maintain.
 
+Let's consider an alternative approach where we write a separate function for each shape to follow the WET principle
+
 ```js
 // Functions to calculate the area for different shapes
 function calculateRectangleArea(width, height) {
