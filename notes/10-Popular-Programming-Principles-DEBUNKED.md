@@ -14,7 +14,7 @@ Let's explore some of the widely adopted programming principles that are debunke
 
 Tight coupling makes a system less flexible and harder to maintain.
 
-If two things look the same today it doesn't mean they will look the same tomorrow. 
+If two things look the same today it doesn't mean they will look the same tomorrow.
 
 Most likely they will diverge in upcoming versions.
 
@@ -54,7 +54,7 @@ Recognize that Mistakes happen but also that Failure is not an option.
 
 Make sure that if there are defects, they have a workaround and they are in secondary features.
 
-Classify defects severity with "has_no_workaround" and "is_critical_component" flags. 
+Classify defects severity with "has_no_workaround" and "is_critical_component" flags.
 
 The more flags checked, the more severe the defect.
 
@@ -67,8 +67,9 @@ You can evaluate whether there is a workaround by looking at what other componen
 Let's make an analogy with the human body.
 
 The heart is a critical component becauuse many organs directly relying on the hearts functions:
-- The brain, requires a constant supply of oxygen and nutrients carried by blood 
-- The kidneys, proper blood flow is necessary for their filtration process 
+
+- The brain, requires a constant supply of oxygen and nutrients carried by blood
+- The kidneys, proper blood flow is necessary for their filtration process
 - The liver, relies on a steady supply of oxygenated blood to digest
 - The lungs, require a good blood supply to sustain their own cellular functions
 - The muscles, require oxygen and nutrients to function during activities
@@ -80,8 +81,6 @@ The index finger, while important for dexterity and fine motor skills, has some 
 - Adaptation of Hand Movement: With practice and adaptation, individuals can learn to use different hand movements or techniques to perform tasks that primarily involve the index finger. They might adjust their grip or use alternative methods.
 - Tools and Aids: Depending on the task, various tools or aids can substitute for the index finger. For instance, using a stylus or certain types of grips for writing, typing, or handling objects can mitigate the absence of the index finger.
 - Rehabilitation and Prosthetics: Advances in medical technology provide prosthetic options or rehabilitation methods that can partially restore the functionality of the index finger. Prosthetics and rehabilitation therapy can help individuals regain some dexterity and movement.
-
-
 
 ## ~Fail Fast~
 
@@ -102,45 +101,44 @@ Let's say you want to validate that a user can submit a login form.
 Fail fast would require you to write a function like that:
 
 ```js
-const canSubmit = function(email, password){
+const canSubmit = function (email, password) {
   if (!email) {
-     return false 
+    return false;
   }
   if (!password) {
-    return false
+    return false;
   }
-  return true
-}
+  return true;
+};
 ```
 
 Instead, it should be written this way:
 
 ```ts
+const reasonsToDisableSubmitButton = function (email, password): string[] {
+  let reasons = [];
+  if (!email) {
+    reasons.push("missing email");
+  }
+  if (!password) {
+    reasons.push("missing password");
+  }
+  if (password.length < 8) {
+    reasons.push("password too short");
+  }
+  if (password === "123456789") {
+    reasons.push("password too easy");
+  }
+  return reasons;
+};
 
-const reasonsToDisableSubmitButton = function(email, password):string[] {
-  let reasons = []
-  if (!email){
-     reasons.push('missing email')
-  }
-  if (!password){
-     reasons.push('missing password')
-  }
-  if (password.length < 8){
-     reasons.push('password too short')
-  }
-  if (password === '123456789'){
-     reasons.push('password too easy')
-  }
-  return reasons
-}
-
-const canSubmit = function(email, password){
-const reasons = reasonsToDisableSubmitButton(email, password)
+const canSubmit = function (email, password) {
+  const reasons = reasonsToDisableSubmitButton(email, password);
   if (reasons.length > 0) {
-     return false 
+    return false;
   }
-  return true
-}
+  return true;
+};
 ```
 
 ## ~Read the fucking manual (RTFM)~
@@ -175,11 +173,12 @@ It's ok if a UI component doesn't match the style of the app but makes things ea
 
 Write functional requirements that say what `a feature` `in a specific context` `allows or does not allow` `users with a certain role` `to do` `by doing what`.
 
-### For example 
+### For example
 
 Breaking down the YouTube UI into components might look like this:
 
 #### Components of YouTube UI:
+
 1. **Header**: Contains the search bar, YouTube logo, and navigation links.
 2. **Sidebar**: Displays subscription channels, library, and trending videos.
 3. **Video Player**: Displays the selected video along with playback controls.
@@ -192,20 +191,23 @@ Breaking down the YouTube UI into components might look like this:
 1. **Header**:
    - **Allows** all users to search for videos **by typing keywords** into the search bar.
    - **Does not allow** unauthorized users to access creator studio settings.
-   
 2. **Sidebar**:
+
    - **Allows** logged-in users to access their subscription channels and manage playlists.
    - **Does not allow** users without an account to view subscription content.
 
 3. **Video Player**:
+
    - **Allows** all users to play, pause, and control the volume of the video being watched.
    - **Does not allow** users to download the video directly from the player.
 
 4. **Comments Section**:
+
    - **Allows** logged-in users to post comments and replies on the video.
    - **Does not allow** users with a viewer role to delete other users' comments.
 
 5. **Recommendation Section**:
+
    - **Allows** all users to view recommended videos based on their watch history.
    - **Does not allow** users to disable the recommendation feature entirely.
 
@@ -268,6 +270,7 @@ Breakdown a project into components and subcomponents.
 Do not break it down into tasks. Here we're talking about "definitions of done" not tasks.
 
 Each deepest subcomponent break it down into 3 parts:
+
 - the optimistic duration, the duration it will take to make if everything goes smoothly, no mistakes, no uncertainties
 - the buffer for realistic duration, the additional duration it will take to fix eventual mistakes
 - the buffer for pessimistic duration, the additional duration caused by uncertainty and lack of clarity in specifications
@@ -314,9 +317,10 @@ Delaying optimization until later stages will lead to significant performance is
 
 Focus your optimization efforts on high level evaluations and long term functional requirements (LFRs).
 
-Look at the overall process before going into details. 
+Look at the overall process before going into details.
 
 Make use of a variety of test:
+
 - speed tests, short time to execute critical operations
 - load tests, fast responses to different levels of activity
 - scalability tests, low resource utilization as activity grows
@@ -324,6 +328,7 @@ Make use of a variety of test:
 - reliability tests, high consistency in error handling over time
 
 Characteristics of long-term functional requirements (LFRs):
+
 - Core functionality, capable of addressing the needs of the company to deliver the unique value proposition, for example supporting sales, marketing, product delivery
 - Durable and scalable, capable of withstanding a growing demand, for example supporting multiple languages, devices, currencies
 - Aligned with the product vision, capable of placing the company as the leader of the market, for example supporting de facto standards
@@ -339,7 +344,6 @@ However, optimization for performance is not a priority during this phase. As th
 As the website nears completion, the team starts testing and realizes that the site is loading slowly. Page load times are high, especially when there's a peak in user traffic. Users experience delays when accessing product pages or navigating between different sections of the site.
 
 Upon investigation, it's discovered that the website's code is not optimized. Images are not properly compressed, resulting in larger file sizes that slow down page loading times. The code for fetching and displaying product information is inefficient, causing delays in rendering pages. Additionally, the database queries are not optimized, leading to slow retrieval of information.
-
 
 Customers don't go through the whole purchasing process even though it is possible because they are used to faster load times.
 
