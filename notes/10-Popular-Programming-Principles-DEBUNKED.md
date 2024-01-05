@@ -44,6 +44,69 @@ It's highly unlikely that you will get it right on the first try so make sure yo
 
 Use feature toggles to architecture your app in an extensible way.
 
+### For example
+
+Let's say we're making a messaging app.
+
+Here's what KISS would preconise.
+
+```js
+// Simple messaging app implementation
+function sendMessage(message) {
+    // Code to send the message
+    console.log(`Sending message: ${message}`);
+}
+
+sendMessage("Hello, world!"); // Initial implementation
+```
+
+Here's what it should look like instead with PUSH.
+
+```js
+
+// Feature toggle flags
+const encryptionEnabled = true;
+const formattingEnabled = true;
+
+// Function to encrypt the message
+function encryptMessage(message) {
+    // Simulated encryption logic
+    return `Encrypted: ${message}`;
+}
+
+// Function to format the message
+function formatMessage(message) {
+    // Simulated formatting logic
+    return `Formatted: ${message}`;
+}
+
+// Function to send a message with optional encryption and formatting
+function sendMessage(message) {
+    let processedMessage = message;
+
+    if (encryptionEnabled) {
+        processedMessage = encryptMessage(processedMessage);
+    }
+
+    if (formattingEnabled) {
+        processedMessage = formatMessage(processedMessage);
+    }
+
+    // Simulated sending of the processed message
+    console.log(`Sending message: ${processedMessage}`);
+}
+
+// Initial message without encryption and formatting
+sendMessage("Hello, world!");
+
+// Later iteration: toggling features
+encryptionEnabled = false; // Disable encryption
+formattingEnabled = true; // Enable formatting
+
+// Sending a message with updated feature toggles
+sendMessage("Goodbye, world!");
+```
+
 ## ~You Ain't Gonna Need It (YAGNI)~
 
 Accumulating defects will inevitably lead to some kind of failure.
