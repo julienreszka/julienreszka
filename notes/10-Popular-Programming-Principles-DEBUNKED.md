@@ -60,7 +60,7 @@ The more flags checked, the more severe the defect.
 
 You can evaluate the criticality of a component based on how much other components rely on it to function properly.
 
-You can evaluate the whether there is a workaround by looking at what other components could perform the same functionality.
+You can evaluate whether there is a workaround by looking at what other components could perform the same functionality.
 
 ## ~Fail Fast~
 
