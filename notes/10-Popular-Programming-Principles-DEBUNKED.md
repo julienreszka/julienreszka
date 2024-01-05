@@ -95,6 +95,54 @@ Crashing an airplane won't teach you as much as using a wind tunnel to fly a mod
 
 Instead of returning immediately a single error, make an observable arrays of reasons to abort so that you can solve all at once instead of one by one.
 
+### For example
+
+Let's say you want to validate that a user can submit a login form.
+
+Fail fast would require you to write a function like that:
+
+```js
+const canSubmit = function(email, password){
+  if (!email) {
+     return false 
+  }
+  if (!password) {
+    return false
+  }
+  return true
+}
+```
+
+Instead, it should be written this way:
+
+```ts
+
+const reasonsToDisableSubmitButton = function(email, password):string[] {
+  let reasons = []
+  if (!email){
+     reasons.push('missing email')
+  }
+  if (!password){
+     reasons.push('missing password')
+  }
+  if (password.length < 8){
+     reasons.push('password too short')
+  }
+  if (password === '123456789'){
+     reasons.push('password too easy')
+  }
+  return reasons
+}
+
+const canSubmit = function(email, password){
+const reasons = reasonsToDisableSubmitButton(email, password)
+  if (reasons.length > 0) {
+     return false 
+  }
+  return true
+}
+```
+
 ## ~Read the fucking manual (RTFM)~
 
 Manuals are often out of date.
@@ -268,7 +316,7 @@ Focus your optimization efforts on high level evaluations and long term function
 
 Look at the overall process before going into details. 
 
-Make use of a verity of test:
+Make use of a variety of test:
 - speed tests, short time to execute critical operations
 - load tests, fast responses to different levels of activity
 - scalability tests, low resource utilization as activity grows
