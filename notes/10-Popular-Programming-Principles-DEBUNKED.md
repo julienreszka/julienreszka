@@ -10,6 +10,141 @@ In fact, good programmers are often hard working, disciplined, methodical, and s
 
 Let's explore some of the widely adopted programming principles that are debunked and rejected by experienced developers.
 
+## ~Keep it simple stupid (KISS)~
+
+Certain problems are inherently complex.
+
+**Don't keep it simple stupid.**
+
+PUSH: Perfect Until Sufficiently Honed
+
+Architecture your functionalities such that they can be perfected.
+
+It's highly unlikely that you will get it right on the first try so make sure you will be able to improve it on next iterations.
+
+Use feature toggles to architecture your app in an extensible way.
+
+### For example
+
+Let's say we're making a messaging app.
+
+Here's what KISS would preconise.
+
+```js
+// Simple messaging app implementation
+function sendMessage(message) {
+  // Code to send the message
+  console.log(`Sending message: ${message}`);
+}
+
+sendMessage("Hello, world!"); // Initial implementation
+```
+
+Here's what it should look like instead with PUSH.
+
+```js
+// Feature toggle flags
+const encryptionEnabled = true;
+const formattingEnabled = true;
+
+// Function to encrypt the message
+function encryptMessage(message) {
+  // Simulated encryption logic
+  return `Encrypted: ${message}`;
+}
+
+// Function to format the message
+function formatMessage(message) {
+  // Simulated formatting logic
+  return `Formatted: ${message}`;
+}
+
+// Function to send a message with optional encryption and formatting
+function sendMessage(message) {
+  let processedMessage = message;
+
+  if (encryptionEnabled) {
+    processedMessage = encryptMessage(processedMessage);
+  }
+
+  if (formattingEnabled) {
+    processedMessage = formatMessage(processedMessage);
+  }
+
+  // Simulated sending of the processed message
+  console.log(`Sending message: ${processedMessage}`);
+}
+
+// Initial message without encryption and formatting
+sendMessage("Hello, world!");
+
+// Later iteration: toggling features
+encryptionEnabled = false; // Disable encryption
+formattingEnabled = true; // Enable formatting
+
+// Sending a message with updated feature toggles
+sendMessage("Goodbye, world!");
+```
+
+## ~Fail Fast~
+
+Failure is a significant drain on resources.
+
+**Recover quickly.**
+
+Develop mechanisms of control.
+
+Crashing an airplane won't teach you as much as using a wind tunnel to fly a model in an environment that you can control.
+
+Instead of returning immediately a single error, make an observable arrays of reasons to abort so that you can solve all at once instead of one by one.
+
+### For example
+
+Let's say you want to validate that a user can submit a login form.
+
+Fail fast would require you to write a function like that:
+
+```js
+const canSubmit = function (email, password) {
+  if (!email) {
+    return false;
+  }
+  if (!password) {
+    return false;
+  }
+  return true;
+};
+```
+
+Instead, it should be written this way:
+
+```ts
+const reasonsToDisableSubmitButton = function (email, password): string[] {
+  let reasons = [];
+  if (!email) {
+    reasons.push("missing email");
+  }
+  if (!password) {
+    reasons.push("missing password");
+  }
+  if (password.length < 8) {
+    reasons.push("password too short");
+  }
+  if (password === "123456789") {
+    reasons.push("password too easy");
+  }
+  return reasons;
+};
+
+const canSubmit = function (email, password) {
+  const reasons = reasonsToDisableSubmitButton(email, password);
+  if (reasons.length > 0) {
+    return false;
+  }
+  return true;
+};
+```
+
 ## ~Don't Repeat yourself (DRY)~
 
 Tight coupling makes a system less flexible and harder to maintain.
@@ -119,82 +254,6 @@ function calculateArea(shape, ...args) {
 }
 ```
 
-## ~Keep it simple stupid (KISS)~
-
-Certain problems are inherently complex.
-
-**Don't keep it simple stupid.**
-
-PUSH: Perfect Until Sufficiently Honed
-
-Architecture your functionalities such that they can be perfected.
-
-It's highly unlikely that you will get it right on the first try so make sure you will be able to improve it on next iterations.
-
-Use feature toggles to architecture your app in an extensible way.
-
-### For example
-
-Let's say we're making a messaging app.
-
-Here's what KISS would preconise.
-
-```js
-// Simple messaging app implementation
-function sendMessage(message) {
-  // Code to send the message
-  console.log(`Sending message: ${message}`);
-}
-
-sendMessage("Hello, world!"); // Initial implementation
-```
-
-Here's what it should look like instead with PUSH.
-
-```js
-// Feature toggle flags
-const encryptionEnabled = true;
-const formattingEnabled = true;
-
-// Function to encrypt the message
-function encryptMessage(message) {
-  // Simulated encryption logic
-  return `Encrypted: ${message}`;
-}
-
-// Function to format the message
-function formatMessage(message) {
-  // Simulated formatting logic
-  return `Formatted: ${message}`;
-}
-
-// Function to send a message with optional encryption and formatting
-function sendMessage(message) {
-  let processedMessage = message;
-
-  if (encryptionEnabled) {
-    processedMessage = encryptMessage(processedMessage);
-  }
-
-  if (formattingEnabled) {
-    processedMessage = formatMessage(processedMessage);
-  }
-
-  // Simulated sending of the processed message
-  console.log(`Sending message: ${processedMessage}`);
-}
-
-// Initial message without encryption and formatting
-sendMessage("Hello, world!");
-
-// Later iteration: toggling features
-encryptionEnabled = false; // Disable encryption
-formattingEnabled = true; // Enable formatting
-
-// Sending a message with updated feature toggles
-sendMessage("Goodbye, world!");
-```
-
 ## ~You Ain't Gonna Need It (YAGNI)~
 
 Accumulating defects will inevitably lead to some kind of failure.
@@ -232,65 +291,6 @@ The index finger, while important for dexterity and fine motor skills, has some 
 - Adaptation of Hand Movement: With practice and adaptation, individuals can learn to use different hand movements or techniques to perform tasks that primarily involve the index finger. They might adjust their grip or use alternative methods.
 - Tools and Aids: Depending on the task, various tools or aids can substitute for the index finger. For instance, using a stylus or certain types of grips for writing, typing, or handling objects can mitigate the absence of the index finger.
 - Rehabilitation and Prosthetics: Advances in medical technology provide prosthetic options or rehabilitation methods that can partially restore the functionality of the index finger. Prosthetics and rehabilitation therapy can help individuals regain some dexterity and movement.
-
-## ~Fail Fast~
-
-Failure is a significant drain on resources.
-
-**Recover quickly.**
-
-Develop mechanisms of control.
-
-Crashing an airplane won't teach you as much as using a wind tunnel to fly a model in an environment that you can control.
-
-Instead of returning immediately a single error, make an observable arrays of reasons to abort so that you can solve all at once instead of one by one.
-
-### For example
-
-Let's say you want to validate that a user can submit a login form.
-
-Fail fast would require you to write a function like that:
-
-```js
-const canSubmit = function (email, password) {
-  if (!email) {
-    return false;
-  }
-  if (!password) {
-    return false;
-  }
-  return true;
-};
-```
-
-Instead, it should be written this way:
-
-```ts
-const reasonsToDisableSubmitButton = function (email, password): string[] {
-  let reasons = [];
-  if (!email) {
-    reasons.push("missing email");
-  }
-  if (!password) {
-    reasons.push("missing password");
-  }
-  if (password.length < 8) {
-    reasons.push("password too short");
-  }
-  if (password === "123456789") {
-    reasons.push("password too easy");
-  }
-  return reasons;
-};
-
-const canSubmit = function (email, password) {
-  const reasons = reasonsToDisableSubmitButton(email, password);
-  if (reasons.length > 0) {
-    return false;
-  }
-  return true;
-};
-```
 
 ## ~Read the fucking manual (RTFM)~
 
