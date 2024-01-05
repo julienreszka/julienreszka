@@ -484,6 +484,9 @@ Characteristics of long-term functional requirements (LFRs):
 - Durable and scalable, capable of withstanding a growing demand, for example supporting multiple languages, devices, currencies
 - Aligned with the product vision, capable of placing the company as the leader of the market, for example supporting de facto standards and becoming a de facto standard
 
+Performance optimization should be part of the development process from the start and sometimes even part of the product.
+For example google displays how many results it found in a fraction of a seconds.
+
 ### For example
 
 Let's consider the development of a website for an e-commerce platform. In this scenario, the team delays optimization until the later stages of development.
