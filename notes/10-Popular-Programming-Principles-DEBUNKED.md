@@ -239,16 +239,21 @@ Delaying optimization until later stages will lead to significant performance is
 
 **Make fast benchmarking part of your development process.**
 
-Focus your optimization efforts on high level evaluations and long term functional requirements.
+Focus your optimization efforts on high level evaluations and long term functional requirements (LFRs).
 
 Look at the overall process before going into details. 
 
-Make use of:
+Make use of a verity of test:
 - speed tests, short time to execute critical operations
 - load tests, fast responses to different levels of activity
 - scalability tests, low resource utilization as activity grows
 - stress tests, high stability as we get closer to the edge
 - reliability tests, high consistency in error handling over time
+
+Characteristics of long-term functional requirements (LFRs):
+- Core functionality, capable of addressing the needs of the company to deliver the unique value proposition
+- Durable and scalable, capable of withstanding a growing demand
+- Aligned with the product vision, capable of placing the company as the leader of the market
 
 ### For example
 
