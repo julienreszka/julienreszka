@@ -62,6 +62,27 @@ You can evaluate the criticality of a component based on how much other componen
 
 You can evaluate whether there is a workaround by looking at what other components could perform the same functionality.
 
+### For example
+
+Let's make an analogy with the human body.
+
+The heart is a critical component becauuse many organs directly relying on the hearts functions:
+- The brain, requires a constant supply of oxygen and nutrients carried by blood 
+- The kidneys, proper blood flow is necessary for their filtration process 
+- The liver, relies on a steady supply of oxygenated blood to digest
+- The lungs, require a good blood supply to sustain their own cellular functions
+- The muscles, require oxygen and nutrients to function during activities
+- The heart itself, the heart also needs a steady supply of oxygenated blood. Coronary arteries supply the heart muscle with the oxygen and nutrients necessary for its own metabolic processes.
+
+The index finger, while important for dexterity and fine motor skills, has some redundancy or workarounds:
+
+- Adjacent fingers: Other fingers can compensate for the loss of the index finger to a certain extent. Tasks like gripping, pointing, or picking up objects can still be accomplished, albeit with some difficulty.
+- Adaptation of Hand Movement: With practice and adaptation, individuals can learn to use different hand movements or techniques to perform tasks that primarily involve the index finger. They might adjust their grip or use alternative methods.
+- Tools and Aids: Depending on the task, various tools or aids can substitute for the index finger. For instance, using a stylus or certain types of grips for writing, typing, or handling objects can mitigate the absence of the index finger.
+- Rehabilitation and Prosthetics: Advances in medical technology provide prosthetic options or rehabilitation methods that can partially restore the functionality of the index finger. Prosthetics and rehabilitation therapy can help individuals regain some dexterity and movement.
+
+
+
 ## ~Fail Fast~
 
 Failure is a significant drain on resources.
