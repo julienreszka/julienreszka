@@ -1,4 +1,4 @@
-# Popular Sales Principles DEBUNKED
+# 10 Popular Sales Principles DEBUNKED
 
 ## ~Understand the Customer~
 
@@ -72,3 +72,23 @@ In practice, customers are often confused by salespeople who use jargon or techn
 
 It's much more important to use simple language that customers can understand.
 Customers will appreciate the clarity and simplicity of your communication.
+
+## ~Be Authentic~
+
+In theory, authenticity is important in sales because customers want to know that they are dealing with a real person.
+In practice, customers are often skeptical of salespeople who seem too friendly or eager to please.
+
+**Stay professional.**
+
+It's much more important to stay professional and avoid being overly friendly or familiar with customers.
+Customers will appreciate the professionalism and respect that you show them.
+
+## ~Be Confident~
+
+In theory, confidence is important in sales because customers want to know that they are dealing with someone who knows what they're talking about.
+In practice, customers are often skeptical of salespeople who seem too confident or arrogant.
+
+**Be humble.**
+
+It's much more important to be humble and admit when you don't know something.
+Customers will appreciate the honesty and humility that you show them.
