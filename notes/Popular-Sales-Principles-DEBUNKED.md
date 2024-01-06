@@ -62,3 +62,13 @@ In practice, customers are confused when sales deviate from the script and can b
 **Be consistent.**
 
 It's much more important to be consistent with your messaging and approach. Customers will appreciate the predictability and reliability of your sales process.
+
+## ~Communicate effectively~
+
+In theory, salespeople should be able to communicate clearly and concisely.
+In practice, customers are often confused by salespeople who use jargon or technical terms.
+
+**Use simple language.**
+
+It's much more important to use simple language that customers can understand.
+Customers will appreciate the clarity and simplicity of your communication.
