@@ -3,7 +3,7 @@
 ## ~Understand the Customer~
 
 In theory, Knowing your customer's needs, pain points, and desires is crucial.
-In practice, Customers don't know what they want so it's a fools errant to try and understand the customer.
+In practice, Customers don't know what they want so it's a fool's errand to try and understand the customer.
 
 **Offer guarantees**
 
@@ -12,11 +12,11 @@ It's much more important to understand what promises the company is capable of k
 ## ~Handle Objections~
 
 In theory, Handling objections effectively involves empathizing with customer concerns and providing solutions.
-In practice, Customers will only oppose you if you try to argue with them.
+In practice, Customers may resist if they perceive a salesperson as argumentative.
 
-**Ask for upfront payments.**
+**Ask for Upfront Payments.**
 
-It's much more important to only handle already committed customers.
+It's essential to focus on customers who have already shown commitment.
 
 ## ~Build Relationships~
 
@@ -34,7 +34,7 @@ In practice, Customers don't like when things are rushed.
 
 **Offer recommendations.**
 
-It's much more important to be help the customer find the right match.
+It's much more important to help the customer find the right match.
 
 ## ~Provide Value Propositions~
 
