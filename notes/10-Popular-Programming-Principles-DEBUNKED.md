@@ -26,20 +26,6 @@ It's highly unlikely that you will get it right on the first try so make sure yo
 
 Use feature toggles to architecture your app in an extensible way.
 
-### Real life example of the disastrous consequences of the keep it simple stupid principle
-
-The Therac-25, a radiation therapy machine used in the 1980s for cancer treatment, was involved in at least six accidents between 1985 and 1987, in which patients were given massive overdoses of radiation. Three of these accidents resulted in the death of the patient, and the other three caused serious injury.
-
-Due to a focus on simplicity and reusing software from a previous model, it had a software flaw that caused severe radiation overdoses in several patients.
-
-The engineers adopted a "keep it simple" approach and reused software components from an earlier version of the machine.
-
-This decision overlooked potential issues arising from the different operational modes of the new machine.
-
-As a result, a race condition occurred in the software. When operators quickly input commands, the machine could deliver radiation doses that were orders of magnitude higher than prescribed.
-
-The Therac-25 accidents are a prime example of the dangers of oversimplification. The engineers focused on reusing existing software components to save time and effort, but this led to a critical flaw in the system.
-
 ### For example
 
 Let's say we're making a messaging app.
@@ -102,6 +88,20 @@ formattingEnabled = true; // Enable formatting
 sendMessage("Goodbye, world!");
 ```
 
+### Real life example of the disastrous consequences of following the keep it simple stupid principle
+
+The Therac-25, a radiation therapy machine used in the 1980s for cancer treatment, was involved in at least six accidents between 1985 and 1987, in which patients were given massive overdoses of radiation. Three of these accidents resulted in the death of the patient, and the other three caused serious injury.
+
+Due to a focus on simplicity and reusing software from a previous model, it had a software flaw that caused severe radiation overdoses in several patients.
+
+The engineers adopted a "keep it simple" approach and reused software components from an earlier version of the machine.
+
+This decision overlooked potential issues arising from the different operational modes of the new machine.
+
+As a result, a race condition occurred in the software. When operators quickly input commands, the machine could deliver radiation doses that were orders of magnitude higher than prescribed.
+
+The Therac-25 accidents are a prime example of the dangers of oversimplification. The engineers focused on reusing existing software components to save time and effort, but this led to a critical flaw in the system.
+
 ## ~Fail Fast~
 
 In theory, failing fast allows you to quickly identify and fix issues.
@@ -115,22 +115,6 @@ Develop mechanisms of control.
 Crashing an airplane won't teach you as much as using a wind tunnel to fly a model in an environment that you can control.
 
 Instead of returning immediately a single error, make an observable arrays of reasons to abort so that you can solve all at once instead of one by one after restarting multiple times.
-
-### Real life example of the disastrous consequences of the fail fast principle
-
-The Boeing 737 MAX is an American narrow-body aircraft series designed and produced by Boeing Commercial Airplanes as the fourth generation of the Boeing 737, succeeding the Boeing 737 Next Generation (NG).
-
-In March 2019, the Boeing 737 MAX was grounded worldwide following two fatal crashes. The U.S. Federal Aviation Administration (FAA) and Boeing identified the cause as a software problem, leading to the Maneuvering Characteristics Augmentation System (MCAS) flight control feature being activated in response to erroneous angle of attack (AoA) information.
-
-On November 18, 2020, the FAA rescinded the order that grounded the 737 MAX, and the aircraft returned to commercial service on December 9, 2020, with a flight by American Airlines.
-
-It is estimated that the grounding of the 737 MAX cost Boeing $20 billion.
-
-Fail fast is a principle that was applied to the development of the 737 MAX.
-
-It lead to the development of a system that was not resilient to failure and that was not able to recover from it. The result was a system that was not safe and that costed Boeing $20 billion.
-
-The principle of failing fast is not the only reason why the 737 MAX failed but it is one of the reasons.
 
 ### For example
 
@@ -179,6 +163,22 @@ const canSubmit = function (email, password) {
 };
 ```
 
+### Real life example of the disastrous consequences of following the fail fast principle
+
+The Boeing 737 MAX is an American narrow-body aircraft series designed and produced by Boeing Commercial Airplanes as the fourth generation of the Boeing 737, succeeding the Boeing 737 Next Generation (NG).
+
+In March 2019, the Boeing 737 MAX was grounded worldwide following two fatal crashes. The U.S. Federal Aviation Administration (FAA) and Boeing identified the cause as a software problem, leading to the Maneuvering Characteristics Augmentation System (MCAS) flight control feature being activated in response to erroneous angle of attack (AoA) information.
+
+On November 18, 2020, the FAA rescinded the order that grounded the 737 MAX, and the aircraft returned to commercial service on December 9, 2020, with a flight by American Airlines.
+
+It is estimated that the grounding of the 737 MAX cost Boeing $20 billion.
+
+Fail fast is a principle that was applied to the development of the 737 MAX.
+
+It lead to the development of a system that was not resilient to failure and that was not able to recover from it. The result was a system that was not safe and that costed Boeing $20 billion.
+
+The principle of failing fast is not the only reason why the 737 MAX failed but it is one of the reasons.
+
 ## ~Don't Repeat yourself (DRY)~
 
 In theory it's better to have a single source of truth to avoid inconsistencies.
@@ -198,23 +198,6 @@ Duplications are less costly to modify and adjust than abstractions and there is
 Use comments to Lists places where similar code is in use and attach an identifier to make it easier to search for duplicates.
 
 Use global search to find all the places where something is used, use regex to be more precise and effective in your search.
-
-### Real life example of the disastrous consequences of the don't repeat yourself principle
-
-On August 1, 2012, Knight Capital Group, a high-frequency trading firm, experienced a software error that caused it to lose $440 million in just 45 minutes. The error was caused by a faulty deployment: Not all servers were updated at the same time, which led to a mismatch between the old and new code. This mismatch caused the system to place erroneous orders, which resulted in massive losses for the company.
-
-The incident also led to a significant drop in the company's stock price, which resulted in a loss of over $10 billion in market value.
-The company was forced to sell itself to a competitor to avoid bankruptcy.
-
-The Knight Capital incident is a prime example of the dangers of the DRY principle.
-
-The company's developers were trying to avoid duplication by replacing old code with new code.
-
-If they had followed the WET principle the old code would have been left in place and the new code would have been added in a separate location.
-
-This would have allowed the company to continue operating while the new code was being tested. If the new code had been found to be faulty, the company could have reverted to the old code without any issues. Instead, the faulty deployment caused massive losses and ultimately led to the company's demise.
-
-It was not the only reason why the company failed but it is one of the reasons.
 
 ### For example
 
@@ -305,6 +288,23 @@ function calculateArea(shape, ...args) {
 }
 ```
 
+### Real life example of the disastrous consequences of following the don't repeat yourself principle
+
+On August 1, 2012, Knight Capital Group, a high-frequency trading firm, experienced a software error that caused it to lose $440 million in just 45 minutes. The error was caused by a faulty deployment: Not all servers were updated at the same time, which led to a mismatch between the old and new code. This mismatch caused the system to place erroneous orders, which resulted in massive losses for the company.
+
+The incident also led to a significant drop in the company's stock price, which resulted in a loss of over $10 billion in market value.
+The company was forced to sell itself to a competitor to avoid bankruptcy.
+
+The Knight Capital incident is a prime example of the dangers of the DRY principle.
+
+The company's developers were trying to avoid duplication by replacing old code with new code.
+
+If they had followed the WET principle the old code would have been left in place and the new code would have been added in a separate location.
+
+This would have allowed the company to continue operating while the new code was being tested. If the new code had been found to be faulty, the company could have reverted to the old code without any issues. Instead, the faulty deployment caused massive losses and ultimately led to the company's demise.
+
+It was not the only reason why the company failed but it is one of the reasons.
+
 ## ~You Ain't Gonna Need It (YAGNI)~
 
 In theory, it's better to avoid over-engineering and only implement what's needed.
@@ -345,6 +345,26 @@ The index finger, while important for dexterity and fine motor skills, has some 
 - Tools and Aids: Depending on the task, various tools or aids can substitute for the index finger. For instance, using a stylus or certain types of grips for writing, typing, or handling objects can mitigate the absence of the index finger.
 - Rehabilitation and Prosthetics: Advances in medical technology provide prosthetic options or rehabilitation methods that can partially restore the functionality of the index finger. Prosthetics and rehabilitation therapy can help individuals regain some dexterity and movement.
 
+### Real life example of the disastrous consequences of following the YAGNI principle
+
+The Ariane 5 rocket failure in 1996 was attributed to a software error.
+
+The rocket swerved off course and exploded 40 seconds after liftoff due to an unhandled overflow/carryover during a 64-to-16-bit floating point to signed integer conversion.
+
+The module responsible for the exception was redundant at the time of the crash, and its function was related to alignment before lift-off, required to run for some time after lift-off with the previous version, Ariane 4.
+
+The oversights in the software resulted in a genuine disaster. The possibility of this Operand Error had been considered, but due to maximum workload constraints, protection was only applied to four of seven variables, despite the fact that analyses showed that this particular conversion could throw an Operand Exception.
+
+This is most likely due to the system constraints, in addition to a combination of reasonably high certainty that this error would not occur.
+
+The failure was a result of a tragic lack of humility and a requirements error.
+
+Had they not followed the YAGNI principle, they would have been able to prepare the system for what was required and avoid the failure.
+
+It caused a loss of around $370 million and a reputation loss for the European Space Agency and the French space program.
+
+It was not the only reason why the rocket failed but it is one of the reasons.
+
 ## ~Read the fucking manual (RTFM)~
 
 In theory, the manual contains all the information needed to use the system effectively and efficiently. It should be the primary source of information for users.
@@ -366,6 +386,22 @@ For instance, imagine a scenario where the Git documentation hasn't been updated
 In such a case, relying solely on the manual might lead users to follow outdated or less efficient procedures. However, proactive exploration and testing within the Git system could reveal this new command and its functionalities. Users who delve into the system and compare their expectations of functionality based on the manual with the actual capabilities of the updated Git version might notice discrepancies.
 
 These users could then contribute by informing the maintainers about the missing or outdated information in the documentation. By doing so, they help the maintainers update the manual, ensuring that it accurately reflects the current features and capabilities of the Git system. This, in turn, assists other users who rely on the documentation to utilize the latest and most efficient tools available within Git.
+
+### Real life example of the disastrous consequences of following the RTFM principle
+
+Consider the case of the Mars Climate Orbiter mission in 1999. The mission aimed to study the Martian climate, but unfortunately, it ended in failure due to a navigation error.
+
+The spacecraft was equipped with thrusters for course corrections. However, there was a critical issue in the navigation system that led to the spacecraft getting too close to Mars during its orbital insertion. The problem originated from a mix-up in units: one part of the team used imperial units (pound-seconds) for thruster calculations, while another part used metric units (newton-seconds) in the navigation software.
+
+The discrepancy between these measurement units led to miscalculations in the spacecraft's trajectory. As a result, the spacecraft came too close to Mars and entered the planet's atmosphere, ultimately disintegrating due to the extreme heat and forces.
+
+The mission's failure stemmed from a communication breakdown between different teams and contractors, that both reliance on assumed standards. The information provided in the manuals and documentation didn't highlight the importance of unit consistency across different parts of the mission, leading to catastrophic consequences.
+
+This event underscores the significance of meticulous cross-verification of systems, and an understanding beyond what the manual explicitly covers.
+
+Had they not followed the RTFM principle, they would have focused on writing assertions to probe the system and would have been able to avoid the failure.
+
+It caused a loss of around $193.1 million and a reputation loss for NASA.
 
 ## ~Maintain UI consistency~
 
