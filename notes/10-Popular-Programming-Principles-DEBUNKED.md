@@ -546,13 +546,11 @@ In theory, estimating the time required to deliver a project will always be inac
 
 In practice, It's possible to make increasingly more accurate estimates by breaking down the project into smaller components and estimating the time required for each component individually before adding them up to get an overall estimate for the project as a whole (bottom-up estimation).
 
-**Refine your estimates as you refine your specifications by sizing your pessimism**
-
-Make a Work Breakdown Structure (WBS).
+**Make a Work Breakdown Structure (WBS).**
 
 Breakdown a project into components and sub-components.
 
-Do not break it down into tasks. Here we're talking about "definitions of done" not tasks.
+Refine your estimates as you refine your specifications by sizing your pessimism
 
 Each deepest sub-component break it down into 3 parts:
 
