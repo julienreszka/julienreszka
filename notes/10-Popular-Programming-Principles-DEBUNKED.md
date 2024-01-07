@@ -662,6 +662,34 @@ This optimization phase becomes time-consuming and costly. The team needs to all
 
 Had the team incorporated benchmarking and optimization practices early in the development process, they could have identified these performance bottlenecks sooner. By focusing on high-level evaluations and considering long-term functional requirements, they could have built a more optimized and responsive website from the outset, avoiding the need for extensive rework and delivering a better user experience from the start.
 
+### Real life example of the disastrous consequences of following the principles saying that premature optimization is the root of all evil
+
+One notable example is the launch of Cyberpunk 2077 by CD Projekt.
+
+Cyberpunk 2077 was highly anticipated and promised to be a groundbreaking game with a vast open world and cutting-edge graphics.
+
+The developers, CD Projekt, faced immense pressure to deliver a feature-rich and visually stunning experience.
+
+However, in their pursuit of meeting ambitious deadlines and delivering on promised features, they reportedly neglected optimization during the early stages of development.
+
+The consequence of this decision became apparent upon the game's release in December 2020.
+
+Cyberpunk 2077 encountered widespread criticism for its poor performance, especially on last-generation consoles like PlayStation 4 and Xbox One.
+
+Players experienced numerous bugs, crashes, and subpar frame rates, significantly impacting the overall gaming experience.
+
+CD Projekt Red had to issue public apologies and commit to releasing multiple patches to address the performance issues.
+
+The lack of early optimization not only tarnished the game's reputation but also led to financial repercussions for the company, as refunds were offered to dissatisfied customers.
+
+CD Projekt Red lost a significant amount of revenue when Cyberpunk 2077 was removed from the PlayStation Store.
+
+The company's stock value dropped by 75%, from around zł400 ($85) a share on the Warsaw Stock Exchange to zł93.81 ($19.92) just before the game's release.
+
+The exact financial loss from being removed from the PlayStation Store is not publicly available, but the overall impact on the company's stock value and reputation was substantial.
+
+The company also faced a lawsuit from its investors and was required to pay a settlement of $1.85 million.
+
 ## ~The less it knows the better (Law of Demeter)~
 
 In theory, the Law of Demeter (LoD) states that a module should have have limited knowledge of other modules to avoid tight coupling and minimize dependencies.
