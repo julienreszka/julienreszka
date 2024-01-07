@@ -529,6 +529,17 @@ Additionally, input validation and sanitization techniques should be applied. Fo
 
 Implementing these measures—parameterized queries, input validation, and data sanitization—helps prevent malicious users from exploiting vulnerabilities and ensures a more secure interaction between the application and the backend database.
 
+## Real life example of the disastrous consequences of following Postel's Law
+
+One classic example that illustrates the repercussions of lax input validation leading to a significant security breach is the Equifax data breach in 2017. Equifax, one of the largest consumer credit reporting agencies, experienced a massive breach that exposed sensitive personal information of over 147 million individuals.
+
+The breach was caused by a vulnerability in the Apache Struts web application framework, which was used by Equifax to build its online dispute portal. The vulnerability allowed attackers to inject malicious code into the portal, which led to the exposure of sensitive data.
+
+The vulnerability was caused by a lack of input validation and sanitization. The portal accepted user input without proper validation, which allowed attackers to inject malicious code into the system. This code was then executed on the server, leading to the data breach.
+
+The company's stock price dropped by 33% in the days following the breach, and it was forced to pay $700 million in fines and penalties.
+In total, the breach cost Equifax over $1.4 billion.
+
 ## ~It always takes longer than you expect (Hofstadter’s Law).~
 
 In theory, estimating the time required to deliver a project will always be inaccurate because there are too many unknowns and uncertainties to account for in advance, this leads to people making top down estimates that are not actionable and therefore useless.
