@@ -90,6 +90,8 @@ sendMessage("Goodbye, world!");
 
 ### Real life example of the disastrous consequences of following the keep it simple stupid principle
 
+#### Therac-25 accidents
+
 The Therac-25, a radiation therapy machine used in the 1980s for cancer treatment, was involved in at least six accidents between 1985 and 1987, in which patients were given massive overdoses of radiation. Three of these accidents resulted in the death of the patient, and the other three caused serious injury.
 
 Due to a focus on simplicity and reusing software from a previous model, it had a software flaw that caused severe radiation overdoses in several patients.
@@ -170,6 +172,8 @@ const canSubmit = function (email, password) {
 ```
 
 ### Real life example of the disastrous consequences of following the fail fast principle
+
+#### Boeing 737 MAX 2019 groundings
 
 The Boeing 737 MAX is an American narrow-body aircraft series designed and produced by Boeing Commercial Airplanes as the fourth generation of the Boeing 737, succeeding the Boeing 737 Next Generation (NG).
 
@@ -296,6 +300,8 @@ function calculateArea(shape, ...args) {
 
 ### Real life example of the disastrous consequences of following the don't repeat yourself principle
 
+#### Knight Capital Group incident (2012)
+
 On August 1, 2012, Knight Capital Group, a high-frequency trading firm, experienced a software error that caused it to lose $440 million in just 45 minutes. The error was caused by a faulty deployment: Not all servers were updated at the same time, which led to a mismatch between the old and new code. This mismatch caused the system to place erroneous orders, which resulted in massive losses for the company.
 
 The incident also led to a significant drop in the company's stock price, which resulted in a loss of over $10 billion in market value.
@@ -353,6 +359,8 @@ The index finger, while important for dexterity and fine motor skills, has some 
 
 ### Real life example of the disastrous consequences of following the YAGNI principle
 
+#### Ariane flight V88
+
 The Ariane 5 rocket failure in 1996 was attributed to a software error.
 
 The rocket swerved off course and exploded 40 seconds after liftoff due to an unhandled overflow/carryover during a 64-to-16-bit floating point to signed integer conversion.
@@ -394,6 +402,8 @@ In such a case, relying solely on the manual might lead users to follow outdated
 These users could then contribute by informing the maintainers about the missing or outdated information in the documentation. By doing so, they help the maintainers update the manual, ensuring that it accurately reflects the current features and capabilities of the Git system. This, in turn, assists other users who rely on the documentation to utilize the latest and most efficient tools available within Git.
 
 ### Real life example of the disastrous consequences of following the RTFM principle
+
+#### Mars Climate Orbiter failure
 
 Consider the case of the Mars Climate Orbiter mission in 1999. The mission aimed to study the Martian climate, but unfortunately, it ended in failure due to a navigation error.
 
@@ -469,6 +479,8 @@ Each requirement specifies what a specific component allows or does not allow fo
 
 ### Real life example of the disastrous consequences of following the maintain UI consistency principle
 
+#### Windows 8
+
 One notable real-life example of the disastrous consequences of strictly adhering to UI consistency principles occurred with the launch of Microsoft's Windows 8 operating system in 2012.
 
 Traditionally, Windows operating systems maintained a consistent _user experience_ across versions, making it easier for users to transition between updates.
@@ -530,6 +542,8 @@ Additionally, input validation and sanitization techniques should be applied. Fo
 Implementing these measures—parameterized queries, input validation, and data sanitization—helps prevent malicious users from exploiting vulnerabilities and ensures a more secure interaction between the application and the backend database.
 
 ### Real life example of the disastrous consequences of following Postel's Law
+
+#### Equifax data breach
 
 One classic example that illustrates the repercussions of lax input validation leading to a significant security breach is the Equifax data breach in 2017. Equifax, one of the largest consumer credit reporting agencies, experienced a massive breach that exposed sensitive personal information of over 147 million individuals.
 
@@ -593,6 +607,8 @@ In this example we can see that sometimes the pessimistic buffer is even larger 
 If the clarification of the specifications takes longer than the pessimistic buffer, maybe it's not worth it to clarify and just go with common sense.
 
 ### Real life example of the how bottom up estimation results in amazing achievements
+
+#### Apollo program
 
 The Apollo program, conducted by NASA during the 1960s and early 1970s, stands as one of the most ambitious and successful examples of bottom-up estimation resulting in remarkable achievements.
 
@@ -662,6 +678,8 @@ Had the team incorporated benchmarking and optimization practices early in the d
 
 ### Real life example of the disastrous consequences of following the principles saying that premature optimization is the root of all evil
 
+#### Cyberpunk 2077 launch
+
 One notable example is the launch of Cyberpunk 2077 by CD Projekt.
 
 Cyberpunk 2077 was highly anticipated and promised to be a groundbreaking game with a vast open world and cutting-edge graphics.
@@ -688,6 +706,22 @@ The exact financial loss from being removed from the PlayStation Store is not pu
 
 The company also faced a lawsuit from its investors and was required to pay a settlement of $1.85 million.
 
+#### Healthcare.gov launch
+
+Another notable example of lack of early optimization leading to disastrous consequences is the launch of the Healthcare.gov website in 2013.
+
+The website was created to allow Americans to sign up for health insurance under the Affordable Care Act (ACA).
+
+However, the website experienced numerous technical issues, including slow loading times and frequent crashes.
+
+The website was not optimized for performance, leading to poor user experience and low adoption rates.
+
+The website was eventually fixed, but the initial problems caused significant delays in the rollout of the ACA.
+
+Bloomberg News reported the cost exceeded $2 billion.
+
+Performance was not the only reason why the website failed but it is one of the reasons. It was a major factor in the delay of the rollout of the ACA.
+
 ## ~The less it knows the better (Law of Demeter)~
 
 In theory, the Law of Demeter (LoD) states that a module should have have limited knowledge of other modules to avoid tight coupling and minimize dependencies.
@@ -697,3 +731,45 @@ In practice, following LoD leads to significant performance and maintainability 
 **Create a single entry point**
 
 Prefer the Facade pattern which provides a cleaner, more intuitive interface to interact with complex systems, ultimately improving both performance and maintainability of the codebase.
+
+### Real life examples of how creating a single entry point leads to amazing achievements
+
+#### Linux kernel
+
+One notable example of how creating a single entry point leads to amazing achievements is the development of the Linux kernel.
+
+The Linux kernel is the core component of the Linux operating system, which is used in a wide range of devices, from smartphones to supercomputers.
+
+The kernel is responsible for managing the system's resources and providing an interface for user applications to interact with the hardware.
+
+The Linux kernel is a complex system with numerous components and functionalities. However, it provides a single entry point for user applications to interact with the system: the system call interface. This interface allows user applications to request services from the kernel, such as file operations, process management, and memory management. The kernel then handles these requests and returns the results to the user application.
+
+By providing a single entry point, the Linux kernel simplifies the interaction between user applications and the system. This makes it easier for developers to build applications on top of the kernel and improves the overall performance and maintainability of the system. It also allows the kernel to evolve independently from user applications, which can be updated without affecting the kernel. This decoupling of the kernel from user applications is a key factor in the success of Linux as an operating system. It allows the kernel to be used in a wide range of devices and applications, from smartphones to supercomputers.
+
+It is estimated that the Linux kernel is used in over 90% of the world's supercomputers and 82% of the world's smartphones.
+
+Another notable example of how creating a single entry point leads to amazing achievements is the development of the World Wide Web.
+
+#### World Wide Web
+
+The World Wide Web is a global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide.
+
+The Web was developed in the late 1980s and early 1990s by Tim Berners-Lee at CERN, a European research organization.
+
+The Web was initially conceived as a way to share information between researchers at CERN and other institutions. However, it quickly evolved into a global system that allowed anyone to publish and access information on the Internet.
+
+The Web is built on top of the Internet, which provides the underlying infrastructure for data transmission. However, the Web provides a single entry point for users to access information on the Internet: the Uniform Resource Locator (URL). This allows users to access any resource on the Internet by specifying its URL, which consists of a protocol identifier followed by the resource's location.
+
+By providing a single entry point, the Web simplifies the process of accessing information on the Internet. This makes it easier for users to find and access the information they need, which has led to the Web becoming the most popular way of accessing information on the Internet.
+
+It is estimated that there are over 1.8 billion websites on the Internet, with over 4.5 billion Internet users worldwide.
+
+#### AWS API Gateway
+
+Another notable example of how creating a single entry point leads to amazing achievements is the AWS API Gateway.
+
+The AWS API Gateway is a service that allows developers to create, publish, maintain, and monitor APIs for their applications.
+
+The API Gateway provides a single entry point for developers to access the functionality of their applications. This makes it easier for developers to build applications on top of the API Gateway and improves the overall performance and maintainability of the system.
+
+It is estimated that the AWS API Gateway is used by over 1 million developers worldwide.
