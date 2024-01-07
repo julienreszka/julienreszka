@@ -391,7 +391,7 @@ Make assertions to probe the system.
 
 Help project maintainers make their code more intuitive by comparing how you expect the system to work and how it is actually working.
 
-### For example:
+### For example
 
 Let's consider the documentation for a widely-used open-source project, like Git, the version control system. Over time, Git has had comprehensive documentation, but it's a complex tool that undergoes updates and changes. As a result, some aspects of the documentation might not always perfectly align with the latest version or might lack details on newer functionalities.
 
@@ -511,7 +511,7 @@ Strict input and output validation improves interoperability by enforcing clear 
 
 Sanitize data, Parameterize queries, use whitelists.
 
-### For example:
+### For example
 
 Let's consider a scenario involving a web application that interacts with a backend database. One common vulnerability is SQL injection, where malicious SQL commands are injected into input fields to manipulate the database.
 
@@ -574,7 +574,7 @@ Each deepest sub-component break it down into 3 parts:
 
 By sizing your degree of pessimism and therefore uncertainty for each deliverable you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
 
-### For Example:
+### For Example
 
 ```
 - [ ] A 390 min
