@@ -531,7 +531,7 @@ Implementing these measures—parameterized queries, input validation, and data 
 
 ## ~It always takes longer than you expect (Hofstadter’s Law).~
 
-In theory, estimating the time required to deliver a project will always be inaccurate because there are too many unknowns and uncertainties to account for in advance.
+In theory, estimating the time required to deliver a project will always be inaccurate because there are too many unknowns and uncertainties to account for in advance, this leads to people making top down estimates that are not actionable and therefore useless.
 
 In practice, It's possible to make increasingly more accurate estimates by breaking down the project into smaller components and estimating the time required for each component individually before adding them up to get an overall estimate for the project as a whole (bottom-up estimation).
 
@@ -582,6 +582,24 @@ By sizing your degree of pessimism and therefore uncertainty for each deliverabl
 In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This sub-component should be investigated for potential specifications improvements.
 
 If the clarification of the specifications takes longer than the pessimistic buffer, maybe it's not worth it to clarify and just go with common sense.
+
+## Real life example of the how bottom up estimation results in amazing achievements
+
+The Apollo program, conducted by NASA during the 1960s and early 1970s, stands as one of the most ambitious and successful examples of bottom-up estimation resulting in remarkable achievements.
+
+The goal of the Apollo program was announced by President John F. Kennedy in 1961, who declared that the United States would commit to a manned lunar landing and return mission. The program aimed to land humans on the Moon and safely return them to Earth before the end of the decade.
+
+Achieving this feat required meticulous planning, engineering, and estimation across numerous components and stages of the mission.
+
+The Apollo program was divided into three phases: Earth orbit, lunar orbit, and lunar landing. Each phase had its own set of objectives and requirements, which were broken down into smaller components and sub-components.
+
+The program costed $25.4 billion in 1973, but the investment paid off with the successful landing of Apollo 11 on July 20, 1969 and the safe return of the crew to Earth.
+
+Many of the techniques and technologies developed during the Apollo program are still in use today in everyday life.
+
+Among others: the GPS, artificial limbs, water purification systems, computer microchips, wireless headsets, scratch-resistant lenses and many more.
+
+It is estimated that the space program generated $7–$14 in economic return for every dollar invested.
 
 ## ~Premature Optimization is the root of all evil (Donald Knuth)~
 
