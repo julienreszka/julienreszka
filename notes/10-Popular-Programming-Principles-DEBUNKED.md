@@ -423,6 +423,18 @@ It's ok if a UI component doesn't match the style of the app but makes things ea
 
 Write functional requirements that say what `a feature` `in a specific context` `allows or does not allow` `users with a certain role` `to do` `by doing what`.
 
+### Real life example of the disastrous consequences of following the maintain UI consistency principle
+
+One notable real-life example of the disastrous consequences of strictly adhering to UI consistency principles occurred with the launch of Microsoft's Windows 8 operating system in 2012.
+
+Traditionally, Windows operating systems maintained a consistent user interface across versions, making it easier for users to transition between updates. However, with Windows 8, Microsoft introduced a radical departure from the familiar Start menu interface, replacing it with the tile-based "Metro" interface. This move aimed to create a unified experience across desktops, laptops, and touch-based devices.
+
+It was a significant change that required users to relearn how to navigate the operating system. The new interface was also not well-received by users, who found it confusing and difficult to use. As a result, Windows 8 was a commercial failure, and Microsoft had to release a new version, Windows 10, to address the issues with the previous version.
+
+The failure of Windows 8 and the Surface RT led to a significant financial impact for Microsoft. The company took a $900 million charge for its inventory of unsold Surface tablets, which was attributed to the slow sales of the Surface RT and the confusion surrounding its Windows RT operating system.
+This inventory write-down resulted in a substantial selloff of Microsoft shares and wiped out $34 billion in market value
+While the exact cost of the Windows 8 UI failure is not explicitly mentioned, the $900 million write-down provides a clear indication of the financial impact associated with the unsold inventory of Surface tablets, which was a result of the Windows 8 and Surface RT underperformance.
+
 ### For example
 
 Breaking down the YouTube UI into components might look like this:
