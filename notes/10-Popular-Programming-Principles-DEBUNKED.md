@@ -12,7 +12,9 @@ Let's explore some of the widely adopted programming principles that are debunke
 
 ## ~Keep it simple stupid (KISS)~
 
-Certain problems are inherently complex.
+In theory, simple solutions are easier to understand and maintain.
+
+In practice, they are often too simplistic and fail to address the complexity of real-world problems.
 
 **Don't keep it simple stupid.**
 
@@ -23,6 +25,20 @@ Architecture your functionalities such that they can be perfected.
 It's highly unlikely that you will get it right on the first try so make sure you will be able to improve it on next iterations.
 
 Use feature toggles to architecture your app in an extensible way.
+
+### Real life example of the disastrous consequences of the keep it simple stupid principle
+
+The Therac-25, a radiation therapy machine used in the 1980s for cancer treatment, was involved in at least six accidents between 1985 and 1987, in which patients were given massive overdoses of radiation. Three of these accidents resulted in the death of the patient, and the other three caused serious injury.
+
+Due to a focus on simplicity and reusing software from a previous model, it had a software flaw that caused severe radiation overdoses in several patients.
+
+The engineers adopted a "keep it simple" approach and reused software components from an earlier version of the machine.
+
+This decision overlooked potential issues arising from the different operational modes of the new machine.
+
+As a result, a race condition occurred in the software. When operators quickly input commands, the machine could deliver radiation doses that were orders of magnitude higher than prescribed.
+
+The Therac-25 accidents are a prime example of the dangers of oversimplification. The engineers focused on reusing existing software components to save time and effort, but this led to a critical flaw in the system.
 
 ### For example
 
@@ -88,7 +104,9 @@ sendMessage("Goodbye, world!");
 
 ## ~Fail Fast~
 
-Failure is a significant drain on resources.
+In theory, failing fast allows you to quickly identify and fix issues.
+
+In practice, failing fast is dangerous because starting over multiple times is often more resource expensive than handling the error and continuing execution.
 
 **Recover quickly.**
 
@@ -96,7 +114,23 @@ Develop mechanisms of control.
 
 Crashing an airplane won't teach you as much as using a wind tunnel to fly a model in an environment that you can control.
 
-Instead of returning immediately a single error, make an observable arrays of reasons to abort so that you can solve all at once instead of one by one.
+Instead of returning immediately a single error, make an observable arrays of reasons to abort so that you can solve all at once instead of one by one after restarting multiple times.
+
+### Real life example of the disastrous consequences of the fail fast principle
+
+The Boeing 737 MAX is an American narrow-body aircraft series designed and produced by Boeing Commercial Airplanes as the fourth generation of the Boeing 737, succeeding the Boeing 737 Next Generation (NG).
+
+In March 2019, the Boeing 737 MAX was grounded worldwide following two fatal crashes. The U.S. Federal Aviation Administration (FAA) and Boeing identified the cause as a software problem, leading to the Maneuvering Characteristics Augmentation System (MCAS) flight control feature being activated in response to erroneous angle of attack (AoA) information.
+
+On November 18, 2020, the FAA rescinded the order that grounded the 737 MAX, and the aircraft returned to commercial service on December 9, 2020, with a flight by American Airlines.
+
+It is estimated that the grounding of the 737 MAX cost Boeing $20 billion.
+
+Fail fast is a principle that was applied to the development of the 737 MAX.
+
+It lead to the development of a system that was not resilient to failure and that was not able to recover from it. The result was a system that was not safe and that costed Boeing $20 billion.
+
+The principle of failing fast is not the only reason why the 737 MAX failed but it is one of the reasons.
 
 ### For example
 
@@ -147,9 +181,9 @@ const canSubmit = function (email, password) {
 
 ## ~Don't Repeat yourself (DRY)~
 
-Tight coupling makes a system less flexible and harder to maintain.
+In theory it's better to have a single source of truth to avoid inconsistencies.
 
-If two things look the same today it doesn't mean they will look the same tomorrow.
+In practice a single source of truth makes it harder to maintain and evolve a system because if two things look the same today it doesn't mean they will look the same tomorrow.
 
 Most likely they will diverge in upcoming versions.
 
@@ -164,6 +198,23 @@ Duplications are less costly to modify and adjust than abstractions and there is
 Use comments to Lists places where similar code is in use and attach an identifier to make it easier to search for duplicates.
 
 Use global search to find all the places where something is used, use regex to be more precise and effective in your search.
+
+### Real life example of the disastrous consequences of the don't repeat yourself principle
+
+On August 1, 2012, Knight Capital Group, a high-frequency trading firm, experienced a software error that caused it to lose $440 million in just 45 minutes. The error was caused by a faulty deployment: Not all servers were updated at the same time, which led to a mismatch between the old and new code. This mismatch caused the system to place erroneous orders, which resulted in massive losses for the company.
+
+The incident also led to a significant drop in the company's stock price, which resulted in a loss of over $10 billion in market value.
+The company was forced to sell itself to a competitor to avoid bankruptcy.
+
+The Knight Capital incident is a prime example of the dangers of the DRY principle.
+
+The company's developers were trying to avoid duplication by replacing old code with new code.
+
+If they had followed the WET principle the old code would have been left in place and the new code would have been added in a separate location.
+
+This would have allowed the company to continue operating while the new code was being tested. If the new code had been found to be faulty, the company could have reverted to the old code without any issues. Instead, the faulty deployment caused massive losses and ultimately led to the company's demise.
+
+It was not the only reason why the company failed but it is one of the reasons.
 
 ### For example
 
@@ -256,7 +307,9 @@ function calculateArea(shape, ...args) {
 
 ## ~You Ain't Gonna Need It (YAGNI)~
 
-Accumulating defects will inevitably lead to some kind of failure.
+In theory, it's better to avoid over-engineering and only implement what's needed.
+
+In practice, it's better to prepare the system for what's required to avoid accumulating defects which will inevitably lead to some kind of failure.
 
 **You will probably need this.**
 
@@ -276,7 +329,7 @@ You can evaluate whether there is a workaround by looking at what other componen
 
 Let's make an analogy with the human body.
 
-The heart is a critical component becauuse many organs directly relying on the hearts functions:
+The heart is a critical component because many organs directly relying on the hearts functions:
 
 - The brain, requires a constant supply of oxygen and nutrients carried by blood
 - The kidneys, proper blood flow is necessary for their filtration process
@@ -294,7 +347,9 @@ The index finger, while important for dexterity and fine motor skills, has some 
 
 ## ~Read the fucking manual (RTFM)~
 
-Manuals are often out of date.
+In theory, the manual contains all the information needed to use the system effectively and efficiently. It should be the primary source of information for users.
+
+In practice, manuals are often out of date, difficult to understand, and don't provide enough details to fully understand how the system works. Relying solely on the manual can lead to confusion and frustration.
 
 **Don't rely on a manual.**
 
@@ -314,7 +369,9 @@ These users could then contribute by informing the maintainers about the missing
 
 ## ~Maintain UI consistency~
 
-Trying to maintain UI consistency over time is a fool's errand.
+In theory, UI consistency makes it easier for users to navigate and interact with the interface.
+
+In practice, Trying to maintain UI consistency over time is a fool's errand because it's impossible to predict how the UI will evolve.
 
 **Don't reinvent the wheel**
 
@@ -370,7 +427,9 @@ Each requirement specifies what a specific component allows or does not allow fo
 
 ## ~Be conservative in what you send, be liberal in what you accept (Postel's Law)~
 
-Malicious actors exploit lax input validation to inject harmful code or manipulate protocols.
+In theory, it's better to be flexible and lenient when receiving data to avoid breaking the system when receiving unexpected data or data that doesn't conform to the expected format or structure.
+
+In practice, malicious actors exploit lax input validation to inject harmful code or manipulate protocols, leading to security vulnerabilities and data breaches that can have serious consequences.
 
 **Be conservative in both what you send and receive.**
 
@@ -410,23 +469,25 @@ Implementing these measures—parameterized queries, input validation, and data 
 
 ## ~It always takes longer than you expect (Hofstadter’s Law).~
 
-It's possible to make accurate estimates.
+In theory, estimating the time required to deliver a project will always be inaccurate because there are too many unknowns and uncertainties to account for in advance.
+
+In practice, It's possible to make increasingly more accurate estimates by breaking down the project into smaller components and estimating the time required for each component individually before adding them up to get an overall estimate for the project as a whole (bottom-up estimation).
 
 **Refine your estimates as you refine your specifications by sizing your pessimism**
 
 Make a Work Breakdown Structure (WBS).
 
-Breakdown a project into components and subcomponents.
+Breakdown a project into components and sub-components.
 
 Do not break it down into tasks. Here we're talking about "definitions of done" not tasks.
 
-Each deepest subcomponent break it down into 3 parts:
+Each deepest sub-component break it down into 3 parts:
 
 - the optimistic duration, the duration it will take to make if everything goes smoothly, no mistakes, no uncertainties
 - the buffer for realistic duration, the additional duration it will take to fix eventual mistakes
 - the buffer for pessimistic duration, the additional duration caused by uncertainty and lack of clarity in specifications
 
-By sizing your degree of pessimism and therefore uncertainty for each livrable you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
+By sizing your degree of pessimism and therefore uncertainty for each deliverable you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
 
 ### For Example:
 
@@ -456,13 +517,15 @@ By sizing your degree of pessimism and therefore uncertainty for each livrable y
         - [ ] ABCB pessimistic buffer 10 min
 ```
 
-In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This subcomponent should be investigated for potential specifications improvements.
+In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This sub-component should be investigated for potential specifications improvements.
 
 If the clarification of the specifications takes longer than the pessimistic buffer, maybe it's not worth it to clarify and just go with common sense.
 
 ## ~Premature Optimization is the root of all evil (Donald Knuth)~
 
-Delaying optimization until later stages will lead to significant performance issues that are costly to rectify and will lead to product market fit failure.
+In theory, optimization in the early stages of development is unnecessary and can lead to wasted time and effort.
+
+In practice, delaying optimization until later stages will lead to significant performance issues that are costly to rectify and will lead to product market fit failure.
 
 **Make fast benchmarking part of your development process.**
 
@@ -510,7 +573,9 @@ Had the team incorporated benchmarking and optimization practices early in the d
 
 ## ~The less it knows the better (Law of Demeter)~
 
-Writing wrappers to satisfy LoD always leads to significant performance and maintainability issues.
+In theory, the Law of Demeter (LoD) states that a module should have have limited knowledge of other modules to avoid tight coupling and minimize dependencies.
+
+In practice, following LoD leads to significant performance and maintainability issues because it requires writing wrappers to satisfy it.
 
 **Create a single entry point**
 
