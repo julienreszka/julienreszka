@@ -594,7 +594,7 @@ In this example we can see that sometimes the pessimistic buffer is even larger 
 
 If the clarification of the specifications takes longer than the pessimistic buffer, maybe it's not worth it to clarify and just go with common sense.
 
-## Real life example of the how bottom up estimation results in amazing achievements
+### Real life example of the how bottom up estimation results in amazing achievements
 
 The Apollo program, conducted by NASA during the 1960s and early 1970s, stands as one of the most ambitious and successful examples of bottom-up estimation resulting in remarkable achievements.
 
