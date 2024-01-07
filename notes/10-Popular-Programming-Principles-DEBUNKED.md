@@ -427,9 +427,17 @@ Write functional requirements that say what `a feature` `in a specific context` 
 
 One notable real-life example of the disastrous consequences of strictly adhering to UI consistency principles occurred with the launch of Microsoft's Windows 8 operating system in 2012.
 
-Traditionally, Windows operating systems maintained a consistent user interface across versions, making it easier for users to transition between updates. However, with Windows 8, Microsoft introduced a radical departure from the familiar Start menu interface, replacing it with the tile-based "Metro" interface. This move aimed to create a unified experience across desktops, laptops, and touch-based devices.
+Traditionally, Windows operating systems maintained a consistent _user experience_ across versions, making it easier for users to transition between updates.
 
-It was a significant change that required users to relearn how to navigate the operating system. The new interface was also not well-received by users, who found it confusing and difficult to use. As a result, Windows 8 was a commercial failure, and Microsoft had to release a new version, Windows 10, to address the issues with the previous version.
+However, with Windows 8, Microsoft introduced a radical departure from the familiar Start menu interface, replacing it with the tile-based "Metro" interface. This move aimed to create a unified UI across desktops, laptops, and touch-based devices.
+
+It was a significant change that required users to relearn how to navigate the operating system.
+
+The new interface was not well-received by users, who found it confusing and difficult to use.
+
+As a result, Windows 8 was a commercial failure.
+
+It was such a failure that Microsoft skipped Windows 9 and had to release a new version, Windows 10, to address the issues.
 
 The failure of Windows 8 and the Surface RT led to a significant financial impact for Microsoft. The company took a $900 million charge for its inventory of unsold Surface tablets, which was attributed to the slow sales of the Surface RT and the confusion surrounding its Windows RT operating system.
 This inventory write-down resulted in a substantial selloff of Microsoft shares and wiped out $34 billion in market value
