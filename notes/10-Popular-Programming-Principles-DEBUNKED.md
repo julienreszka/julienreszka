@@ -102,6 +102,12 @@ As a result, a race condition occurred in the software. When operators quickly i
 
 The Therac-25 accidents are a prime example of the dangers of oversimplification. The engineers focused on reusing existing software components to save time and effort, but this led to a critical flaw in the system.
 
+It costed multiple lives, the company, and Atomic Energy of Canada Limited (AECL), faced lawsuits and out-of-court settlements due to these accident.
+
+After the accidents, in 1988 AECL dissolved the AECL Medical section and the company Theratronics International Ltd took over the maintenance of the installed Therac-25 machines.
+
+It was not the only reason why the machine failed but it is one of the reasons.
+
 ## ~Fail Fast~
 
 In theory, failing fast allows you to quickly identify and fix issues.
