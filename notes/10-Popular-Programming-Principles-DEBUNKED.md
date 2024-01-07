@@ -529,7 +529,7 @@ Additionally, input validation and sanitization techniques should be applied. Fo
 
 Implementing these measures—parameterized queries, input validation, and data sanitization—helps prevent malicious users from exploiting vulnerabilities and ensures a more secure interaction between the application and the backend database.
 
-## Real life example of the disastrous consequences of following Postel's Law
+### Real life example of the disastrous consequences of following Postel's Law
 
 One classic example that illustrates the repercussions of lax input validation leading to a significant security breach is the Equifax data breach in 2017. Equifax, one of the largest consumer credit reporting agencies, experienced a massive breach that exposed sensitive personal information of over 147 million individuals.
 
