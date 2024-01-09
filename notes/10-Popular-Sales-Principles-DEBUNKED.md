@@ -1,5 +1,15 @@
 # 10 Popular Sales Principles DEBUNKED
 
+Contrary to popular beliefs, good sales people aren't agressive.
+
+It may seem like they are because some of the most agressive sales principles have been widely adopted and celebrated in the sales community.
+
+In reality, those principles were widely adopted because there are a lot of agressive and bad sales people out there.
+
+In fact, good sales people are often very patient and peaceful in their approach.
+
+Let's explore some of the widely adopted sales principles that are debunked and rejected by experienced salea people.
+
 ## ~Understand the Customer~
 
 In theory, Knowing your customer's needs, pain points, and desires is crucial.
