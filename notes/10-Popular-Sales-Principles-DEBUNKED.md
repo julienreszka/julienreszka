@@ -12,7 +12,7 @@ It's much more important to understand what promises the company is capable of k
 
 ### Real life examples
 
-#### Volvo
+#### Volvo safety
 
 One company that has notably adopted a focus on guarantees and promises they can keep, rather than solely relying on customer demands, is Volvo.
 
@@ -22,7 +22,7 @@ For example, Volvo was the first car manufacturer to introduce the three-point s
 
 Over the years, they've continued this trend by setting ambitious safety goals, like their vision that no one should be killed or seriously injured in a new Volvo car by 2020. While this might not directly align with what customers are asking for, Volvo has made it a central part of their brand promise, focusing on guarantees they can control and deliver on, rather than solely tailoring their products to immediate customer desires.
 
-#### Apple
+#### Apple User Experience
 
 Apple is known for its philosophy of designing products that customers might not even know they want yet. While they do conduct market research and consider customer feedback, their innovation often surpasses direct customer demands.
 
@@ -30,7 +30,7 @@ For instance, when Apple introduced the iPhone in 2007, it revolutionized the sm
 
 Apple's emphasis on understanding what promises they can fulfill, such as a user-friendly interface, seamless integration between devices, and a strong ecosystem of services, has been a driving force. They prioritize offering guarantees in terms of product quality, design, and user experience, often setting trends rather than solely reacting to explicit customer demands. This strategy has allowed Apple to consistently deliver products that go beyond immediate customer requests and shape entire industries.
 
-#### Amazon
+#### Amazon Hassle-free return policies
 
 While Amazon heavily relies on customer data and feedback to improve its services, it also places a significant emphasis on the promises it can make and keep. One of the most notable guarantees is Amazon Prime's two-day shipping for eligible items. This service promise, initially introduced in 2005, revolutionized online shopping by providing faster delivery times, which wasn't necessarily a direct demand from customers at the time.
 
@@ -52,7 +52,7 @@ It's essential to focus on customers who have already shown commitment.
 
 ### Real life examples
 
-#### Kickstarter
+#### Kickstarter Backers
 
 Kickstarter operates on the principle of asking for upfront payments or commitments from customers before a product or project is even created.
 
@@ -62,7 +62,7 @@ This approach aligns with the idea of focusing on committed customers. Kickstart
 
 By asking for upfront payments or commitments, Kickstarter allows creators to gauge interest and secure funding from a dedicated audience. This strategy demonstrates the importance of focusing on committed customers who are willing to support a product or idea, even before it's fully realized.
 
-#### Tesla
+#### Tesla Model 3
 
 Tesla is another company that has adopted the principle of asking for upfront payments or commitments from customers.
 
@@ -80,7 +80,7 @@ It's much more important to show that you are concerned with what they think abo
 
 ### Real life examples
 
-#### Airbnb
+#### Airbnb reviews
 
 A company that exemplifies the importance of customer concern without expecting a reciprocal relationship is Airbnb.
 
@@ -88,7 +88,7 @@ Airbnb focuses on providing a platform that not only facilitates transactions bu
 
 The company's approach involves actively listening to user feedback to enhance safety, quality, and overall experience. They constantly update their platform based on this feedback, ensuring that users feel heard and that their concerns are addressed. This dedication to improvement and responsiveness to user needs has helped Airbnb establish a strong reputation for reliability and trustworthiness, fostering long-term loyalty among users.
 
-#### Amazon
+#### Amazon customer service
 
 Amazon is another company that has successfully built trust with customers by focusing on their needs and concerns.
 
@@ -108,7 +108,7 @@ It's much more important to help the customer find the right match.
 
 ### Real life examples
 
-#### Sephora
+#### Sephora stores
 
 Sephora has a philosophy centered around helping customers discover the right products for their individual needs rather than pushing for immediate sales.
 
@@ -116,13 +116,13 @@ Sephora stores are designed to encourage exploration and experimentation. They o
 
 By emphasizing education and personalized recommendations, Sephora creates an environment where customers feel supported in making informed choices. They focus on building relationships and trust, understanding that a satisfied customer who finds the perfect products is more likely to return and become a loyal customer, even if it doesn't result in an immediate sale on the first visit. This customer-centric approach has been instrumental in Sephora's success and its ability to create a loyal customer base.
 
-#### Apple
+#### Apple stores
 
 Apple is another company that has successfully adopted a customer-centric approach to sales.
 
 Apple stores are designed to encourage exploration and experimentation. They offer various tools and resources like in-store samples, workshops, and knowledgeable staff (called geniuses) who are trained not just to sell but to educate and assist customers. These geniuses take the time to understand the customer's needs before recommending products or providing tutorials. By emphasizing education and personalized recommendations, Apple creates an environment where customers feel supported in making informed choices.
 
-#### Amazon
+#### Amazon suggestions
 
 Amazon developed recommendation algorithms that suggest products based on previous purchases or browsing history. This approach has been instrumental in Amazon's success and its ability to create a loyal customer base.
 
@@ -140,7 +140,7 @@ Crafting narratives that resonate emotionally with customers will be more impact
 
 ### Real life examples
 
-#### Airbnb
+#### Airbnb campaigns
 
 One remarkable example of a company that leveraged storytelling to transform its sales strategy is Airbnb. In its early stages, Airbnb faced significant challenges in convincing people to open their homes to strangers for short-term rentals. Instead of solely focusing on the technical details of the platform or the features of the listings, Airbnb shifted its approach to storytelling.
 
@@ -150,7 +150,7 @@ For instance, Airbnb's "Live There" campaign encapsulated the idea that by stayi
 
 These stories weren’t just about the properties; they were about the meaningful interactions, connections, and life-changing experiences that people encountered through the platform. By tapping into these emotional narratives, Airbnb successfully connected with their audience on a deeper level, making the service more relatable and appealing beyond just its technical functionalities.
 
-#### Apple
+#### Apple campaigns
 
 Apple is another company that has successfully leveraged storytelling to transform its sales strategy. Apple's marketing campaigns focus on the emotional connections and life-changing experiences that users have with their products. For instance, their "Shot on iPhone" campaign showcases the stunning photos and videos that users have captured with their iPhones, emphasizing the creative possibilities of the device. These stories aren’t just about the technical features of the iPhone; they are about the meaningful interactions, connections, and life-changing experiences that people have with their iPhones. By tapping into these emotional narratives, Apple successfully connects with their audience on a deeper level, making the product more relatable and appealing beyond just its technical functionalities. This approach has been instrumental in Apple's success and its ability to create a loyal customer base.
 
@@ -166,7 +166,7 @@ Presenting real-life scenarios and tangible results through case studies will re
 
 ### Real life examples
 
-#### HubSpot
+#### HubSpot ROI
 
 HubSpot extensively uses case studies to showcase how their platform helps businesses grow. For instance, they have numerous case studies that highlight the challenges faced by different companies in various industries and how HubSpot's tools and strategies helped overcome those challenges.
 
