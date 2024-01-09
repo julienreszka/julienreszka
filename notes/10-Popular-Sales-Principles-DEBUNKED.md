@@ -259,3 +259,29 @@ In practice, customers are often skeptical of salespeople who seem too confident
 
 It's much more important to be humble and admit when you don't know something.
 Customers will appreciate the honesty and humility that you show them.
+
+### Real life examples
+
+#### Decathlon
+
+Decathlon, a French sporting goods retailer, is a prime example of a company that adopts a humble and customer-centric approach in its sales strategy across Europe and worldwide.
+
+Decathlon emphasizes accessibility, affordability, and functionality in its products. They prioritize customer satisfaction by encouraging a no-pressure sales environment. In their stores, the emphasis is on allowing customers to explore and try out products at their own pace, without pushing for immediate purchases.
+
+Their sales staff are trained to be knowledgeable about their products but are also encouraged to listen actively to customers' needs and provide honest advice, even if it means suggesting a less expensive or alternative product that better suits the customer's requirements.
+
+Decathlon's approach is about making sports accessible to everyone, regardless of skill level or budget, and they openly communicate this mission through their marketing and sales efforts. This humility and focus on customer needs have helped Decathlon become a trusted brand across Europe, fostering loyalty among customers who appreciate their genuine commitment to providing quality products at reasonable prices.
+
+#### Lidl
+
+Lidl is a German discount supermarket chain that has expanded across Europe and worldwide.
+
+Lidl's sales strategy focuses on offering quality products at competitive prices. They maintain a simplified shopping experience with limited product ranges, enabling them to reduce operational costs and pass on savings to customers.
+
+Their approach involves a strong emphasis on private label products, often sold under their own brand names. By doing so, Lidl can control quality and costs, providing customers with affordable alternatives to well-known brands.
+
+Lidl regularly offers weekly specials and rotating promotions on various products, creating excitement and encouraging customers to explore their stores regularly. They maintain a straightforward and efficient shopping experience, with minimal store decoration and self-service checkouts to reduce wait times.
+
+Moreover, Lidl places a significant focus on fresh produce, offering high-quality fruits, vegetables, and baked goods at competitive prices.
+
+Lidl's humble approach to sales centers around providing value and affordability without compromising on quality. Their commitment to offering quality products at lower prices has contributed to their success and popularity among cost-conscious consumers across Europe.
