@@ -241,6 +241,14 @@ In practice, customers are often skeptical of salespeople who seem too friendly 
 It's much more important to stay professional and avoid being overly friendly or familiar with customers.
 Customers will appreciate the professionalism and respect that you show them.
 
+### Real life examples
+
+#### Hermes
+
+Hermes is a luxury brand selling high-end leather goods and accessories. They are known for their impeccable craftsmanship and attention to detail, which is reflected in their products' quality and design.
+
+Their sales representatives are trained to maintain a level of professionalism that aligns with the prestige of the brand. They prioritize delivering a high-end experience without being overly friendly or pushy, allowing the products to speak for themselves while providing impeccable service. This approach helps maintain an aura of exclusivity and professionalism that resonates with their clientele.
+
 ## ~Be Confident~
 
 In theory, confidence is important in sales because customers want to know that they are dealing with someone who knows what they're talking about.
