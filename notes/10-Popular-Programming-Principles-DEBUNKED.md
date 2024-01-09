@@ -110,6 +110,18 @@ After the accidents, in 1988 AECL dissolved the AECL Medical section and the com
 
 It was not the only reason why the machine failed but it is one of the reasons.
 
+#### Zoom Security and Privacy Issues (2020)
+
+As the COVID-19 mass hysteria led to a surge in remote work and online meetings, the video conferencing platform Zoom faced scrutiny over various security and privacy flaws.
+
+Issues included "Zoombombing" incidents (unauthorized users joining meetings), encryption concerns, and data sharing with Facebook without user consent.
+
+Zoom had initially prioritized ease of use over robust security measures, resulting in these vulnerabilities.
+
+The company had to issue public apologies and commit to releasing multiple patches to address the security and privacy issues.
+
+Zoom agreed to pay $85 million to settle a lawsuit alleging it violated user privacy by sharing personal data with Facebook, Google, and LinkedIn, and letting hackers disrupt Zoom meetings in a practice called "Zoombombing."
+
 ## ~Fail Fast~
 
 In theory, failing fast allows you to quickly identify and fix issues.
