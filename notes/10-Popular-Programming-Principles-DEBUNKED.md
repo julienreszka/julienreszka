@@ -16,7 +16,7 @@ In theory, simple solutions are easier to understand and maintain.
 
 In practice, they are often too simplistic and fail to address the complexity of real-world problems.
 
-**Don't keep it simple stupid.**
+### Don't keep it simple stupid.
 
 PUSH: Perfect Until Sufficiently Honed
 
@@ -128,7 +128,7 @@ In theory, failing fast allows you to quickly identify and fix issues.
 
 In practice, failing fast is dangerous because starting over multiple times is often more resource expensive than handling the error and continuing execution.
 
-**Recover quickly.**
+### Recover quickly.
 
 Develop mechanisms of control.
 
@@ -209,7 +209,7 @@ In practice a single source of truth makes it harder to maintain and evolve a sy
 
 Most likely they will diverge in upcoming versions.
 
-**Repeat yourself.**
+### Repeat yourself.
 
 WET: Write everything twice
 
@@ -335,7 +335,7 @@ In theory, it's better to avoid over-engineering and only implement what's neede
 
 In practice, it's better to prepare the system for what's required to avoid accumulating defects which will inevitably lead to some kind of failure.
 
-**You will probably need this.**
+### You will probably need this.
 
 Recognize that Mistakes happen but also that Failure is not an option.
 
@@ -397,7 +397,7 @@ In theory, the manual contains all the information needed to use the system effe
 
 In practice, manuals are often out of date, difficult to understand, and don't provide enough details to fully understand how the system works. Relying solely on the manual can lead to confusion and frustration.
 
-**Don't rely on a manual.**
+### Don't rely on a manual.
 
 Make assertions to probe the system.
 
@@ -437,7 +437,7 @@ In theory, UI consistency makes it easier for users to navigate and interact wit
 
 In practice, Trying to maintain UI consistency over time is a fool's errand because it's impossible to predict how the UI will evolve.
 
-**Don't reinvent the wheel**
+### Don't reinvent the wheel
 
 Focus on the user experience.
 
@@ -517,7 +517,7 @@ In theory, it's better to be flexible and lenient when receiving data to avoid b
 
 In practice, malicious actors exploit lax input validation to inject harmful code or manipulate protocols, leading to security vulnerabilities and data breaches that can have serious consequences.
 
-**Be conservative in both what you send and receive.**
+### Be conservative in both what you send and receive.
 
 Strict input and output validation improves interoperability by enforcing clear communication standards.
 
@@ -572,7 +572,7 @@ In theory, estimating the time required to deliver a project will always be inac
 
 In practice, It's possible to make increasingly more accurate estimates by breaking down the project into smaller components and estimating the time required for each component individually before adding them up to get an overall estimate for the project as a whole (bottom-up estimation).
 
-**Make a Work Breakdown Structure (WBS).**
+### Make a Work Breakdown Structure (WBS).
 
 Breakdown a project into components and sub-components.
 
@@ -644,7 +644,7 @@ In theory, optimization in the early stages of development is unnecessary and ca
 
 In practice, delaying optimization until later stages will lead to significant performance issues that are costly to rectify and will lead to product market fit failure.
 
-**Make fast benchmarking part of your development process.**
+### Make fast benchmarking part of your development process.
 
 Focus your optimization efforts on high level evaluations and long term functional requirements (LFRs).
 
@@ -740,7 +740,7 @@ In theory, the Law of Demeter (LoD) states that a module should have have limite
 
 In practice, following LoD leads to significant performance and maintainability issues because it requires writing wrappers to satisfy it.
 
-**Create a single entry point**
+### Create a single entry point
 
 Prefer the Facade pattern which provides a cleaner, more intuitive interface to interact with complex systems, ultimately improving both performance and maintainability of the codebase.
 
