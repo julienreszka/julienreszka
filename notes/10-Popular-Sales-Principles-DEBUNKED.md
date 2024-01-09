@@ -8,7 +8,7 @@ In reality, those principles were widely adopted because there are a lot of agre
 
 In fact, good sales people are often very patient and peaceful in their approach.
 
-Let's explore some of the widely adopted sales principles that are debunked and rejected by experienced salea people.
+Let's explore some of the widely adopted sales principles that are debunked and rejected by experienced sales people.
 
 ## ~Understand the Customer~
 
