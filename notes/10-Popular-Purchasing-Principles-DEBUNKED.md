@@ -82,6 +82,8 @@ In practice, by following your gut you are more likely to make decisions and tak
 
 ### Be rational
 
+Make durable decisions that withstand scrutiny.
+
 Make decisions that are durable.
 
 Don't make decisions that are fragile.

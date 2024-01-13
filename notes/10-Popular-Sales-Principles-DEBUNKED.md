@@ -1,6 +1,6 @@
 # 10 Popular Sales Principles DEBUNKED
 
-Contrary to popular beliefs, good sales people aren't agitated.
+Contrary to popular beliefs, good sales people aren't aggressive and agitated.
 
 It may seem like they are because some of the most agitated sales principles have been widely adopted and celebrated in the sales community.
 
