@@ -108,6 +108,8 @@ In practice, disruption leads to political polarization and social unrest.
 
 Make sure that introducing a new product or a new process will be beneficial to the organization.
 
+Make use of constructive constraints.
+
 #### Simulations
 
 Before introducing a new product or a new process, make sure that you have simulated the impact of the change.
@@ -115,6 +117,8 @@ Before introducing a new product or a new process, make sure that you have simul
 #### System monitors
 
 After introducing a new product or a new process, make sure that you have a system monitor in place to monitor the impact of the change.
+
+##
 
 <hr>
 
