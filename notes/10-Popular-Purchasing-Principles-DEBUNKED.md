@@ -74,7 +74,7 @@ By having priorities, you can more quickly assess the potential hazards than if 
 
 By having probabilities, you can more quickly assess the potential exaggerations and malingering that are often used to inflate the risks of a situation.
 
-## ~Follow your gut.~
+## ~Follow your gut~
 
 In theory, by following your gut you can more easily make decisions and take actions that are aligned with your values and beliefs.
 
