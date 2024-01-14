@@ -98,6 +98,24 @@ Make sure that the manufacturer has incentives to make a product without major d
 
 Make sure that if there are any liabilities, they are the liabilities of the supplier and not the liabilities of the buyer.
 
+## Use disruption as a catalyst for innovation and progress
+
+In theory, disruption of the status quo leads to innovation and progress.
+
+In practice, disruption leads to political polarization and social unrest.
+
+### Be reasonable
+
+Make sure that introducing a new product or a new process will be beneficial to the organization.
+
+### Simulations
+
+Before introducing a new product or a new process, make sure that you have simulated the impact of the change.
+
+### System monitors
+
+After introducing a new product or a new process, make sure that you have a system monitor in place to monitor the impact of the change.
+
 <hr>
 
 This is a work in progress
