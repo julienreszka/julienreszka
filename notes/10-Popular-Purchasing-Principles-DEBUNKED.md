@@ -156,7 +156,7 @@ Recover from sampling errors and skewed distributions through confounding factor
 
 #### Randomizations
 
-Avoid observational errors out outliers through randomization.
+Avoid observational errors and outliers through randomization.
 
 Recover from observational errors by using big data sets and robust regression models.
 
