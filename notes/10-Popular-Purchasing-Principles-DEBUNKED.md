@@ -136,6 +136,30 @@ Before making a big decision, make sure that you have experimented with the deci
 
 Before making a big decision, make sure that you have examples of the decision being made successfully.
 
+## ~Statistics don't lie~
+
+In theory, statistics are facts and therefore they are objective.
+
+In practice, statistics are often biased and therefore they are not objective.
+
+### Be skeptical
+
+Lots of people have a vested interest in making you believe that problems are bigger than they actually are
+
+Make sure that problems are statistically significant.
+
+#### Stratifications
+
+Avoid sampling errors and skewed distributions through stratification.
+
+Recover from sampling errors and skewed distributions through confounding factors and data transformations.
+
+#### Randomizations
+
+Avoid observational errors out outliers through randomization.
+
+Recover from observational errors by using big data sets and robust regression models.
+
 <hr>
 
 This is a work in progress
