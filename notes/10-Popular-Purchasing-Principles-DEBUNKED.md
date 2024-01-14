@@ -10,7 +10,7 @@ In fact, good expenses managers are often very firm and in some cases, they are 
 
 Let's explore some of the widely adopted purchasing principles that are debunked and rejected by experienced expenses managers.
 
-## Trust but verify
+## ~Trust but verify~
 
 In theory, by trusting your suppliers you can more easily build a long-term relationship with them and get better deals. Verified suppliers are more likely to give you better deals.
 
@@ -56,7 +56,7 @@ A thriving aftermarket is an indication that the product is successful.
 By purchasing products that have a thriving aftermarket, you can purchase without risking buying a product doesn't exist or will be discontinued.
 By selling products that have a thriving aftermarket, the seller removes the doubt from the buyer and reduces the risk of purchase abandonment.
 
-## Follow strict risk assessment policies.
+## ~Follow strict risk assessment policies.~
 
 In theory, by following strict assessment policies you can more easily identify and mitigate risks.
 
@@ -74,7 +74,7 @@ By having priorities, you can more quickly assess the potential hazards than if 
 
 By having probabilities, you can more quickly assess the potential exaggerations and malingering that are often used to inflate the risks of a situation.
 
-## Follow your gut.
+## ~Follow your gut.~
 
 In theory, by following your gut you can more easily make decisions and take actions that are aligned with your values and beliefs.
 
