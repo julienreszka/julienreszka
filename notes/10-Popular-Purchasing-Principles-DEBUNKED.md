@@ -118,7 +118,23 @@ Before introducing a new product or a new process, make sure that you have simul
 
 After introducing a new product or a new process, make sure that you have a system monitor in place to monitor the impact of the change.
 
-##
+## ~Dream big~
+
+In theory, only by dreaming big can you achieve big things.
+
+In practice, daydreaming leads to dystopia and abstractions lead to utopias, both of which don't exist.
+
+### Balance ambition with pragmatism
+
+Make sure that what you want is feasible.
+
+#### Experiments
+
+Before making a big decision, make sure that you have experimented with the decision.
+
+#### Examples
+
+Before making a big decision, make sure that you have examples of the decision being made successfully.
 
 <hr>
 
