@@ -581,8 +581,8 @@ Refine your estimates as you refine your specifications by sizing your pessimism
 Each deepest sub-component break it down into 3 parts:
 
 - the optimistic duration, the duration it will take to make if everything goes smoothly, no mistakes, no uncertainties
-- the buffer for realistic duration, the additional duration it will take to fix eventual mistakes
-- the buffer for pessimistic duration, the additional duration caused by uncertainty and lack of clarity in specifications
+- the buffer for realistic duration, the additional duration it will take to fix eventual mistakes (skill issues)
+- the buffer for pessimistic duration, the additional duration caused by uncertainty and lack of clarity in specifications (domain knowledge issues)
 
 By sizing your degree of pessimism and therefore uncertainty for each deliverable you will be able to tell whether more work should be done on the specifications and preliminary work to reduce this pessimism.
 
