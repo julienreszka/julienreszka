@@ -98,7 +98,7 @@ Make sure that the manufacturer has incentives to make a product without major d
 
 Make sure that if there are any liabilities, they are the liabilities of the supplier and not the liabilities of the buyer.
 
-## Use disruption as a catalyst for innovation and progress
+## ~Use disruption as a catalyst for innovation and progress~
 
 In theory, disruption of the status quo leads to innovation and progress.
 
