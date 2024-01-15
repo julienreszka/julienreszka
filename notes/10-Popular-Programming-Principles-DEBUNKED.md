@@ -576,7 +576,9 @@ In practice, It's possible to make increasingly more accurate estimates by break
 
 Breakdown a project into components and sub-components.
 
-Refine your estimates as you refine your specifications by sizing your pessimism
+Try to break down into 7 sub-components at most because it's the average maximum number of things a human can keep in mind at once.
+
+Refine your estimates as you refine your specifications by sizing your pessimism.
 
 Each deepest sub-component break it down into 3 parts:
 
