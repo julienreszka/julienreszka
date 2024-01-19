@@ -403,7 +403,7 @@ The Chrysler Comprehensive Compensation System (C3) was a payroll system that wa
 
 It was never able to replace the old system because it was missing features that were required by the users and it was not able to handle the load of the old system.
 
-The software engineering team worked for 7 years and although they achieved some technical goals they never managed to deliver a working payroll system. The project was eventually cancelled. The customer representative resigned due to burnout and stress, and could not be replaced.
+The software engineering team worked for 7 years and although they achieved some technical goals they never managed to deliver a working payroll system. The project was eventually cancelled. The so called customer representative resigned due to burnout and stress, and could not be replaced.
 
 ## ~Read the fucking manual (RTFM)~
 
