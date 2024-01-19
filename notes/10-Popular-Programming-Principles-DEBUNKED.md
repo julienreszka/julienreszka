@@ -16,6 +16,8 @@ In theory, simple solutions are easier to understand and maintain.
 
 In practice, they are often too simplistic and fail to address the complexity of real-world problems.
 
+Kelly Johnson's Keep it simple stupid principle was supposed to be a principle for sales to avoid technical and obscuring language when selling complex products. It was never intended to be an engineering principle. (see also: [10 Popular Sales principles debunked](10-Popular-Sales-Principles-DEBUNKED.md#use-simple-language))
+
 ### Don't keep it simple stupid.
 
 PUSH: Perfect Until Sufficiently Honed
