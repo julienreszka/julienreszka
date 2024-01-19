@@ -399,8 +399,11 @@ It was not the only reason why the rocket failed but it is one of the reasons.
 
 #### Chrysler Comprehensive Compensation System
 
-The Chrysler Comprehensive Compensation System (C3) was a payroll system that was supposed to replace the old one.
-It was never able to replace the old system because it was missing features that were required by the users and it was not able to handle the load of the old system. The software engineering team worked for 7 years and although they achieved some technical goals they never managed to deliver a working payroll system.
+The Chrysler Comprehensive Compensation System (C3) was a payroll system that was supposed to replace the old payroll system that was composed of 5 different systems.
+
+It was never able to replace the old system because it was missing features that were required by the users and it was not able to handle the load of the old system.
+
+The software engineering team worked for 7 years and although they achieved some technical goals they never managed to deliver a working payroll system.
 
 ## ~Read the fucking manual (RTFM)~
 
