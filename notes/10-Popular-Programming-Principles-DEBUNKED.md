@@ -337,7 +337,7 @@ In theory, it's better to avoid over-engineering and only implement what's neede
 
 In practice, it's better to prepare the system for what's required to avoid accumulating defects which will inevitably lead to some kind of failure.
 
-Even though YAGNI was coined by an Ron Jeffries, a software engineer, it was never intended to be an engineering principle but a procurement principle. (see also: [10 Popular Purchasing principles DEBUNKED](10-Popular-Purchasing-Principles-DEBUNKED.md#be-skeptical))
+Even though YAGNI was coined by Ron Jeffries, a software engineer, it was never intended to be an engineering principle but a procurement principle. (see also: [10 Popular Purchasing principles DEBUNKED](10-Popular-Purchasing-Principles-DEBUNKED.md#be-skeptical))
 
 ### You will probably need this.
 
