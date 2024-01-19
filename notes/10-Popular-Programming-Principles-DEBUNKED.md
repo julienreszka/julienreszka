@@ -18,6 +18,8 @@ In practice, they are often too simplistic and fail to address the complexity of
 
 Kelly Johnson's Keep it simple stupid principle was supposed to be a principle for sales to avoid technical and obscuring language when selling complex products. It was never intended to be an engineering principle. (see also: [10 Popular Sales principles DEBUNKED](10-Popular-Sales-Principles-DEBUNKED.md#use-simple-language))
 
+The SR71 Blackbird is a perfect example of a complex product that was sold using simple language. It was the fastest plane ever built and it was sold to the US military as a plane that could fly from New York to London in less than 2 hours.
+
 ### Don't keep it simple stupid.
 
 PUSH: Perfect Until Sufficiently Honed
@@ -394,6 +396,11 @@ Had they not followed the YAGNI principle, they would have been able to prepare 
 It caused a loss of around $370 million and a reputation loss for the European Space Agency and the French space program.
 
 It was not the only reason why the rocket failed but it is one of the reasons.
+
+#### Chrysler Comprehensive Compensation System
+
+The Chrysler Comprehensive Compensation System (C3) was a payroll system that was supposed to replace the old one.
+It was never able to replace the old system because it was missing features that were required by the users and it was not able to handle the load of the old system. The software engineering team worked for 7 years and although they achieved some technical goals they never managed to deliver a working payroll system.
 
 ## ~Read the fucking manual (RTFM)~
 
