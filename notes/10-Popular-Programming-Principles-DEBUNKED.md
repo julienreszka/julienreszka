@@ -16,7 +16,7 @@ In theory, simple solutions are easier to understand and maintain.
 
 In practice, they are often too simplistic and fail to address the complexity of real-world problems.
 
-Kelly Johnson's Keep it simple stupid principle was supposed to be a principle for sales to avoid technical and obscuring language when selling complex products. It was never intended to be an engineering principle. (see also: [10 Popular Sales principles debunked](10-Popular-Sales-Principles-DEBUNKED.md#use-simple-language))
+Kelly Johnson's Keep it simple stupid principle was supposed to be a principle for sales to avoid technical and obscuring language when selling complex products. It was never intended to be an engineering principle. (see also: [10 Popular Sales principles DEBUNKED](10-Popular-Sales-Principles-DEBUNKED.md#use-simple-language))
 
 ### Don't keep it simple stupid.
 
@@ -336,6 +336,8 @@ It was not the only reason why the company failed but it is one of the reasons.
 In theory, it's better to avoid over-engineering and only implement what's needed.
 
 In practice, it's better to prepare the system for what's required to avoid accumulating defects which will inevitably lead to some kind of failure.
+
+Even though YAGNI was coined by an Ron Jeffries, a software engineer, it was never intended to be an engineering principle but a procurement principle. (see also: [10 Popular Purchasing principles DEBUNKED](10-Popular-Purchasing-Principles-DEBUNKED.md#be-skeptical))
 
 ### You will probably need this.
 
