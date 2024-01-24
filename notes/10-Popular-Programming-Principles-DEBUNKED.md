@@ -654,6 +654,24 @@ Among others: the GPS, artificial limbs, water purification systems, computer mi
 
 It is estimated that the space program generated $7–$14 in economic return for every dollar invested.
 
+#### The Channel Tunnel
+
+The Channel Tunnel is a 50.45-kilometre (31.35 mi) railway tunnel that connects Folkestone (Kent, England, UK) with Coquelles (Hauts-de-France, France) beneath the English Channel at the Strait of Dover.
+
+It is the only fixed link between the island of Great Britain and the European mainland.
+
+At its lowest point, it is 75 m (250 ft) deep below the sea bed and 115 m (380 ft) below sea level.
+
+The Channel Tunnel was built between 1988 and 1994, and cost £4.65 billion ($7.5 billion) to construct.
+
+It was a remarkable achievement in engineering, and it stands as one of the most ambitious and successful examples of bottom-up estimation resulting in remarkable achievements.
+
+The project was divided into three phases: design, construction, and operation. Each phase had its own set of objectives and requirements, which were broken down into smaller components and sub-components.
+
+The project was completed on time and within budget, and it has been in operation since 1994.
+
+The Channel Tunnel is a testament to the power of bottom-up estimation and planning.
+
 ## ~Premature Optimization is the root of all evil (Donald Knuth)~
 
 In theory, optimization in the early stages of development is unnecessary and can lead to wasted time and effort.
