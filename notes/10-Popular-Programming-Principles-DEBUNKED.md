@@ -672,6 +672,16 @@ The project was completed on time and within budget, and it has been in operatio
 
 The Channel Tunnel is a testament to the power of bottom-up estimation and planning.
 
+#### The Millau Viaduct
+
+The Millau Viaduct is a cable-stayed bridge that spans the valley of the River Tarn near Millau in southern France. It is the tallest bridge in the world, with one mast's summit at 343.0 metres (1,125 ft) above the base of the structure. It is the 12th highest bridge deck in the world, being 270 metres (890 ft) between the road deck and the ground below.
+
+The Millau Viaduct was built between 2001 and 2004, and cost €394 million ($524 million) to construct.
+
+It was completed on time and it has been in operation since 2004.
+
+A WBS was used to break down the project into smaller components and sub-components.
+
 ## ~Premature Optimization is the root of all evil (Donald Knuth)~
 
 In theory, optimization in the early stages of development is unnecessary and can lead to wasted time and effort.
