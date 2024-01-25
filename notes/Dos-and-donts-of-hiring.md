@@ -151,7 +151,7 @@ Make sure that reorganization does not disrupt operations.
 
 ## Job openings
 
-Make sure that the company remains attractive to potential candidates.
+Make sure that the company remains reactive to potential candidates.
 
 ### Inboxes
 
