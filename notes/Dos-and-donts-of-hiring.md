@@ -215,7 +215,7 @@ Make sure that work is meaningful and enjoyable.
 #### Do
 
 - Be flexible: Allow for flexible working hours.
-- Be supportive: Offer support for personal challenges like parental leave.
+- Be supportive: Offer support for personal challenges like parental leave, side projects, etc.
 
 #### Don't
 
