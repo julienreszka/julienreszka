@@ -205,3 +205,29 @@ Make sure that the company can retain and develop talent.
 
 - Let them struggle with commute and relocation expenses: Offer support for practical challenges.
 - Let them struggle with training and equipment costs: Provide necessary resources for learning and development.
+
+## Values
+
+Make sure that work is meaningful and enjoyable.
+
+### Family
+
+#### Do
+
+- Be flexible: Allow for flexible working hours.
+- Be supportive: Offer support for personal challenges like parental leave.
+
+#### Don't
+
+- Be let down: Avoid letting down employees in times of need.
+- Be let people burn out: Ensure a healthy work-life balance.
+
+### Privacy
+
+#### Do
+
+- Respect privacy: Avoid unnecessary surveillance.
+
+#### Don't
+
+- Assume consent: Ensure employees are aware of data collection practices.
