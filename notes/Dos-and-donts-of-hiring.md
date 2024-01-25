@@ -219,8 +219,8 @@ Make sure that work is meaningful and enjoyable.
 
 #### Don't
 
-- Be let down: Avoid letting down employees in times of need.
-- Be let people burn out: Ensure a healthy work-life balance.
+- Let down: Avoid letting down employees in times of need.
+- Let people burn out: Ensure a healthy work-life balance.
 
 ### Privacy
 
