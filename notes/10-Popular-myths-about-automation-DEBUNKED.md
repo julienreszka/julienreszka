@@ -1,5 +1,11 @@
 # 10 Popular myths about automation debunked
 
+Automation is the use of technology to perform tasks with reduced human assistance.
+
+It has its pros and cons. However, there are many myths about automation that are simply not true.
+
+Let's debunk them.
+
 ## Automation leads to higher unemployment
 
 The claim that automation leads to higher unemployment is very easy to debunk.
@@ -33,6 +39,18 @@ If automation lead to lower respect for human life then we would expect to see a
 Japan has the lowest number of homicides of any nation.
 
 Therefore, clearly, automation doesn't lead to lower respect for human life (as measured by the number of homicides).
+
+## Automation leads to higher employee well being
+
+The claim that automation leads to higher employee well being is very easy to debunk.
+
+If automation lead to higher employee well being then we would expect to see a higher employee well being in nations that leverage automation more than other nations.
+
+Japanese people have the lowest employee well being of any nation.
+
+Japan is the nation that leverages automation more than any other nation.
+
+Therefore, clearly, automation doesn't lead to higher employee well being (as measured by employee well being).
 
 <hr>
 
