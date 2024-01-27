@@ -100,7 +100,17 @@ Therefore, clearly, automation doesn't lead to lower stress (as measured by stre
 
 ## Conclusion
 
-While automation brings many benefits (lower unemployment, higher life expectancy, lower number of homicides, etc) it also brings many drawbacks (lower employee well being, lower carefulness, higher stress, etc).
+Pros of automation:
+
+- lower unemployment,
+- higher control over our lives,
+- higher respect for human life,
+
+Cons of automation:
+
+- lower employee well being,
+- lower carefulness,
+- higher stress,
 
 I will let you decide whether or not the benefits of automation outweigh the drawbacks of automation.
 
