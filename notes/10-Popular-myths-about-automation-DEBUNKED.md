@@ -2,7 +2,7 @@
 
 ## Automation leads to higher unemployment
 
-The claim that automation leads to unemployment is very easy to debunk.
+The claim that automation leads to higher unemployment is very easy to debunk.
 
 Take a look at Japan, a nation that leverages robots more than anyone other nation what is their level of unemployment? The lowest of the top 10 largest economies by GDP.
 
