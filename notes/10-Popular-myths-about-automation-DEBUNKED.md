@@ -1,4 +1,4 @@
-# 10 Popular myths about automation debunked
+# 10 Popular myths about automation DEBUNKED
 
 Automation is the use of technology to perform tasks with reduced human assistance.
 
