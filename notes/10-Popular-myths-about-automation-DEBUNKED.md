@@ -8,6 +8,10 @@ There are many myths about automation that are simply not true. Let's debunk the
 
 ## Automation leads to higher unemployment
 
+In theory, automation should lead to higher unemployment because jobs are replaced by machines.
+
+In practice, automation leads to lower unemployment because automation creates more jobs than it destroys.
+
 The claim that automation leads to higher unemployment is very easy to debunk.
 
 Take a look at Japan, a nation that leverages robots more than anyone other nation what is their level of unemployment? The lowest of the top 10 largest economies by GDP.
@@ -17,6 +21,10 @@ The limit on how many businesses are created is the average upfront capital requ
 Automation technology makes it easier to start a business because it reduces the upfront capital needed. So more businesses are created which leads to more jobs to fill.
 
 ## Automation leads to lower control over our lives
+
+In theory, automation should lead to lower control over our lives because automation makes us more dependent on technology.
+
+In practice, automation leads to higher control over our lives because automation makes us more independent of other humans.
 
 The claim that automation leads to lower control over our lives is not very easy to debunk because control over our lives is difficult to measure.
 
@@ -32,6 +40,10 @@ Therefore, clearly, automation doesn't lead to lower control over our lives (as 
 
 ## Automation leads to lower respect for human life
 
+In theory, automation should lead to lower respect for human life because automation makes us less dependent on other humans.
+
+In practice, automation leads to higher respect for human life because automation makes us appreciate human life more.
+
 The claim that automation leads to lower respect for human life is not very easy to debunk because respect for human life is difficult to measure. However, if we had to simplify the measure of a nation of respect for human life it would probably be with the number of homicides per capita.
 
 If automation lead to lower respect for human life then we would expect to see a higher number of homicides per capita in nations that leverage automation more than other nations.
@@ -41,6 +53,10 @@ Japan has the lowest number of homicides of any nation.
 Therefore, clearly, automation doesn't lead to lower respect for human life (as measured by the number of homicides).
 
 ## Automation leads to higher employee well being
+
+In theory, automation should lead to higher employee well being because automation gives us more time to do what we want to do.
+
+In practice, automation leads to lower employee well being because automation takes car of easier tasks and leaves us the harder tasks.
 
 The claim that automation leads to higher employee well being is very easy to debunk.
 
@@ -53,6 +69,10 @@ Japan is the nation that leverages automation more than any other nation.
 Therefore, clearly, automation doesn't lead to higher employee well being (as measured by employee well being).
 
 ## Automation leads to higher carefulness
+
+In theory, automation should lead to higher carefulness because automation gives us more time to think about what we are doing.
+
+In practice, automation leads to lower carefulness because automation makes us more complacent.
 
 The claim that automation leads to higher carefulness is very easy to debunk.
 
