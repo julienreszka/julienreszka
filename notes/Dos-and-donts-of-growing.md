@@ -93,13 +93,13 @@ Perception of opposition is caused by deceptive practices. Avoid this by making 
 
 ### Expiration Dates
 
-#### Do: Set Clear Expiration Dates for Goals
+#### Do: Set Clear Expiration Dates
 
 Establish clear expiration dates for your action items and goals. This ensures accountability, encourages timely execution, and allows for regular assessments of progress toward growth objectives.
 
-#### Don't: Procrastinate on Action Items
+#### Don't: Automatic renewals
 
-Avoid procrastination when it comes to action items. Delaying tasks can impede growth and result in missed opportunities. Prioritize and execute action items promptly to stay on track.
+Implied consents are caused by automatic renewals. Avoid this by making sure that everyone is aware of the expiration date.
 
 ### Early Termination Fees
 
@@ -107,9 +107,9 @@ Avoid procrastination when it comes to action items. Delaying tasks can impede g
 
 In contractual agreements, clearly define terms for early termination and associated fees. This provides clarity for all parties involved and minimizes the risk of disputes.
 
-#### Don't: Ambiguously Address Termination Terms
+#### Don't: Let breaches of contract happen
 
-Ambiguity in termination terms can lead to misunderstandings and conflicts. Ensure that all parties have a clear understanding of the consequences of early termination to maintain healthy business relationships.
+Legal liabilities are caused by breaches of contract. Avoid this by making sure that everyone is aware of the terms.
 
 ## Awards
 
