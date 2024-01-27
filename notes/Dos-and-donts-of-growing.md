@@ -75,9 +75,9 @@ Miscommunications is caused by distractions. Avoid this by making sure that ever
 
 In business agreements, adhere to professional etiquette. Maintain transparency, honesty, and integrity in negotiations, fostering a positive reputation and building trust with partners and stakeholders.
 
-#### Don't: Engage in Unethical Practices
+#### Don't: Let culture shocks happen
 
-Avoid engaging in unethical practices during negotiations or agreements. Unscrupulous behavior can damage your reputation, hinder growth opportunities, and lead to legal consequences.
+Feelings of homesickness is caused by culture shocks. Avoid this by making sure that everyone is comfortable.
 
 ### Codes of Honor
 
@@ -85,9 +85,9 @@ Avoid engaging in unethical practices during negotiations or agreements. Unscrup
 
 Commit to upholding ethical codes and industry standards. Align your business practices with a strong code of honor, building a reputation for integrity and responsible business conduct.
 
-#### Don't: Compromise on Ethical Principles
+#### Don't: Make deceptive practices an option
 
-Refuse to compromise on ethical principles for short-term gains. Violating ethical standards can have severe consequences for your business, including legal repercussions and damaged relationships.
+Perception of opposition is caused by deceptive practices. Avoid this by making sure that everyone is on the same page.
 
 ## Action Items
 
