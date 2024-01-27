@@ -10,9 +10,9 @@ The limit on how many businesses are created is the average upfront capital requ
 
 ## Automation leads to lower control over our lives
 
-The claim that automation leads to lower control over our lives is very easy to debunk.
+The claim that automation leads to lower control over our lives is not very easy to debunk because control over our lives is difficult to measure.
 
-If we had to measure control over ones life it would be with low life expectancy.
+However, if we had to simplify the measure of someone's lack of control over his own life it would probably be with low life expectancy.
 
 If automation lead to lower control over our lives then we would expect to see a lower life expectancy in nations that leverage automation more than other nations.
 
@@ -20,7 +20,7 @@ Japanese people have the highest life expectancy of any nation.
 
 Japan is the nation that leverages automation more than any other nation.
 
-Therefore, clearly, automation doesn't lead to lower control over our lives.
+Therefore, clearly, automation doesn't lead to lower control over our lives (as measured by life expectancy).
 
 <hr>
 
