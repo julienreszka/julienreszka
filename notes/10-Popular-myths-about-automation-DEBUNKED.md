@@ -24,6 +24,16 @@ Japan is the nation that leverages automation more than any other nation.
 
 Therefore, clearly, automation doesn't lead to lower control over our lives (as measured by life expectancy).
 
+## Automation leads to lower respect for human life
+
+The claim that automation leads to lower respect for human life is not very easy to debunk because respect for human life is difficult to measure. However, if we had to simplify the measure of a nation of respect for human life it would probably be with the number of homicides per capita.
+
+If automation lead to lower respect for human life then we would expect to see a higher number of homicides per capita in nations that leverage automation more than other nations.
+
+Japan has the lowest number of homicides of any nation.
+
+Therefore, clearly, automation doesn't lead to lower respect for human life (as measured by the number of homicides).
+
 <hr>
 
 This is a work in progress.
