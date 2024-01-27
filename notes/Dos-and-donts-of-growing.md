@@ -8,9 +8,9 @@
 
 Innovation is the key to sustained growth. Encourage a culture that values creativity and new ideas. Foster an environment where team members feel comfortable expressing innovative thoughts and exploring unconventional solutions.
 
-#### Don't: Resist Change and Cling to Tradition
+#### Don't: Give out market share
 
-Avoid stifling growth by resisting change and clinging to traditional methods. Embrace the evolving landscape of your industry and be open to adopting new technologies and strategies.
+Stagnation allows market challengers to gain a competitive advantage. Avoid giving out market share by embracing innovation and continuously improving your products or services to meet customer needs.
 
 ### Customer Services
 
