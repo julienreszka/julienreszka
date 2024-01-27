@@ -1,6 +1,6 @@
 # 10 Popular myths about automation debunked
 
-## Automation leads to unemployment
+## Automation leads to higher unemployment
 
 The claim that automation leads to unemployment is very easy to debunk.
 
