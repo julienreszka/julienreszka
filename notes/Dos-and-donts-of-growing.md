@@ -18,9 +18,9 @@ Stagnation allows market challengers to gain a competitive advantage. Avoid givi
 
 Exceptional customer service is crucial for business growth. Prioritize customer satisfaction by actively seeking feedback, addressing concerns promptly, and continuously improving your products or services based on customer needs.
 
-#### Don't: Ignore Customer Feedback
+#### Don't: Let customer attrition increase
 
-Ignoring customer feedback can hinder your growth. Negative feedback provides valuable insights that can lead to improvements. Disregarding customer opinions may result in a decline in satisfaction and, ultimately, revenue.
+If you loose customers you might overproduce and have to sell at a discount. Avoid customer attrition by providing excellent customer service and maintaining a positive reputation.
 
 ## Trades
 
