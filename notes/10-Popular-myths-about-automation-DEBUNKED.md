@@ -52,6 +52,16 @@ Japan is the nation that leverages automation more than any other nation.
 
 Therefore, clearly, automation doesn't lead to higher employee well being (as measured by employee well being).
 
+## Automation leads to higher carefulness
+
+The claim that automation leads to higher carefulness is very easy to debunk.
+
+Carefulness can be measured by the number of traffic accidents per km.
+
+If automation lead to higher carefulness then we would expect to see a lower number of traffic accidents per km in self-driving cars than in human-driven cars. However, the opposite is true.
+
+Therefore, clearly, automation doesn't lead to higher carefulness (as measured by the number of traffic accidents per km).
+
 <hr>
 
 This is a work in progress.
