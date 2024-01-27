@@ -62,6 +62,12 @@ If automation lead to higher carefulness then we would expect to see a lower num
 
 Therefore, clearly, automation doesn't lead to higher carefulness (as measured by the number of traffic accidents per km).
 
+## Conclusion
+
+While automation brings many benefits (lower unemployment, higher life expectancy, lower number of homicides, etc) it also brings many drawbacks (lower employee well being, lower carefulness, etc).
+
+I will let you decide whether or not the benefits of automation outweigh the drawbacks of automation.
+
 <hr>
 
 This is a work in progress.
