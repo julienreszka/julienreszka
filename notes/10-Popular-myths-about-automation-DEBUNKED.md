@@ -82,6 +82,22 @@ If automation lead to higher carefulness then we would expect to see a lower num
 
 Therefore, clearly, automation doesn't lead to higher carefulness (as measured by the number of traffic accidents per km).
 
+## Automation leads to lower stress
+
+In theory, automation should lead to lower stress because automation gives us more time to relax.
+
+In practice, automation leads to higher stress because automation makes us more anxious about the future.
+
+The claim that automation leads to lower stress is very easy to debunk.
+
+If automation lead to lower stress then we would expect to see a lower stress level in nations that leverage automation more than other nations.
+
+Japanese people have the highest stress level of any nation (tied with South Korea).
+
+Japan is the nation that leverages automation more than any other nation.
+
+Therefore, clearly, automation doesn't lead to lower stress (as measured by stress level).
+
 ## Conclusion
 
 While automation brings many benefits (lower unemployment, higher life expectancy, lower number of homicides, etc) it also brings many drawbacks (lower employee well being, lower carefulness, etc).
