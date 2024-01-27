@@ -2,9 +2,9 @@
 
 Automation is the use of technology to perform tasks with reduced human assistance.
 
-It has its pros and cons. However, there are many myths about automation that are simply not true.
+Everything about automation isn't great, it has its pros and cons.
 
-Let's debunk them.
+There are many myths about automation that are simply not true. Let's debunk them.
 
 ## Automation leads to higher unemployment
 
