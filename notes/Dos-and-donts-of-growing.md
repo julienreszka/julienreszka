@@ -53,9 +53,9 @@ It's caused by market distortions, such as taxes or subsidies, price ceilings or
 
 Establish clear designations for meeting roles and responsibilities to ensure that each participant contributes meaningfully. Designate a leader, timekeeper, and note-taker to streamline the meeting process and enhance productivity.
 
-#### Don't: Allow Meetings to Lack Structure
+#### Don't: Allow Caphony to Occur
 
-Avoid unstructured meetings that lack defined roles and objectives. A lack of organization can lead to inefficiency and result in unproductive discussions that hinder progress.
+It's embarrassing to have a meeting where people talk over each other. Avoid this by making sure that only one person speaks at a time.
 
 ### Focal Points
 
@@ -63,9 +63,9 @@ Avoid unstructured meetings that lack defined roles and objectives. A lack of or
 
 Maintain a laser-like focus on the purpose of each meeting. Clearly outline goals and objectives, and ensure that discussions revolve around key focal points to drive meaningful outcomes.
 
-#### Don't: Allow Meetings to Become Tangential
+#### Don't: Allow distractions
 
-Guard against meetings devolving into tangential discussions that stray from the intended agenda. This ensures that time is used efficiently and that decisions align with growth objectives.
+Miscommunications is caused by distractions. Avoid this by making sure that everyone is paying attention.
 
 ## Agreements
 
