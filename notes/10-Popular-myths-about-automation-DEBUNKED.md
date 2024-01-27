@@ -24,8 +24,6 @@ Japan is the nation that leverages automation more than any other nation.
 
 Therefore, clearly, automation doesn't lead to lower control over our lives (as measured by life expectancy).
 
-## Automation leads to
-
 <hr>
 
 This is a work in progress.
