@@ -12,7 +12,7 @@ The limit on how many businesses are created is the average upfront capital requ
 
 The claim that automation leads to lower control over our lives is very easy to debunk.
 
-If we had to measure of control over ones life it would be with low life expectancy.
+If we had to measure control over ones life it would be with low life expectancy.
 
 If automation lead to lower control over our lives then we would expect to see a lower life expectancy in nations that leverage automation more than other nations.
 
