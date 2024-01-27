@@ -141,9 +141,9 @@ Avoid settling for mediocrity. Strive for excellence in all aspects of your busi
 
 In financial planning, allocate funds for regular maintenance expenses. Proactively budgeting for maintenance ensures that your business operations run smoothly, minimizing disruptions that could impede growth.
 
-#### Don't: Neglect Maintenance Planning
+#### Don't: Let depreciations accumulate
 
-Neglecting to plan for maintenance expenses can result in unforeseen disruptions and expenses. Regularly assess and address maintenance needs to maintain a stable foundation for sustainable growth.
+Hard to sell assets are caused by depreciations. Avoid this by making sure that your assets are well maintained.
 
 ### Market Trends
 
@@ -151,9 +151,9 @@ Neglecting to plan for maintenance expenses can result in unforeseen disruptions
 
 Stay informed about current market trends and industry developments. Being aware of market dynamics allows you to adapt your strategies to align with changing consumer preferences and stay ahead of the competition.
 
-#### Don't: Ignore Shifting Market Trends
+#### Don't: Oversupply
 
-Ignoring shifting market trends can leave your business out of touch with customer demands. Stay proactive in monitoring and responding to changes in the market to ensure continued relevance and growth.
+Buyer's market is caused by oversupply. Avoid this by making sure that your supply is in line with demand.
 
 ## National Interests
 
@@ -163,9 +163,9 @@ Ignoring shifting market trends can leave your business out of touch with custom
 
 Be mindful of your business's impact on national interests. Contribute positively to the community and nation by creating jobs, supporting local initiatives, and fostering economic growth.
 
-#### Don't: Neglect Social Responsibility
+#### Don't: Let diversions happen
 
-Neglecting social responsibility can harm your business's reputation and hinder growth. Consider the broader impact of your operations on society and actively engage in responsible business practices.
+Foreign interferences are caused by diversions. Avoid this by making sure that your business is aligned with national interests.
 
 ### Soft Power
 
@@ -173,8 +173,6 @@ Neglecting social responsibility can harm your business's reputation and hinder 
 
 Utilize soft power – the ability to influence others through attraction and persuasion – to enhance your business's reputation and global standing. Build relationships, demonstrate expertise, and engage in diplomatic practices to foster positive perceptions.
 
-#### Don't: Use Soft Power Manipulatively
+#### Don't: Let hard power take over
 
-Avoid using soft power manipulatively or unethically. Building trust and credibility through genuine actions contributes to long-term growth, while manipulative tactics can lead to reputational damage.
-
-In conclusion, adhering to the dos and don'ts outlined in this comprehensive guide can provide a solid foundation for sustainable growth. By fostering
+Wars are caused by hard power. Avoid this by making sure that your business protects national interests and promotes peace.
