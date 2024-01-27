@@ -30,9 +30,9 @@ If you loose customers you might overproduce and have to sell at a discount. Avo
 
 Conduct thorough analyses to assess the present value of potential trades and investments. Consider factors such as market conditions, expected returns, and risk assessments to make informed decisions that contribute to your overall growth strategy.
 
-#### Don't: Blindly Pursue Short-Term Gains
+#### Don't: Fall into economic bubbles
 
-Avoid the temptation to chase short-term gains without considering the long-term consequences. Blindly pursuing immediate profits may compromise the stability and sustainability of your business.
+Economic bubbles lead to panic selling.
 
 ### Calibrations
 
@@ -40,9 +40,10 @@ Avoid the temptation to chase short-term gains without considering the long-term
 
 Regularly calibrate your business strategies based on performance evaluations. Analyze data, identify areas for improvement, and make necessary adjustments to optimize efficiency and maximize growth potential.
 
-#### Don't: Set and Forget
+#### Don't: Believe in market distortions
 
-Refrain from adopting a "set and forget" mentality. Continuous calibration is essential for adapting to dynamic market conditions and ensuring that your business remains agile and responsive.
+Deadweight losses, which are defined as the loss of economic efficiency that can occur when equilibrium for a good or service is not achieved or is not achievable.
+It's caused by market distortions, such as taxes or subsidies, price ceilings or floors, externalities, or monopoly pricing.
 
 ## Meetings
 
