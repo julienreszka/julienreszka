@@ -17,6 +17,8 @@ This is just a tribute to the stoic philosophy. I recommend reading the classics
 
 https://plato.stanford.edu/entries/stoicism/
 
+TODO: insert something about how Portugal is succeeding in this regard
+
 <hr>
 
 This is a work in progress
