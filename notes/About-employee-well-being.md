@@ -4,6 +4,8 @@
   - Closeness
   - Openness
 
+TODO: insert something about how Turkey is succeeding in this regard
+
 <hr>
 
 This is a work in progress
