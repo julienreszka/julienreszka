@@ -1,4 +1,4 @@
-# About stress and how to deal with it
+# About stress free life
 
 Fear and anxiety shrinks the brain and makes you stupid. If you rely on intelligence for your work why would you ever allow something to make you anxious.
 

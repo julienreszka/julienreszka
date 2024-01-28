@@ -6,7 +6,7 @@
 - [10 Popular Sales Principles DEBUNKED](notes/10-Popular-Sales-Principles-DEBUNKED.md)
 - [10 Popular Purchasing Principles DEBUNKED](notes/10-Popular-Purchasing-Principles-DEBUNKED.md)
 - [10 Popular myths about automation DEBUNKED](notes/10-Popular-myths-about-automation-DEBUNKED.md)
-- [About stress and how to deal with it](notes/About-stress-and-how-to-deal-with-it.md)
+- [About stress free life](notes/About-stress-free-life.md)
 - [About carefulness](notes/About-carefulness.md)
 - [About employee well-being](notes/About-employee-well-being.md)
 - [Dos and don'ts of hiring](notes/Dos-and-donts-of-hiring.md)
