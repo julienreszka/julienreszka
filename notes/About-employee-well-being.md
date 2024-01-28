@@ -1,6 +1,8 @@
 # About employee well-being
 
-- Close Community networks
+- Community networks that are characterized by:
+  - Closeness
+  - Openness
 
 <hr>
 
