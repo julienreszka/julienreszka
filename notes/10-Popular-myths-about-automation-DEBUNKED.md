@@ -114,6 +114,12 @@ Cons of automation:
 
 I will let you decide whether or not the benefits of automation outweigh the drawbacks of automation.
 
+## See also
+
+- [About employee well-being](About-employee-well-being.md)
+- [About carefulness](About-carefulness.md)
+- [About stress free life](About-stress-free-life.md)
+
 <hr>
 
 This is a work in progress.
