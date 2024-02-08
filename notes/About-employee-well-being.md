@@ -10,7 +10,7 @@ Japan and Singapore have among the lowest average duration of sleep in the world
 
 Netherlands, New Zealand and France have among the highest average duration of sleep in the world.
 
-Netherlands, New Zealand and France, all have put an emphasis on time for rest and relaxation either through lower working hours or through more flexible working hours.
+Netherlands, New Zealand and France, all have put an emphasis on giving time for rest and relaxation either through lower working hours or through more flexible working hours.
 
 <hr>
 
