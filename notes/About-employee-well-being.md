@@ -12,6 +12,8 @@ Netherlands, New Zealand and France have among the highest average duration of s
 
 Netherlands, New Zealand and France, all have put an emphasis on giving time for rest and relaxation either through lower working hours or through more flexible working hours.
 
+This is possible because they have continuity plans in place to ensure that the work gets done even if the employee is not there.
+
 <hr>
 
 This is a work in progress
