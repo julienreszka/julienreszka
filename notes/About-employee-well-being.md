@@ -1,12 +1,6 @@
 # About employee well-being
 
-- Community networks that are characterized by:
-  - Closeness
-  - Openness
-
-TODO: insert something about binômes
-
-TODO: insert something about how Turkey is succeeding in this regard
+Employee well being is not an easy thing to study because of all the lies and hypocrisy.
 
 <hr>
 
