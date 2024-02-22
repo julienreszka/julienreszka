@@ -604,6 +604,8 @@ By sizing your degree of pessimism and therefore uncertainty for each deliverabl
 
 ### For Example
 
+#### Estimates
+
 ```
 - [ ] A 390 min
   - [ ] AA 145 min
@@ -629,6 +631,22 @@ By sizing your degree of pessimism and therefore uncertainty for each deliverabl
         - [ ] ABCB realistic buffer 10 min
         - [ ] ABCB pessimistic buffer 10 min
 ```
+#### Program management
+
+```
+  - [ ] Project A
+    - [ ] Feature AA
+      - [ ] Component AAA
+        - [ ] Functionality AAAA Allows users to do something by doing something
+        - [ ] Functionality AAAB Allows users to do something by doing something
+      - [ ] Component AAB
+    - [ ] Feature AB
+      - [ ] Component ABA
+      - [ ] Component ABB
+      - [ ] Component ABC
+
+```
+
 
 In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This sub-component should be investigated for potential specifications improvements.
 
