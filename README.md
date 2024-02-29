@@ -12,3 +12,4 @@
 - [Dos and don'ts of hiring](notes/Dos-and-donts-of-hiring.md)
 - [Dos and don'ts of growing](notes/Dos-and-donts-of-growing.md)
 - [Favorite vs code extensions](notes/favorite-vs-code-extensions.md)
+- [Prototyping and the role of the Designer](notes/Prototyping.md)
