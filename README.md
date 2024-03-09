@@ -13,3 +13,4 @@
 - [Dos and don'ts of growing](notes/Dos-and-donts-of-growing.md)
 - [Favorite vs code extensions](notes/favorite-vs-code-extensions.md)
 - [Prototyping and the role of the Designer](notes/Prototyping.md)
+- [How to make a Retrospective](notes/How-to-make-a-rRetrospective.md)
