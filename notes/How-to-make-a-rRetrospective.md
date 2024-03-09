@@ -1,6 +1,6 @@
 # How to make a retrospective
 
-The popular wat to run a retrospective is to ask the team three questions to brainstorm ideas:
+The popular way to run a retrospective is to ask the team three questions to brainstorm ideas:
 
 1. What should we stop doing?
 2. What should we start doing?
