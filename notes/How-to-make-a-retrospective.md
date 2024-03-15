@@ -18,3 +18,9 @@ A good way to run a retrospective is to ask the team to think and write well tho
 The answers must have an introduction, a body and a conclusion.
 
 If some of the members are incapable of writing sentences they are not fit to make decision and should not participate in the retrospective.
+
+Allocate a time block to reflect and write.
+
+Let someone read and summarize the answers in a neutral tone.
+
+Allocate a time block to read and reflect on the summarized answers.
