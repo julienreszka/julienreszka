@@ -78,7 +78,7 @@ const customerJourneySteps: CustomerJourneyStep[] = [
 
 Giving a shape to ideas and concepts
 
-```
+```ts
 interface IdeaConcept {
     title: string;
     description: string;
