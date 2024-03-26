@@ -451,9 +451,7 @@ In theory, UI consistency makes it easier for users to navigate and interact wit
 
 In practice, Trying to maintain UI consistency over time is a fool's errand because it's impossible to predict how the UI will evolve.
 
-### Don't reinvent the wheel
-
-Focus on the user experience.
+### Focus on the user experience and functional requirements.
 
 It's ok if a UI component doesn't match the style of the app but makes things easier for the user because he already knows how to use it.
 
@@ -524,6 +522,12 @@ It was such a failure that Microsoft skipped Windows 9 and had to release a new 
 The failure of Windows 8 and the Surface RT led to a significant financial impact for Microsoft. The company took a $900 million charge for its inventory of unsold Surface tablets, which was attributed to the slow sales of the Surface RT and the confusion surrounding its Windows RT operating system.
 This inventory write-down resulted in a substantial selloff of Microsoft shares and wiped out $34 billion in market value
 While the exact cost of the Windows 8 UI failure is not explicitly mentioned, the $900 million write-down provides a clear indication of the financial impact associated with the unsold inventory of Surface tablets, which was a result of the Windows 8 and Surface RT underperformance.
+
+### Real life example of the how focusing on UX results in amazing achievements
+
+#### Craigslist
+
+#### Steam (Valve Corporation)
 
 ## ~Be conservative in what you send, be liberal in what you accept (Postel's Law)~
 
@@ -631,6 +635,7 @@ By sizing your degree of pessimism and therefore uncertainty for each deliverabl
         - [ ] ABCB realistic buffer 10 min
         - [ ] ABCB pessimistic buffer 10 min
 ```
+
 #### Program management
 
 ```
@@ -646,7 +651,6 @@ By sizing your degree of pessimism and therefore uncertainty for each deliverabl
       - [ ] Component ABC
 
 ```
-
 
 In this example we can see that sometimes the pessimistic buffer is even larger than the realistic buffer. This sub-component should be investigated for potential specifications improvements.
 
