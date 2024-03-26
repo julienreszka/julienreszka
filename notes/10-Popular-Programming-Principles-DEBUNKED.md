@@ -527,7 +527,15 @@ While the exact cost of the Windows 8 UI failure is not explicitly mentioned, th
 
 #### Craigslist
 
+Craigslist is a prime example of a successful platform that prioritizes user experience over UI consistency.
+
+Craigslist's interface has remained largely unchanged since its inception in 1995, with a simple, text-based design that focuses on functionality over aesthetics. The platform's primary goal is to connect users with local services, goods, and job listings in a straightforward and efficient manner. While the design may appear outdated compared to modern websites, Craigslist's focus on usability and functionality has contributed to its enduring popularity. The platform's minimalist approach and emphasis on user experience have made it a go-to destination for classified ads and community engagement. Craigslist's success demonstrates that prioritizing user experience can lead to long-term success, even if it means sacrificing UI consistency.
+
 #### Steam (Valve Corporation)
+
+Steam, the digital distribution platform developed by Valve Corporation, is another example of a successful platform that prioritizes user experience over UI consistency. Steam's interface has evolved over the years to accommodate new features and services, but the platform's focus on usability and functionality remains consistent. Steam's user-friendly design allows gamers to browse, purchase, and play games seamlessly, with features like cloud saves, automatic updates, and community forums enhancing the overall gaming experience. While Steam's interface may not adhere strictly to UI consistency principles, its emphasis on user experience has made it a leading platform in the gaming industry. Steam's success highlights the importance of prioritizing user experience to create a positive and engaging platform for users.
+
+They own about 50% of the digital distribution market for video games.
 
 ## ~Be conservative in what you send, be liberal in what you accept (Postel's Law)~
 
