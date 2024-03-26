@@ -221,6 +221,12 @@ It lead to the development of a system that was not resilient to failure and tha
 
 The principle of failing fast is not the only reason why the 737 MAX failed but it is one of the reasons.
 
+### Real life example of the how recovering quickly results in amazing achievements
+
+#### SpaceX
+
+Jarrett Farnitano is a software engineer at SpaceX, where he works on the Dragon spacecraft's software. He has shared insights into SpaceX's approach to software development, emphasizing the importance of recovering quickly from failures. "It is important in safety critical software that if a single software component were to have a problem, it does not impact the entire software system. Software also often depends on the hardware it is interacting with, so must account for hardware failures as well. Crashing and restarting just isn't an option. We approach this by building the software in modular components, writing defensive logic, and checking the status of each operation. If an operation we expect to complete fails, we have defined error handling paths and recovery strategies. Sometimes that strategy just means skipping over the operation. Sometimes the strategies can be more complex and involve responses such as switching to backup systems."
+
 ## ~Don't Repeat yourself (DRY)~
 
 In theory it's better to have a single source of truth to avoid inconsistencies.
