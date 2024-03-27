@@ -44,7 +44,7 @@ Identify underutilized resources. (Supply/Demand)
 
 Focus on things that are unlikely to change. (Change/Time)
 
-- Supply and demand
+- Risks and uncertainties
 - Rights and obligations
 - Skills and abilities
 
