@@ -893,6 +893,14 @@ Bloomberg News reported the cost exceeded $2 billion.
 
 Performance was not the only reason why the website failed but it is one of the reasons. It was a major factor in the delay of the rollout of the ACA.
 
+### Real life example of how fast benchmarking results in amazing achievements
+
+#### SpaceX Falcon 9 rocket (2010)
+
+Benchmarking helped SpaceX optimize the performance of the Falcon 9 rocket. By quickly benchmarking different configurations, materials, and manufacturing techniques, SpaceX engineers were able to identify the most efficient and effective solutions for various components of the rocket. This optimization contributed to the Falcon 9's ability to deliver payloads to orbit at a lower cost compared to traditional rockets.
+
+In 2022, it became the U.S. rocket with the most launches in history and with the best safety record, having suffered just one flight failure.
+
 ## ~The less it knows the better (Law of Demeter)~
 
 In theory, the Law of Demeter (LoD) states that a module should have have limited knowledge of other modules to avoid tight coupling and minimize dependencies.
