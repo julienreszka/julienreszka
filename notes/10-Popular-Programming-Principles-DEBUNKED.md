@@ -365,6 +365,12 @@ During the Gulf War in 1991, a Patriot missile defense system failed to intercep
 The mismatch created a time skew large enough to allow the Scud to be ½ kilometer off its computed location.
 This shows how not repeating yourself can lead to catastrophic consequences.
 
+#### Ariane flight V88 (1996) Code Reuse
+
+The Ariane 5 rocket failure in 1996 was attributed to a software error. The rocket swerved off course and exploded 40 seconds after liftoff due to an unhandled overflow/carryover during a 64-to-16-bit floating point to signed integer conversion. The module responsible for the exception was redundant at the time of the crash, and its function was related to alignment before lift-off, required to run for some time after lift-off with the previous version, Ariane 4. The code was reused from the Ariane 4 version and it resulted in a genuine disaster.
+
+It was not the only reason why the rocket failed but it is one of the reasons. See also: [Ariane flight V88 (1996) Requirements Error](10-Popular-Programming-Principles-DEBUNKED.md#ariane-flight-v88-1996-requirements-error)
+
 ### Real life example of the how WET results in amazing achievements
 
 #### Google
@@ -437,7 +443,7 @@ The index finger, while important for dexterity and fine motor skills, has some 
 
 ### Real life example of the disastrous consequences of following the YAGNI principle
 
-#### Ariane flight V88
+#### Ariane flight V88 (1996) Requirements Error
 
 The Ariane 5 rocket failure in 1996 was attributed to a software error.
 
