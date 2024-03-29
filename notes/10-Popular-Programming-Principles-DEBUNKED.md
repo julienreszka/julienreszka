@@ -379,6 +379,14 @@ Netflix is known for its sophisticated approach to software development, which i
 
 These companies prioritize stability and reliability in their software development processes by following practices that allow them to write new code separately from existing systems, reducing the likelihood of catastrophic errors
 
+#### Uber
+
+Uber minimizes disruptions to its service by using feature flags and gradual rollouts to introduce new features or updates. This approach allows Uber to test new code in a controlled environment before deploying it to all users. By following the WET principle, Uber can maintain a high level of service availability and reliability for its ride-sharing platform.
+
+#### Dropbox
+
+Dropbox, a file hosting service, embraces continuous deployment practices to deliver a reliable and secure cloud storage solution to its users. By writing new code separately and testing it rigorously, Dropbox can introduce new features and updates seamlessly while ensuring data integrity and privacy. Dropbox's commitment to stability and performance is essential for maintaining user trust and loyalty.
+
 ## ~You Ain't Gonna Need It (YAGNI)~
 
 In theory, it's better to avoid over-engineering and only implement what's needed.
