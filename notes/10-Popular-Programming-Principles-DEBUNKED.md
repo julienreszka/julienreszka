@@ -114,6 +114,10 @@ After the accidents, in 1988 AECL dissolved the AECL Medical section and the com
 
 It was not the only reason why the machine failed but it is one of the reasons.
 
+#### Year 2000 problem (Y2K)
+
+The Year 2000 problem, also known as the Y2K bug, was a computer flaw that affected many systems worldwide. The issue stemmed from the practice of representing years with two digits instead of four, (Foe example 1973 was 73) which caused confusion when transitioning from 1999 to 2000. Many systems interpreted the year 2000 as 1900, leading to incorrect calculations and data errors. The Y2K bug had the potential to disrupt critical infrastructure, financial systems, and other essential services. The problem was a result of oversimplification in early computer programming, where memory and storage limitations led to the use of two-digit year representations. The Y2K bug required extensive remediation efforts to update software and systems to handle four-digit year formats. The cost of addressing the Y2K bug was estimated to be billions of dollars, and the potential impact of widespread system failures prompted global concern and preparation. The Y2K bug serves as a cautionary tale about the consequences of oversimplification in software development.
+
 #### Zoom Security and Privacy Issues (2020)
 
 As the COVID-19 mass hysteria led to a surge in remote work and online meetings, the video conferencing platform Zoom faced scrutiny over various security and privacy flaws.
