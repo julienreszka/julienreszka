@@ -359,6 +359,26 @@ This would have allowed the company to continue operating while the new code was
 
 It was not the only reason why the company failed but it is one of the reasons.
 
+### Real life example of the how WET results in amazing achievements
+
+#### Google
+
+Google's software development processes often involve continuous integration and deployment, where new code is tested separately before being rolled out. This approach allows Google to maintain stable operations while introducing new features or updates. Google's uptime and reliability are critical for its services, such as search, email, and cloud computing, which millions of users rely on daily.
+
+#### Facebook
+
+Facebook also employs a similar approach to Google, utilizing continuous integration and deployment to test and roll out new code separately. This helps them avoid major disruptions to their platform while ensuring that updates are thoroughly tested before reaching users. Facebook's commitment to stability and reliability is essential for maintaining user trust and engagement across its various products and services.
+
+#### Amazon
+
+Amazon's extensive use of microservices architecture enables them to deploy new code independently for different parts of their platform. This allows them to update and test new features or improvements without affecting the entire system. Amazon's focus on modularity and scalability helps them maintain a high level of service availability and performance for their e-commerce, cloud computing, and other services.
+
+#### Netflix
+
+Netflix is known for its sophisticated approach to software development, which includes extensive testing and continuous deployment practices. By following the WET principle, Netflix can introduce new features or fixes while minimizing the risk of disruptions to its streaming service. Netflix's commitment to reliability and performance is crucial for delivering a seamless viewing experience to its global audience.
+
+These companies prioritize stability and reliability in their software development processes by following practices that allow them to write new code separately from existing systems, reducing the likelihood of catastrophic errors
+
 ## ~You Ain't Gonna Need It (YAGNI)~
 
 In theory, it's better to avoid over-engineering and only implement what's needed.
