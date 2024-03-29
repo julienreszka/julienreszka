@@ -242,11 +242,11 @@ The principle of failing fast is not the only reason why the 737 MAX failed but 
 
 ### Real life example of the how recovering quickly results in amazing achievements
 
-#### SpaceX
+#### SpaceX Dragon spacecraft (2020)
 
 Jarrett Farnitano is a software engineer at SpaceX, where he works on the Dragon spacecraft's software. He has shared insights into SpaceX's approach to software development, emphasizing the importance of recovering quickly from failures. "It is important in safety critical software that if a single software component were to have a problem, it does not impact the entire software system. Software also often depends on the hardware it is interacting with, so must account for hardware failures as well. Crashing and restarting just isn't an option. We approach this by building the software in modular components, writing defensive logic, and checking the status of each operation. If an operation we expect to complete fails, we have defined error handling paths and recovery strategies. Sometimes that strategy just means skipping over the operation. Sometimes the strategies can be more complex and involve responses such as switching to backup systems."
 
-#### Netflix
+#### Netflix Chaos Engineering (2011)
 
 Netflix uses a similar approach to software development, focusing on resilience and fault tolerance. The company's Chaos Engineering team is responsible for testing the system's ability to recover from failures. By intentionally introducing failures into the system, Netflix can identify weaknesses and improve its resilience. This approach allows Netflix to recover quickly and maintain a high level of service availability for its users.
 
