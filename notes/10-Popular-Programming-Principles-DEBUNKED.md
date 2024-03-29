@@ -130,6 +130,10 @@ The company had to issue public apologies and commit to releasing multiple patch
 
 Zoom agreed to pay $85 million to settle a lawsuit alleging it violated user privacy by sharing personal data with Facebook, Google, and LinkedIn, and letting hackers disrupt Zoom meetings in a practice called "Zoombombing."
 
+#### Apple Maps (2012)
+
+Apple Maps, introduced in 2012 as a replacement for Google Maps on iOS devices, faced widespread criticism for its inaccuracies and usability issues. The app lacked essential features such as public transit directions and had incorrect mapping data, leading to user frustration and confusion. Apple's decision to prioritize simplicity and control over user experience and functionality resulted in a subpar mapping service that failed to meet user expectations. The negative reception of Apple Maps prompted CEO Tim Cook to issue a public apology and recommend alternative mapping apps until Apple could improve its service. The failure of Apple Maps highlighted the importance of balancing simplicity with functionality and user experience in software development. This departed from the more perfectionist approach that Apple had taken with its products in the past.
+
 ### Real life example of the how perfecting before releasing results in amazing achievements
 
 #### Apple
