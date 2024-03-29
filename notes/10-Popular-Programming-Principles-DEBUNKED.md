@@ -361,7 +361,7 @@ It was not the only reason why the company failed but it is one of the reasons.
 
 #### Patriot Missile Failure (1991)
 
-During the Gulf War in 1991, a Patriot missile defense system failed to intercept an incoming Scud missile, resulting in the deaths of 28 American soldiers and injuries to over 100 others. The failure was attributed to a software bug that caused the system's clock to drift over time, leading to inaccuracies in tracking the Scud missile's position. The tracking error came from two different versions on internal clocking routing; one was from older missle system (from assembly code), another was an updated routing for newer faster missiles.
+During the Gulf War in 1991, a Patriot missile defense system failed to intercept an incoming Scud missile, resulting in the deaths of 28 American soldiers and injuries to over 100 others. The failure was attributed to a software bug that caused the system's clock to drift over time, leading to inaccuracies in tracking the Scud missile's position. The tracking error came from two different versions on internal clocking routing; one was from older missile system (from assembly code), another was an updated routing for newer faster missiles.
 The mismatch created a time skew large enough to allow the Scud to be ½ kilometer off its computed location.
 This shows how not repeating yourself can lead to catastrophic consequences.
 
