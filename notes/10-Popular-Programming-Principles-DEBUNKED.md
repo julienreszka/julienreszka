@@ -141,7 +141,7 @@ Apple Maps, introduced in 2012 as a replacement for Google Maps on iOS devices, 
 Apple is known for its meticulous attention to detail and focus on perfecting products before releasing them to the market.
 The complexity of their products is hidden behind an intuitive user interface, which is the result of extensive testing and refinement. Apple's commitment to quality and user experience has made its products highly desirable and successful in the market. By focusing on perfection and refinement, Apple has built a loyal customer base and established itself as a leader in the tech industry. Apple's success demonstrates the value of perfecting products before releasing them to ensure a positive user experience and long-term success.
 
-#### Google
+#### Google Gmail (2004)
 
 Google is another company that emphasizes perfection and continuous improvement in its products and services. Google's search engine, for example, undergoes constant updates and refinements to deliver accurate and relevant search results to users. Google's commitment to quality and innovation has made it the most popular search engine in the world. By focusing on perfection and continuous improvement, Google has maintained its position as a leader in the tech industry and a trusted source of information for users worldwide.
 
