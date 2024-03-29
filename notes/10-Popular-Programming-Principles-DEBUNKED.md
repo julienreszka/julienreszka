@@ -139,19 +139,23 @@ The complexity of their products is hidden behind an intuitive user interface, w
 
 #### Google
 
-Google is a prime example of a company that effectively uses feature toggles to manage and deploy new features across its wide range of complex products and services.
+Google is another company that emphasizes perfection and continuous improvement in its products and services. Google's search engine, for example, undergoes constant updates and refinements to deliver accurate and relevant search results to users. Google's commitment to quality and innovation has made it the most popular search engine in the world. By focusing on perfection and continuous improvement, Google has maintained its position as a leader in the tech industry and a trusted source of information for users worldwide.
 
+Google is a prime example of a company that effectively uses feature toggles to manage and deploy new features across its wide range of complex products and services.
 Google's products, such as Gmail, Google Maps, and Google Search, are continuously updated with new features and improvements. To ensure a seamless user experience and minimize disruptions, Google uses feature toggles to enable or disable new features based on user feedback, testing results, and performance metrics.
 
 #### Facebook
+
+Even though Zuck is known for the motto "Better done than perfect", Facebook was not released to everyone at once. It was first released to Harvard students, then Ivy League students, then US colleges, then the world. This allowed Facebook to perfect the product before releasing it to the world.
 
 Facebook is another company that leverages feature toggles to manage its platform's features and functionalities. The social media giant has a very vast and complex ecosystem with lots of features and functionalities.
 Facebook's extensive user base and complex ecosystem require careful planning and testing of new features before full deployment. Feature toggles allow Facebook to roll out new features gradually, monitor their performance, and make adjustments based on user feedback. This approach helps Facebook maintain a stable platform while continuously innovating and improving the user experience.
 
 #### Sea of Thieves
 
-Sea of Thieves, a popular multiplayer pirate adventure game developed by Rare, uses feature toggles to manage its content updates and gameplay changes.
-The game has a very extensive world. The game's developers regularly release new content, events, and features to keep players engaged. Feature toggles allow Rare to enable or disable new content based on player feedback, ensuring a smooth and enjoyable gaming experience. By using feature toggles, Sea of Thieves can test new features, gather player data, and make informed decisions about future updates. This approach helps the game maintain a dedicated player base and a vibrant community more than 6 years after its initial release.
+Sea of Thieves is a popular multiplayer pirate adventure game developed by Rare. It took Rare 4 years to develop the game before releasing it to the public. The game was first announced at E3 2015 and released in March 2018. The game was developed with a focus on quality and user experience, with extensive testing and refinement to ensure a smooth and enjoyable gaming experience. The team allowed fans to take part in the game's development by joining the Insider's Program, which granted players access to an early build of the game. The program allowed Rare to experiment with different features while collecting players' feedback. The participants could also discuss with the developers in a private forum.[36] More than 30,000 players joined the program. Through the program, Rare learned more about how players interact with each other and used the information to help the team make gameplay decisions By perfecting the game before release, Rare was able to build a dedicated player base and maintain a vibrant community around Sea of Thieves. The game's success demonstrates the value of perfecting products before releasing them to the public.
+
+Rare, uses feature toggles to manage its content updates and gameplay changes. The game's developers regularly release new content, events, and features to keep players engaged. Feature toggles allow Rare to enable or disable new content based on player feedback, ensuring a smooth and enjoyable gaming experience. By using feature toggles, Sea of Thieves can test new features, gather player data, and make informed decisions about future updates. This approach helps the game maintain a dedicated player base and a vibrant community more than 6 years after its initial release.
 
 ## ~Fail Fast~
 
