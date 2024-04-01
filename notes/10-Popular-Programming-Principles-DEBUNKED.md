@@ -540,6 +540,10 @@ The Apollo 13 mission in 1970 faced a life-threatening crisis when an oxygen tan
 
 Cyrix was a microprocessor manufacturer that competed with Intel and AMD in the 1990s. Cyrix engineers reverse-engineered Intel's microprocessor designs to create compatible processors that offered similar performance at a lower cost. By reverse engineering Intel's designs, Cyrix was able to produce competitive processors that appealed to budget-conscious consumers and helped drive innovation in the microprocessor market. Cyrix's success demonstrates the value of reverse engineering in creating innovative products and challenging industry leaders. Courts ruled that Cyrix never infringed on Intel's patents
 
+#### Phoenix Technologies
+
+Phoenix Technologies is a software company that specializes in BIOS firmware for computers. In the 1980s, Phoenix engineers reverse-engineered IBM's BIOS code to create a compatible version that could be used on non-IBM computers. This allowed other manufacturers to produce IBM-compatible PCs without having to license IBM's proprietary BIOS code. Phoenix's reverse-engineered BIOS became widely adopted in the industry, leading to increased competition and innovation in the PC market. Phoenix's success demonstrates the value of reverse engineering in creating compatible products and fostering technological advancement.
+
 ## ~Maintain UI consistency~
 
 In theory, UI consistency makes it easier for users to navigate and interact with the interface.
