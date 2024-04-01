@@ -536,6 +536,10 @@ It caused a loss of around $193.1 million and a reputation loss for NASA.
 
 The Apollo 13 mission in 1970 faced a life-threatening crisis when an oxygen tank exploded, jeopardizing the lives of the astronauts onboard. The mission's success hinged on the crew's ability to improvise and adapt to the situation, using their knowledge and skills to overcome the challenges they faced. The crew, along with mission control, had to reverse engineer solutions to critical problems, such as creating a makeshift carbon dioxide scrubber to remove toxic gases from the spacecraft. By leveraging their expertise and ingenuity, the crew managed to safely return to Earth, demonstrating the power of reverse engineering and creative problem-solving in high-stakes situations. The Apollo 13 mission is a testament to the importance of practical knowledge and hands-on experience in overcoming unexpected obstacles and achieving remarkable feats.
 
+#### Cyrix
+
+Cyrix was a microprocessor manufacturer that competed with Intel and AMD in the 1990s. Cyrix engineers reverse-engineered Intel's microprocessor designs to create compatible processors that offered similar performance at a lower cost. By reverse engineering Intel's designs, Cyrix was able to produce competitive processors that appealed to budget-conscious consumers and helped drive innovation in the microprocessor market. Cyrix's success demonstrates the value of reverse engineering in creating innovative products and challenging industry leaders. Courts ruled that Cyrix never infringed on Intel's patents
+
 ## ~Maintain UI consistency~
 
 In theory, UI consistency makes it easier for users to navigate and interact with the interface.
