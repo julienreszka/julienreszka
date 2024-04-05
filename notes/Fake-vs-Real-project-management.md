@@ -179,7 +179,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/65713812-b224-41f8-a
 
     And I was like, all right, let's go. And I took input, but I started leading, and this is not something that you do all the time, because you want your team involved.
 
-    You got to be tough down, you've got a solve for speed, and you've got to solve for decisiveness.
+    You got to be top down, you've got a solve for speed, and you've got to solve for decisiveness.
 
     Because even if you're decisive, you make a decision that's 20% off, it's better than being indecisive and not doing anything.
 
