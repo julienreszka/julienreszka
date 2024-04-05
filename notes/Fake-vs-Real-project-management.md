@@ -48,6 +48,16 @@ Focus on things that are unlikely to change. (Change/Time)
 - Rights and obligations
 - Skills and abilities
 
+<details>
+  <summary>Jeff Bezos on customers and the things that don't change</summary>
+  <audio controls>
+    <source 
+      src="media/Jeff-Bezos-speaks-on-customers-and-the-things-that-don-t-change.mp3" 
+      type="audio/mpeg"
+    >
+  </audio>
+</details>
+
 ### Maturing Production Processes
 
 Seek energy efficiency. (Output/Input)
