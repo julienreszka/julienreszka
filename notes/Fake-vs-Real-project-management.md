@@ -77,7 +77,9 @@ Focus on things that are unlikely to change. (Change/Time)
 - Skills and abilities
 
 <details>
-  <summary>Jeff Bezos on customers and the things that don't change</summary>
+  <summary>
+  Jeff Bezos on customers and the things that don't change (Amazon's CEO)
+  </summary>
 
 https://github.com/julienreszka/julienreszka/assets/8984570/1b5ca58d-f29e-457b-98a4-086012f4c442
 
@@ -123,7 +125,7 @@ Seek energy efficiency. (Output/Input)
 
 <details>
   <summary>
-    Elon Musk's five-step improvement process
+    Elon Musk's five-step improvement process (SpaceX, Tesla, etc.)
   </summary>
 
 https://github.com/julienreszka/julienreszka/assets/8984570/65713812-b224-41f8-af23-923cfc7ab116
@@ -154,6 +156,32 @@ https://github.com/julienreszka/julienreszka/assets/8984570/65713812-b224-41f8-a
     And then the final step is automate.
 
     Now, I have personally made the mistake of going backwards on all five steps. Multiple times. I automated, accelerated, simplified, and then deleted.
+
+  </p>
+</details>
+
+<details>
+  <summary>
+    Dara Khosrowshahi (Uber's CEO) on being decisive
+  </summary>
+
+  <audio controls>
+    <source 
+      src="media/Dara-Khosrowshahi-on-being-decisive.mp3" 
+      type="audio/mpeg"
+    >
+  </audio>
+  <p>
+
+    This is not the first tough time for Uber. And the much tougher time, frankly, was post pandemic. Our mobility business, which was our cash cow, lost 85% of its volume, overnight, within the context that we were losing two and a half billion dollars anyway.
+
+    We were deeply unprofitable.
+
+    And I was like, all right, let's go. And I took input, but I started leading, and this is not something that you do all the time, because you want your team involved.
+
+    You got to be tough down, you've got a solve for speed, and you've got to solve for decisiveness.
+
+    Because even if you're decisive, you make a decision that's 20% off, it's better than being indecisive and not doing anything.
 
   </p>
 </details>
