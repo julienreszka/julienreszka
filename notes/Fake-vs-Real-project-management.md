@@ -44,10 +44,8 @@ Identify underutilized resources. (Supply/Demand)
   <summary>
     Brian Chesky on how Airbnb was started
   </summary>
-  
 
 https://github.com/julienreszka/julienreszka/assets/8984570/0d97aa2d-e699-468f-a92d-b74d1d2f533f
-
 
   <audio controls>
     <source 
@@ -68,11 +66,8 @@ Focus on things that are unlikely to change. (Change/Time)
 <details>
   <summary>Jeff Bezos on customers and the things that don't change</summary>
 
-
 https://github.com/julienreszka/julienreszka/assets/8984570/1b5ca58d-f29e-457b-98a4-086012f4c442
 
-
-  
   <audio controls>
     <source 
       src="media/Jeff-Bezos-speaks-on-customers-and-the-things-that-don-t-change.mp3" 
@@ -96,11 +91,27 @@ Seek energy efficiency. (Output/Input)
 
 https://github.com/julienreszka/julienreszka/assets/8984570/65713812-b224-41f8-af23-923cfc7ab116
 
-
   <audio controls>
     <source 
       src="media/Elon-Musk-Five-Step-Improvement-Process.mp3" 
       type="audio/mpeg"
     >
   </audio>
+<p>
+Everyone's wrong, no matter who you are, everyone's wrong, some of the time.
+
+The most common error of a smart engineer is to optimize a thing that should not exist. Why would people do that? Well, everyone's been trained in high school and college that you gotta answer the questions, convergent logic. So you can't tell the professor your question is dumb. You'll get a bad grade. You have to answer the question. So everyone's basically without knowing it, they got like mental straight jacket on. They'll work on optimizing the thing that should simply not exist. Just make your requirements less dumb.
+
+Your requirements are definitely dumb. It does not matter who gave them to you. It's particularly dangerous if a smart person gave you the requirements because you might not question them enough. No matter who you are, everyone's wrong, some of the time. Then try very hard to delete the part or process. This is actually very important. If you are not occasionally adding things back in, you are not deleting enough.
+
+The bias tends to be very strongly towards, let's add this part or process step in case we need it. But you can basically make in case arguments for so many things. Only the third step is simplify or optimize.
+
+Finally, you get to step four, which is accelerate cycle time.
+You're moving too slowly. Go faster. But don't go faster until you have worked on the other three things first.
+
+And then the final step is automate.
+
+Now, I have personally made the mistake of going backwards on all five steps. Multiple times. I automated, accelerated, simplified, and then deleted.
+
+</p>
 </details>
