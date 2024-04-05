@@ -164,6 +164,8 @@ https://github.com/julienreszka/julienreszka/assets/8984570/65713812-b224-41f8-a
   <summary>
     Dara Khosrowshahi (Uber's CEO) on being decisive
   </summary>
+  
+https://github.com/julienreszka/julienreszka/assets/8984570/d4c149af-e1d8-483a-89c0-dce1a323409d
 
   <audio controls>
     <source 
