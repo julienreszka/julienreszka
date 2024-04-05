@@ -102,7 +102,9 @@ Everyone's wrong, no matter who you are, everyone's wrong, some of the time.
 
 The most common error of a smart engineer is to optimize a thing that should not exist. Why would people do that? Well, everyone's been trained in high school and college that you gotta answer the questions, convergent logic. So you can't tell the professor your question is dumb. You'll get a bad grade. You have to answer the question. So everyone's basically without knowing it, they got like mental straight jacket on. They'll work on optimizing the thing that should simply not exist. Just make your requirements less dumb.
 
-Your requirements are definitely dumb. It does not matter who gave them to you. It's particularly dangerous if a smart person gave you the requirements because you might not question them enough. No matter who you are, everyone's wrong, some of the time. Then try very hard to delete the part or process. This is actually very important. If you are not occasionally adding things back in, you are not deleting enough.
+Your requirements are definitely dumb. It does not matter who gave them to you. It's particularly dangerous if a smart person gave you the requirements because you might not question them enough. No matter who you are, everyone's wrong, some of the time.
+
+Then try very hard to delete the part or process. This is actually very important. If you are not occasionally adding things back in, you are not deleting enough.
 
 The bias tends to be very strongly towards, let's add this part or process step in case we need it. But you can basically make in case arguments for so many things. Only the third step is simplify or optimize.
 
