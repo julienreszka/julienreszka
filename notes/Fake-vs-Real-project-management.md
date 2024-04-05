@@ -1,4 +1,4 @@
-# Fake vs Real project management
+con# Fake vs Real project management
 
 Project management methodologies vary widely, often classified into "Fake" or "Real" paradigms.
 
@@ -44,6 +44,11 @@ Identify underutilized resources. (Supply/Demand)
   <summary>
     Brian Chesky on how Airbnb was started
   </summary>
+  
+
+https://github.com/julienreszka/julienreszka/assets/8984570/0d97aa2d-e699-468f-a92d-b74d1d2f533f
+
+
   <audio controls>
     <source 
       src="media/Brian-Chesky-how-Airbnb-was-started.mp3" 
@@ -62,6 +67,12 @@ Focus on things that are unlikely to change. (Change/Time)
 
 <details>
   <summary>Jeff Bezos on customers and the things that don't change</summary>
+
+
+https://github.com/julienreszka/julienreszka/assets/8984570/1b5ca58d-f29e-457b-98a4-086012f4c442
+
+
+  
   <audio controls>
     <source 
       src="media/Jeff-Bezos-speaks-on-customers-and-the-things-that-don-t-change.mp3" 
@@ -82,6 +93,10 @@ Seek energy efficiency. (Output/Input)
   <summary>
     Elon Musk's five-step improvement process
   </summary>
+
+https://github.com/julienreszka/julienreszka/assets/8984570/65713812-b224-41f8-af23-923cfc7ab116
+
+
   <audio controls>
     <source 
       src="media/Elon-Musk-Five-Step-Improvement-Process.mp3" 
