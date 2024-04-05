@@ -40,6 +40,18 @@ Identify underutilized resources. (Supply/Demand)
 - Legal markets
 - Labor markets
 
+<details>
+  <summary>
+    Brian Chesky on how Airbnb was started
+  </summary>
+  <audio controls>
+    <source 
+      src="media/Brian-Chesky-how-Airbnb-was-started.mp3" 
+      type="audio/mpeg"
+    >
+  </audio>
+</details>
+
 ### Focusing on Stable Opportunities
 
 Focus on things that are unlikely to change. (Change/Time)
@@ -65,3 +77,15 @@ Seek energy efficiency. (Output/Input)
 - Revenues growth
 - Tax optimization
 - Cost controls
+
+<details>
+  <summary>
+    Elon Musk's five-step improvement process
+  </summary>
+  <audio controls>
+    <source 
+      src="media/Elon-Musk-Five-Step-Improvement-Process.mp3" 
+      type="audio/mpeg"
+    >
+  </audio>
+</details>
