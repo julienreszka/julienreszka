@@ -106,7 +106,9 @@ Your requirements are definitely dumb. It does not matter who gave them to you. 
 
 Then try very hard to delete the part or process. This is actually very important. If you are not occasionally adding things back in, you are not deleting enough.
 
-The bias tends to be very strongly towards, let's add this part or process step in case we need it. But you can basically make in case arguments for so many things. Only the third step is simplify or optimize.
+The bias tends to be very strongly towards, let's add this part or process step in case we need it. But you can basically make in case arguments for so many things.
+
+Only the third step is simplify or optimize.
 
 Finally, you get to step four, which is accelerate cycle time.
 You're moving too slowly. Go faster. But don't go faster until you have worked on the other three things first.
