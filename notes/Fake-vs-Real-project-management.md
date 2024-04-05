@@ -1,4 +1,4 @@
-con# Fake vs Real project management
+# Fake vs Real project management
 
 Project management methodologies vary widely, often classified into "Fake" or "Real" paradigms.
 
