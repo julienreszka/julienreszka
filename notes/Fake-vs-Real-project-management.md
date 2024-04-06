@@ -68,6 +68,28 @@ https://github.com/julienreszka/julienreszka/assets/8984570/0d97aa2d-e699-468f-a
   </p>
 </details>
 
+<details>
+  <summary>
+    Larry Page on allocating resources (Google's co-founder)
+  </summary>
+
+  <audio controls>
+    <source 
+      src="media/Larry-Page.mp3" 
+      type="audio/mpeg"
+    >
+  </audio>
+  <p>
+  
+    Larry: I think my job is to create that scale that we haven't quite seen from other companies. You know, how we actually invest all the capital we have. And so on. 
+    I think [...] part of our job is kind of like Warren Buffett, managing these disparate things well. I've been doing that in a pretty independent way. And then I think part of our job we see is creating new things, creating new things or buying them at very early stages. Like we do with Android. I think we bought them with 10 people. And that was something I was really excited about. 
+    
+    Interviewer: So you'll keep going. You'll keep expanding the portfolio.
+    
+    Larry: Yeah, and I think, you know, just looking at how we really invest the resources we have and continue to grow that.
+  </p>
+</details>
+
 ### Focusing on Stable Opportunities
 
 Focus on things that are unlikely to change. (Change/Time)
