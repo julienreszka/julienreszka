@@ -209,3 +209,24 @@ https://github.com/julienreszka/julienreszka/assets/8984570/d4c149af-e1d8-483a-8
 
   </p>
 </details>
+
+<details>
+  <summary>
+    Mark Zuckerberg on making bold decisions (Facebook's CEO, 2010)
+  </summary>
+
+  <audio controls>
+    <source 
+      src="media/Dara-Khosrowshahi-on-being-decisive.mp3" 
+      type="audio/mpeg"
+    >
+  </audio>
+  <p>
+
+    [...] I think making it so that this is a place where people can move quickly is just key. Having an emphasis on making bold decisions and being bold and the products that we build.
+    I think is why we have products like newsfeed, which at the time was controversial, but now is one of the core parts of the product and has been emulated by a lot of other startups and companies, or why we have a platform. When we built our first version of the development platform, people weren't thinking about social networks as social platforms for social software development. And that was a pretty controversial decision, and we decided to go for it. Now we have a development community of almost a million developers, so that is kind of a direct byproduct of that kind of line of thinking.
+
+    And then I think just also focusing on leverage and impact, the best people want to go to the place where they can have the biggest impact. We have always focused on this ratio here of the number of engineers that we have to the size of the user base, for the impact that they're going to have. And what we found is that each engineer here is roughly responsible for more than a million users. If you do that calculation, that's much more than smaller companies that have smaller user bases, but smaller employee bases, and much larger than larger companies that have maybe more users, but also a lot more employees. So we're kind of in this sweet spot, and we've always focused on building the company in a way where there's just a lot of leverage, and that that would encourage just the best people to come join the company.
+
+  </p>
+</details>
