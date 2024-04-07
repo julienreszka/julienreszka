@@ -34,6 +34,12 @@ Contrary to the predefined steps of fake project management, real project manage
 
 Essentially it is about creating network effects and reward systems that drive the project forward such that it becomes self-sustaining and self-improving over time and the burn rate is optimized.
 
+Network effects occur when the value of a project or product increases as more people use it.
+By fostering network effects, real project management aims to create a positive feedback loop where the project becomes increasingly valuable as it grows.
+
+Reward systems incentivize stakeholders to contribute positively to the project's growth and sustainability.
+These systems can take various forms, such as financial incentives, recognition, or opportunities for personal or professional development.
+
 ### Identifying Available Resources
 
 Identify underutilized resources. (Supply/Demand)
