@@ -53,7 +53,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/0d97aa2d-e699-468f-a
       type="audio/mpeg"
     >
   </audio>
-  <p>
+  <blockquote>
   
     So I had this moment, I'm sure all of us have these moments in our life where we make a change and everything changes after that. 
   
@@ -65,7 +65,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/0d97aa2d-e699-468f-a
     Then we had this idea, we said, well, what if we just turned our house into a bed and breakfast for the sign conference? 
     Unfortunately, I don't have any beds, but Joe had three air beds. 
     We pulled the air beds out of the closet. We inflated three air beds. We called it the air bed and breakfast.
-  </p>
+  </blockquote>
 </details>
 
 <details>
@@ -79,7 +79,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/0d97aa2d-e699-468f-a
       type="audio/mpeg"
     >
   </audio>
-  <p>
+  <blockquote>
   
     Larry: I think my job is to create that scale that we haven't quite seen from other companies. You know, how we actually invest all the capital we have. And so on. 
     I think [...] part of our job is kind of like Warren Buffett, managing these disparate things well. I've been doing that in a pretty independent way. And then I think part of our job we see is creating new things, creating new things or buying them at very early stages. Like we do with Android. I think we bought them with 10 people. And that was something I was really excited about. 
@@ -87,7 +87,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/0d97aa2d-e699-468f-a
     Interviewer: So you'll keep going. You'll keep expanding the portfolio.
     
     Larry: Yeah, and I think, you know, just looking at how we really invest the resources we have and continue to grow that.
-  </p>
+  </blockquote>
 </details>
 
 ### Focusing on Stable Opportunities
@@ -111,32 +111,31 @@ https://github.com/julienreszka/julienreszka/assets/8984570/1b5ca58d-f29e-457b-9
       type="audio/mpeg"
     >
   </audio>
-  <p>
+  <blockquote>
 
-    I get asked a very interesting question from time to time that I like and I enjoy and I answer and I play with; and the question is, Jeff, what's going to change over the next 10 years?
-    And that's a fun dinner conversation.
+      I get asked a very interesting question from time to time that I like and I enjoy and I answer and I play with; and the question is, Jeff, what's going to change over the next 10 years?
+      And that's a fun dinner conversation.
 
-    I'll tell you, there's an even more important question that I almost never get asked. And that is: what's not going to change over the next 10 years?
+      I'll tell you, there's an even more important question that I almost never get asked. And that is: what's not going to change over the next 10 years?
 
-    And the reason that question is so important is you can build your plans around those things.
+      And the reason that question is so important is you can build your plans around those things.
 
-    So at Amazon, I know for a fact, customers are going to want low prices 10 years from now. That's not going to change.
-    Customers are going to want fast delivery.
-    They're going to want big selection.
+      So at Amazon, I know for a fact, customers are going to want low prices 10 years from now. That's not going to change.
+      Customers are going to want fast delivery.
+      They're going to want big selection.
 
-    So all the energy we put into those things will continue to pay dividends.
+      So all the energy we put into those things will continue to pay dividends.
 
-    It is impossible to imagine a customer coming to me 10 years from now saying, Jeff, I love Amazon, I just wish you delivered a little more slowly.
+      It is impossible to imagine a customer coming to me 10 years from now saying, Jeff, I love Amazon, I just wish you delivered a little more slowly.
 
-    Or I love Amazon. I just wish the prices were a little higher.
+      Or I love Amazon. I just wish the prices were a little higher.
 
-    It's not going to happen.
+      It's not going to happen.
 
-    And so when you can figure out the things that are going to remain true under almost all circumstances, then you can put energy into them.
+      And so when you can figure out the things that are going to remain true under almost all circumstances, then you can put energy into them.
 
-  </p>
+  </blockquote>
 </details>
-
 <details>
   <summary>
     Patrick Collison on the case for big business (Stripe's CEO)
@@ -150,7 +149,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/1b5ca58d-f29e-457b-9
       type="audio/mpeg"
     >
   </audio>
-  <p>
+  <blockquote>
 
     Patrick: It's obviously virtuous or compelling or exciting to foster all these nascent startups and to kind of be an anti-incumbent, but what's the case for supporting established businesses?
 
@@ -168,7 +167,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/1b5ca58d-f29e-457b-9
 
     Patrick: Stripe is doomed to eventually grow at the rate of the economy. There is just a question of how long it takes to get there.
 
-  </p>
+  </blockquote>
 </details>
 
 ### Maturing Production Processes
@@ -192,7 +191,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/65713812-b224-41f8-a
       type="audio/mpeg"
     >
   </audio>
-  <p>
+  <blockquote>
 
     Everyone's wrong, no matter who you are, everyone's wrong, some of the time.
 
@@ -213,7 +212,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/65713812-b224-41f8-a
 
     Now, I have personally made the mistake of going backwards on all five steps. Multiple times. I automated, accelerated, simplified, and then deleted.
 
-  </p>
+  </blockquote>
 </details>
 
 <details>
@@ -229,7 +228,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/d4c149af-e1d8-483a-8
       type="audio/mpeg"
     >
   </audio>
-  <p>
+  <blockquote>
 
     This is not the first tough time for Uber. And the much tougher time, frankly, was post pandemic. Our mobility business, which was our cash cow, lost 85% of its volume, overnight, within the context that we were losing two and a half billion dollars anyway.
 
@@ -241,7 +240,7 @@ https://github.com/julienreszka/julienreszka/assets/8984570/d4c149af-e1d8-483a-8
 
     Because even if you're decisive, you make a decision that's 20% off, it's better than being indecisive and not doing anything.
 
-  </p>
+  </blockquote>
 </details>
 
 <details>
@@ -255,12 +254,12 @@ https://github.com/julienreszka/julienreszka/assets/8984570/d4c149af-e1d8-483a-8
       type="audio/mpeg"
     >
   </audio>
-  <p>
+  <blockquote>
 
     [...] I think making it so that this is a place where people can move quickly is just key. Having an emphasis on making bold decisions and being bold and the products that we build.
     I think is why we have products like newsfeed, which at the time was controversial, but now is one of the core parts of the product and has been emulated by a lot of other startups and companies, or why we have a platform. When we built our first version of the development platform, people weren't thinking about social networks as social platforms for social software development. And that was a pretty controversial decision, and we decided to go for it. Now we have a development community of almost a million developers, so that is kind of a direct byproduct of that kind of line of thinking.
 
     And then I think just also focusing on leverage and impact, the best people want to go to the place where they can have the biggest impact. We have always focused on this ratio here of the number of engineers that we have to the size of the user base, for the impact that they're going to have. And what we found is that each engineer here is roughly responsible for more than a million users. If you do that calculation, that's much more than smaller companies that have smaller user bases, but smaller employee bases, and much larger than larger companies that have maybe more users, but also a lot more employees. So we're kind of in this sweet spot, and we've always focused on building the company in a way where there's just a lot of leverage, and that that would encourage just the best people to come join the company.
 
-  </p>
+  </blockquote>
 </details>
