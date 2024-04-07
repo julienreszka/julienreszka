@@ -137,6 +137,40 @@ https://github.com/julienreszka/julienreszka/assets/8984570/1b5ca58d-f29e-457b-9
   </p>
 </details>
 
+<details>
+  <summary>
+    Patrick Collison on the case for big business (Stripe's CEO)
+  </summary>
+
+https://github.com/julienreszka/julienreszka/assets/8984570/1b5ca58d-f29e-457b-98a4-086012f4c442
+
+  <audio controls>
+    <source 
+      src="media/Patrick-Collison-The-Case-For-Big-Business.mp3" 
+      type="audio/mpeg"
+    >
+  </audio>
+  <p>
+
+    Patrick: It's obviously virtuous or compelling or exciting to foster all these nascent startups and to kind of be an anti-incumbent, but what's the case for supporting established businesses?
+
+    I think people misunderstand where a small business typically, not in every case, but at least in the cases where we denote them startups, there's usually an embedded innovation and the innovation is kind of all that the company is, like the new idea and they're going to do something better, different or whatever.
+
+    And so generally speaking, we like innovation and so we've positive sentiments towards that startup. But there's a lot of innovation that comes from large established businesses. That's not all they do. There's also just running the existing thing. And so maybe it's a smaller share, but the aggregate fraction of innovation that comes from established businesses is really large. And we have to be cognizant of the cognitive bias of the startups, perhaps being somewhat more conspicuous, to choose any sector of the economy, and a significant fraction of the important inventions that occurred over the last 10 or 20 years will have come from the incumbents. And so I think as a general class, and Tyler, of course, would have book on this, I think big business is underrated. I think it's true that established businesses tend to pay better. They tend to be more efficient. More of the innovation in our economy comes from them and they produce a lot of consumer surplus.
+
+    Maybe a lot of the tech industry doesn't place a lot of value on process and operational excellence. We kind of culturally value the spontaneous and the creative and the iconoclastic and the path breaking. But building mechanisms that can enable the very reliable provision of important services at scale and removing the sources of variability that can really cause a bad day for a very large number of people. I don't think they get quite as much cultural credit.
+
+    Interviewer: I mean, if you think about just like the big trends in society that need to just solve our big problems, like Moore's law or the cost of solar or something, these are just you have marginal improvements over many decades that the big tech or big companies are just able to invest a lot of money into doing the R&D.
+
+    Patrick: Relentless iterative improvement is underrated.
+
+    Interviewer: When we think about the way in which Stripe will continue to grow in the future, in some sense it will obviously involve a lot of big businesses. Now processing a significant amount of Amazon volume. There's other businesses you're doing deals with. Tell me how you think it kind of makes sense how an exponentially growing startup would contribute to exponentially growing growth for a Stripe. Does the Stripe keep growing at the same trajectory when it's existing big businesses that you're partnering with?
+
+    Patrick: Stripe is doomed to eventually grow at the rate of the economy. There is just a question of how long it takes to get there.
+
+  </p>
+</details>
+
 ### Maturing Production Processes
 
 Seek energy efficiency. (Output/Input)
