@@ -12,8 +12,9 @@ This is a terrible way to run a retrospective because it leads to a messy board 
 
 A good way to run a retrospective is to ask the team to think and write well thought out and refined answers to the following questions:
 
-- How to use our energy more efficiently? (Explain the high transformation costs) (Output/Input)
 - How to source more strategically? (Explain the inflation of products) (Supply/Demand)
+- How to make our business more sustailable? (Explain the disruptions) (Change/Time)
+- How to use our energy more efficiently? (Explain the high transformation costs) (Output/Input)
 
 The answers must have an introduction, a body and a conclusion.
 
