@@ -1,9 +1,5 @@
 # Hi there 👋
 
-## Timeless principles
-
-- People who acknowledge their failures and change their ways will be not doomed to fail forever.
-
 ## Notes
 
 - [10 Popular Programming Principles DEBUNKED](notes/10-Popular-Programming-Principles-DEBUNKED.md)
