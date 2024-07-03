@@ -2,7 +2,7 @@
 
 ## Timeless principles
 
-- People who don’t acknowledge their failures and change their ways will be doomed to fail again and again.
+- People who acknowledge their failures and change their ways will be not doomed to fail again and again.
 
 ## Notes
 
