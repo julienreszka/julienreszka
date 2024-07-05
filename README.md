@@ -15,3 +15,4 @@
 - [Prototyping and the role of the Designer](notes/Prototyping.md)
 - [How to make a Retrospective](notes/How-to-make-a-retrospective.md)
 - [Fake vs Real project management](notes/Fake-vs-Real-project-management.md)
+- [Types of Successful startups](notes/types-of-successful-startups.md)
