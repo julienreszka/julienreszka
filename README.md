@@ -16,3 +16,6 @@
 - [How to make a Retrospective](notes/How-to-make-a-retrospective.md)
 - [Fake vs Real project management](notes/Fake-vs-Real-project-management.md)
 - [Types of Successful startups](notes/types-of-successful-startups.md)
+- [How to become dangerous to incumbents](notes/How-to-become-dangerous-to-incumbents.md)
+- [How to grow a customer base quickly](notes/How-to-grow-a-customer-base-quickly.md)
+- [How to make a cost effective solution](notes/How-to-make-a-cost-effective-solution.md)

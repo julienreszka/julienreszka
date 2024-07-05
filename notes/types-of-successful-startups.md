@@ -15,3 +15,9 @@ So you have at least 3 ways to make a successful startup.
 - Find a fast growing market, grow your customer base very quickly such that investors have a fear of missing out.
 
 - Find a market with huge margins, make a cost effective solution and get a chunk of it.
+
+## See also
+
+- [How to become dangerous to incumbents](How-to-become-dangerous-to-incumbents.md)
+- [How to grow a customer base quickly](How-to-grow-a-customer-base-quickly.md)
+- [How to make a cost effective solution](How-to-make-a-cost-effective-solution.md)
