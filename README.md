@@ -19,3 +19,4 @@
 - [How to become dangerous to incumbents](notes/How-to-become-dangerous-to-incumbents.md)
 - [How to grow a customer base quickly](notes/How-to-grow-a-customer-base-quickly.md)
 - [How to make a cost effective solution](notes/How-to-make-a-cost-effective-solution.md)
+- [Fake vs Real delivery](notes/Fake-vs-Real-delivery.md)
