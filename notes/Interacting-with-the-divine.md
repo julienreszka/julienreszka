@@ -1,6 +1,6 @@
 # Interacting with the divine
 
-## Be mindful of how what you pray for.
+## Be mindful of what you pray for.
 
 You cannot ask God to act on behalf of you because God is not your servant.
 
