@@ -2,7 +2,7 @@
 
 ## Be mindful of what you pray for.
 
-You cannot ask God to act on behalf of you because God is not your servant.
+You cannot ask God to act on your behalf because God is not your servant.
 
 Explanation: You must approach god with humility, God has a plan and won’t take commands like you would expect from a genie. We are only humans and incapable of giving clear and complete instructions, anything we would ask to get on our behalf would backfire and cause more harm than good.
 
