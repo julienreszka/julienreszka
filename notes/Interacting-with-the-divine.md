@@ -8,7 +8,7 @@ Explanation: You must approach god with humility, God has a plan and won’t tak
 
 ## Be mindful of your strengths.
 
-You may ask God to act on his behalf but he will only give you the power that you can take.
+You may ask to act on behalf of God but God will only give you the power that you can handle.
 
 Explanation: You must approach God with fervour and readiness to act. Do not ask to do things that are too big for you that you are not ready to commit to doing yourself.
 
