@@ -233,7 +233,7 @@ In practice, strict hierarchical unity creates decision bottlenecks, filters inf
 
 ### Decentralized Command (Mission Command / Auftragstaktik)
 
-A superior approach is to provide clear commander’s intent and end-state objectives from the top, while granting subordinates wide latitude in execution. This fosters rapid local adaptation, tightens the OODA loop, exploits fleeting opportunities, and builds resilience against friction and uncertainty—reducing waste from delayed or erroneous central decisions.
+A superior approach is to provide clear commander's intent and end-state objectives from the top, while granting subordinates wide latitude in execution. This fosters rapid local adaptation, tightens the OODA loop (Observe-Orient-Decide-Act—the decision-making cycle developed by military strategist John Boyd; faster cycling through this loop allows one to get inside the enemy's decision timeframe), exploits fleeting opportunities, and builds resilience against friction and uncertainty—reducing waste from delayed or erroneous central decisions.
 
 ### Real life examples of disastrous consequences of following rigid unity of command
 
@@ -608,7 +608,7 @@ Outcome: Iraqi army in theater destroyed; Kuwait liberated in 100 hours.
 
 ## 10. ~Tempo~
 
-In theory, controlling operational tempo—dictating the pace of events faster than the enemy can react—disrupts their decision cycle (OODA loop), forces errors, erodes cohesion, and compounds advantages through relentless pressure. Speed is decisive.  
+In theory, controlling operational tempo—dictating the pace of events faster than the enemy can react—disrupts their decision cycle (OODA loop: Observe-Orient-Decide-Act), forces errors, erodes cohesion, and compounds advantages through relentless pressure. The goal is to cycle through your own decision-making faster than the enemy can complete theirs, forcing them to react to outdated information. Speed is decisive.  
 In practice, obsessive pursuit of maximum tempo often sacrifices preparation, coordination, logistics, and intelligence, leading to uncoordinated advances, exposed vulnerabilities, and self-inflicted exhaustion. Rushed operations waste momentum on incomplete victories or invite devastating counterstrokes when the enemy adapts or trades time for strength.
 
 ### Disciplined Tempo Control
