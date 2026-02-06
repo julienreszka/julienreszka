@@ -128,4 +128,65 @@ The Allies suffered around 15,000 casualties, while French casualties were estim
 In Operation Desert Storm, coalition forces employed overwhelming force through a massive air campaign followed by a ground invasion. The "Shock and Awe" strategy aimed to quickly incapacitate Iraqi forces, leading to a swift and decisive victory.
 Coalition casualties were around 294, while Iraqi casualties were estimated at 20,000 to 35,000 killed and 75,000 wounded. The overwhelming force demonstrated the effectiveness of modern warfare tactics in achieving rapid and decisive victories.
 
+## ~Economy of Force~
+
+In theory, economy of force is the principle of using minimal resources to achieve a desired outcome, allowing for the concentration of forces elsewhere.
+In practice, economy of force can lead to underestimating the enemy and may result in insufficient resources being allocated to critical areas, potentially leading to failure.
+
+### Defense in Depth with Robust Reserves
+
+Defense in depth is a strategy that involves multiple layers of defense to absorb and slow down an enemy attack, while robust reserves provide the necessary resources to counterattack and exploit weaknesses in the enemy's offense. This approach allows for flexibility and adaptability, ensuring that forces are not overextended and can respond effectively to changing battlefield conditions.
+
+### Real life examples of disastrous consequences of following the principle of economy of force
+
+#### Battle of France (1940)
+
+Allied command treated the Ardennes as secondary (difficult terrain), assigning minimal/highly diluted forces there while concentrating elsewhere. Germans massed panzers through it, achieving breakthrough and encirclement.
+
+- German casualties: ~157,000 (27,000 killed).
+- Allied casualties (French/BEF/Belgian/Dutch): ~450,000+ (including ~90,000 French killed, massive captures).
+- Outcome: Fall of France in 6 weeks.
+
+#### Battle of the Bulge (1944–1945)
+
+Allies economized in the Ardennes (quiet sector), holding with thinned/rested divisions to build reserves elsewhere. Germans achieved surprise penetration, forcing costly counterattacks.
+
+- U.S./Allied casualties: ~81,000–89,000 (~19,000 killed).
+- German casualties: ~80,000–100,000.
+- Outcome: Delay of Allied offensive, irreplaceable German losses.
+
+#### Fall of Singapore (1942)
+
+British prioritized naval/air defense of approaches from sea (primary threat axis), economizing land forces defending the Malayan landward side. Japanese attacked overland with lighter forces.
+
+- Allied casualties: ~138,000 (mostly captured; ~5,000–15,000 killed/wounded in battle).
+- Japanese casualties: ~9,800–10,000.
+- Outcome: Largest British surrender in history.
+
+### Real life examples of successfully following the principle of defense in depth with reserves
+
+#### First Battle of the Marne (1914)
+
+French built layered positions and rapidly shifted reserves (including Paris garrison via taxis) to exploit German flank overextension, launching counterattack.
+
+- Allied casualties: ~263,000 (250,000 French, 13,000 British).
+- German casualties: ~250,000.
+- Outcome: Halted German advance on Paris, transition to trench warfare.
+
+#### Battle of Moscow (1941–1942)
+
+Soviets prepared deep defensive belts around Moscow and transferred fresh Siberian divisions as operational reserves for winter counteroffensive.
+
+- Soviet casualties: ~700,000–1,000,000.
+- German casualties: ~250,000–400,000.
+- Outcome: First major German reversal, saved Moscow.
+
+#### Battle of Kursk reserves (1943)
+
+Soviets constructed unprecedented deep defenses (8+ belts, vast minefields) and held massive strategic reserves for counteroffensives (Operation Kutuzov/Rumyantsev).
+
+- Soviet casualties: ~863,000.
+- German casualties: ~200,000–250,000.
+- Outcome: German armor bled out, permanent loss of initiative.
+
 Work in progress
