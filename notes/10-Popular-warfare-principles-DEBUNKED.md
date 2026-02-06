@@ -1,8 +1,3 @@
-# 10 Popular warfare principles DEBUNKED
-
-Warfare is the engagement in or the activities involved in war or conflict.
-There are many myths about warfare that are simply not true. Let's debunk them.
-
 # 10 Popular Warfare Principles Debunked
 
 Warfare is fundamentally a problem of resource allocation under extreme uncertainty: deploy force, logistics, intelligence, and time to break the enemy's cohesion and will at the lowest possible cost to your own system. Traditional "principles of war" are heuristics intended to guide this process, but when applied rigidly they often create predictable waste—unnecessary casualties, squandered momentum, overextended supply lines, or prolonged attrition without decision.
