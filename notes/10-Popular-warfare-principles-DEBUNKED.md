@@ -70,12 +70,12 @@ In Operation Desert Storm, coalition forces employed fluidity by rapidly maneuve
 
 Coalition casualties were around 294, while Iraqi casualties were estimated at 20,000 to 35,000 killed and 75,000 wounded.
 
-### Surprise
+## ~Surprise~
 
 In theory, surprise can lead to a decisive victory by catching the enemy off guard and disrupting their plans.
 In practice, surprise is often difficult to achieve and may not guarantee success as the enemy may quickly adapt or counterattack.
 
-### ~Overwhelming force~
+### Overwhelming force
 
 Overwhelming force is force than is far superior than the enemy's expectations such that it can crush the enemy's will to fight and lead to a swift victory.
 It's a better principle than surprise because it does not rely on the enemy being caught off guard, but rather on the sheer power and capability of one's own forces.
