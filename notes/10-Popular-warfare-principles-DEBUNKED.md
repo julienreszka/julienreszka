@@ -138,7 +138,7 @@ Soviets constructed unprecedented deep defenses (8+ belts, vast minefields) and 
 ### Benchmark Table: Economy of Force vs Defense in Depth with Robust Reserves
 
 | Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
-|----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------||
+|----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | France (Ardennes)          | 1940    | Economy of Force              | Allies                  | ~450,000+ (incl. POW)  | ~157,000               | ~2.9           | No                 | Minimal forces bypassed                    |
 | Bulge                      | 1944–45 | Economy of Force              | Allies                  | ~85,000 (mid)          | ~90,000                | ~0.94          | Yes (delayed)      | Thinned sector penetrated                  |
 | Singapore                  | 1942    | Economy of Force              | Commonwealth            | ~138,000 (mostly POW)  | ~9,800                 | ~14.1          | No                 | Landward approach neglected               |
