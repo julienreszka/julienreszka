@@ -2,7 +2,7 @@
 
 Warfare is fundamentally a problem of resource allocation under extreme uncertainty: deploy force, logistics, intelligence, and time to break the enemy's cohesion and will at the lowest possible cost to your own system. Traditional "principles of war" are heuristics intended to guide this process, but when applied rigidly they often create predictable waste—unnecessary casualties, squandered momentum, overextended supply lines, or prolonged attrition without decision.
 
-This article tests ten commonly cited principles against historical evidence, measuring waste primarily through casualty exchange ratios (own ÷ enemy; lower = less waste per enemy neutralized) and decisive strategic outcome (yes/no). For each principle we propose a more adaptive alternative and benchmark both approaches across matched cases.
+This article tests ten commonly cited principles against historical evidence, measuring waste primarily through casualty exchange ratios (own casualties ÷ enemy casualties; lower ratio = more efficient, less waste per enemy neutralized) and decisive strategic outcome (yes/no). For each principle we propose a more adaptive alternative and benchmark both approaches across matched cases.
 
 The data pattern is consistent: rigid heuristics produce systemic failure modes and high waste; flexible, context-aware alternatives deliver decisive results at dramatically lower net cost.
 
@@ -27,12 +27,12 @@ The data pattern is consistent: rigid heuristics produce systemic failure modes 
 
 ### Benchmark Table
 
-| Battle             | Year    | Approach       | Side        | Own Cas.   | Enemy Cas.     | Ratio | Decisive |
+| Battle             | Year    | Approach       | Side        | Own Cas.   | Enemy Cas.     | Ratio (own ÷ enemy) | Decisive |
 |--------------------|---------|----------------|-------------|------------|----------------|-------|----------|
 | Somme              | 1916    | Concentration  | Allies      | ~623,000  | ~500,000      | 1.25 | No      |
-| Stalingrad         | 1942–43 | Concentration  | Axis        | ~800,000  | ~1,100,000    | 0.73 | No      |
+| Stalingrad         | 1942–43 | Concentration  | Axis        | ~800,000  | ~1,130,000    | 0.71 | No      |
 | Kursk              | 1943    | Concentration  | German      | ~225,000  | ~800,000      | 0.28 | No      |
-| **Avg Concentration** |      |                |             |            |                | **0.75** | **0/3** |
+| **Avg Concentration** |      |                |             |            |                | **0.74** | **0/3** |
 | Midway             | 1942    | Fluidity       | U.S.        | 307       | 3,057         | 0.10 | Yes     |
 | Inchon             | 1950    | Fluidity       | UN          | ~3,500    | ~35,000       | 0.10 | Yes     |
 | Desert Storm       | 1991    | Fluidity       | Coalition   | ~400      | ~30,000       | 0.01 | Yes     |
@@ -61,7 +61,7 @@ The data pattern is consistent: rigid heuristics produce systemic failure modes 
 
 ### Benchmark Table
 
-| Battle             | Year    | Approach       | Side        | Own Cas.   | Enemy Cas.     | Ratio | Decisive |
+| Battle             | Year    | Approach       | Side        | Own Cas.   | Enemy Cas.     | Ratio (own ÷ enemy) | Decisive |
 |--------------------|---------|----------------|-------------|------------|----------------|-------|----------|
 | Barbarossa (1941)  | 1941    | Surprise       | German      | ~830,000  | ~4,000,000    | 0.21 | No      |
 | Pearl Harbor       | 1941    | Surprise       | Japan       | 64        | 2,403         | 0.03 | No (strategic) |
@@ -73,28 +73,6 @@ The data pattern is consistent: rigid heuristics produce systemic failure modes 
 | **Avg Overwhelming**|         |                |             |            |                | **0.04** | **3/3** |
 
 **Observation**: Overwhelming superiority delivered ~16× better ratio and universal decision without relying on ephemeral surprise.
-
-(Continuing sections follow the same uniform pattern with corrected figures, 3 examples each, tables, and observations—Economy of Force, Offensive, Unity of Command, Simplicity, Security, Objective, Maneuver, Tempo.)
-
-### Final Meta-Benchmark Across All 10 Principles
-
-| Principle                  | Traditional Avg Ratio | Alternative Avg Ratio | Multiplier | Alt Success Rate |
-|----------------------------|-----------------------|-----------------------|------------|------------------|
-| Concentration              | 0.75                 | 0.07                 | 11×       | 100%            |
-| Surprise                   | 0.65                 | 0.04                 | 16×       | 100%            |
-| Economy of Force           | 9.8                  | 2.4                  | 4×        | 100%            |
-| Offensive                  | 1.0                  | 1.98*                | (see note)| 100%            |
-| Unity of Command           | 8.7                  | 0.10                 | 87×       | 100%            |
-| Simplicity                 | >17                  | 0.25                 | 70×       | 100%            |
-| Security                   | 9.8                  | 0.25                 | 39×       | 100%            |
-| Objective                  | 1.3                  | 0.17                 | 8×        | 100%            |
-| Maneuver                   | 1.33                 | 0.04                 | 33×       | 100%            |
-| Tempo                      | 1.37                 | 0.09                 | 15×       | 100%            |
-| **Geometric Mean**         | ~3.1                 | ~0.18                | ~17×      | 100% vs ~3%     |
-
-*Offensive note: Higher absolute ratio but 100% decisive outcomes vs 0%—net waste lower due to strategic decision (see prior analysis).
-
-The evidence is clear: rigid principles create avoidable waste under real friction. Adaptive alternatives consistently deliver decision at far lower cost.
 
 ## 3. ~Economy of Force~
 
@@ -156,6 +134,21 @@ Soviets constructed unprecedented deep defenses (8+ belts, vast minefields) and 
 - Soviet casualties: ~863,000.
 - German casualties: ~200,000–250,000.
 - Outcome: German armor bled out, permanent loss of initiative.
+
+### Benchmark Table: Economy of Force vs Defense in Depth with Robust Reserves
+
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+|----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------||
+| France (Ardennes)          | 1940    | Economy of Force              | Allies                  | ~450,000+ (incl. POW)  | ~157,000               | ~2.9           | No                 | Minimal forces bypassed                    |
+| Bulge                      | 1944–45 | Economy of Force              | Allies                  | ~85,000 (mid)          | ~90,000                | ~0.94          | Yes (delayed)      | Thinned sector penetrated                  |
+| Singapore                  | 1942    | Economy of Force              | Commonwealth            | ~138,000 (mostly POW)  | ~9,800                 | ~14.1          | No                 | Landward approach neglected               |
+| **Average (Economy of Force)** |      |                               |                         |                         |                        | **~6.0**       | **0/3 clear Yes**  |                                            |
+| Marne                      | 1914    | Defense in Depth + Reserves   | Allies                  | ~263,000               | ~250,000               | ~1.05          | Yes                | Reserves exploited German overextension   |
+| Moscow                     | 1941–42 | Defense in Depth + Reserves   | Soviets                 | ~850,000 (mid)         | ~325,000 (mid)         | ~2.6           | Yes                | Deep belts absorbed attack, reserves counterattacked |
+| Kursk (defensive)          | 1943    | Defense in Depth + Reserves   | Soviets                 | ~863,000               | ~225,000 (mid)         | ~3.8           | Yes                | Unprecedented depth bled attacker         |
+| **Average (Defense in Depth)** |      |                               |                         |                         |                        | **~2.5**       | **3/3 Yes**        |                                            |
+
+**Observation**: Economy of force cases produced highly variable but overall poor ratios (~6.0 average, with catastrophic POW losses in two cases) and zero clear strategic successes—waste maximized when critical sectors were under-resourced. Defense in depth with reserves cases accepted higher absolute casualties in large-scale battles but achieved ~2.4× better average ratios and 100% decisive outcomes by maintaining flexibility and counterattack capability. The alternative approach reduces strategic waste by ensuring adequate force density and operational reserves.
 
 ## 4. ~Offensive~
 
@@ -220,7 +213,7 @@ Outcome: Invasions repelled, Israeli forces advanced onto enemy territory; polit
 
 ### Benchmark Table: Offensive vs Active Defense with Counteroffensive
 
-| Battle                  | Year     | Principle                     | Side Following      | Own Casualties   | Enemy Casualties | Exchange Ratio | Objective Achieved | Notes                                      |
+| Battle                  | Year     | Principle                     | Side Following      | Own Casualties   | Enemy Casualties | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |-------------------------|----------|-------------------------------|---------------------|------------------|------------------|----------------|--------------------|--------------------------------------------|
 | Nivelle Offensive       | 1917     | Offensive                     | French              | ~187,000        | ~163,000        | 1.15           | No                 | Mutinies, commander sacked                 |
 | Passchendaele           | 1917     | Offensive                     | Allies              | ~275,000        | ~260,000        | 1.06           | Partial (minimal gain) | Extreme attrition for little ground        |
@@ -296,7 +289,7 @@ Outcome: Liberation of Kuwait in 100 hours of ground combat.
 
 ### Benchmark Table: Rigid Unity of Command vs Decentralized Command
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | France                     | 1940    | Rigid Unity                   | French/Allies           | ~2,260,000 (incl. POW) | ~157,000               | ~14.4          | No                 | Centralized delay → collapse               |
 | Midway                     | 1942    | Rigid Unity                   | Japanese                | ~3,057 + critical ships| ~307                   | ~10.0          | No                 | Delayed decisions → carrier loss           |
@@ -372,7 +365,7 @@ Outcome: Total air supremacy in days; ground war lasted 100 hours.
 
 ### Benchmark Table: Rigid Simplicity vs Requisite Complexity with Contingencies
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | Light Brigade              | 1854    | Rigid Simplicity              | British                 | ~278                   | negligible             | >>50           | No                 | Tactical suicide                           |
 | Market Garden              | 1944    | Rigid Simplicity              | Allies                  | ~16,000 (mid)          | ~9,500 (mid)           | ~1.7           | No                 | Single-axis failure                        |
@@ -448,7 +441,7 @@ Outcome: Iraqi forces ejected from Kuwait with minimal friendly losses.
 
 ### Benchmark Table: Rigid/Passive Security vs Risk-Based Security with Active Deception
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | France (Maginot Bypass)    | 1940    | Rigid/Passive Security        | French/Allies           | ~2,260,000 (incl. POW) | ~157,000               | ~14.4          | No                 | Static investment bypassed                 |
 | Singapore                  | 1942    | Rigid/Passive Security        | Commonwealth            | ~138,000 (mostly POW)  | ~9,800                 | ~14.1          | No                 | Wrong axis secured                         |
@@ -524,7 +517,7 @@ Outcome: Decisive victory; territorial objectives exceeded.
 
 ### Benchmark Table: Rigid Objective vs Clear Intent with Adaptive Execution
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | Gallipoli                  | 1915    | Rigid Objective               | Allies                  | ~252,000               | ~251,000               | ~1.00          | No                 | Nine months for evacuation                 |
 | Market Garden              | 1944    | Rigid Objective               | Allies                  | ~16,000 (mid)          | ~9,500 (mid)           | ~1.7           | No                 | Single corridor failed                     |
@@ -600,7 +593,7 @@ Outcome: Iraqi army in theater destroyed; Kuwait liberated in 100 hours.
 
 ### Benchmark Table: Isolated/Excessive Maneuver vs Combined Arms Maneuver for Decisive Destruction
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | Russia Invasion            | 1812    | Isolated Maneuver             | French                  | ~585,000 (mid)         | ~210,000               | ~2.79          | No                 | Logistical collapse in depth               |
 | Barbarossa (1941)          | 1941    | Isolated Maneuver             | German                  | ~830,000               | ~4,300,000 (incl. POW) | ~0.19          | No                 | Gains reversed; initiative lost            |
@@ -676,7 +669,7 @@ Outcome: Republican Guard encircled/annihilated; Kuwait liberated with extraordi
 
 ### Benchmark Table: Maximum Tempo vs Disciplined Tempo Control
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | Market Garden              | 1944    | Maximum Tempo                 | Allies                  | ~16,000 (mid)          | ~9,500 (mid)           | ~1.7           | No                 | Rushed axis collapsed                      |
 | Spring Offensive           | 1918    | Maximum Tempo                 | German                  | ~688,000               | ~852,000               | ~0.81          | No                 | Momentum exhausted without decision        |
@@ -699,9 +692,9 @@ The article systematically tests 10 common principles against historical cases, 
 
 | # | Principle              | Rigid Traditional Approach                  | Adaptive Alternative                          | Traditional Avg Ratio | Alternative Avg Ratio | Improvement Multiplier | Alternative Success Rate | Traditional Success Rate (implied) |
 |---|------------------------|---------------------------------------------|-----------------------------------------------|-----------------------|-----------------------|------------------------|---------------------------|------------------------------------|
-| 1 | Concentration of Force | Mass at decisive point                      | Fluidity (dynamic reshaping)                  | 0.75                 | 0.07                 | 11×                   | 100%                     | ~0%                               |
+| 1 | Concentration of Force | Mass at decisive point                      | Fluidity (dynamic reshaping)                  | 0.74                 | 0.07                 | 11×                   | 100%                     | ~0%                               |
 | 2 | Surprise               | Achieve secrecy and unexpected attack       | Overwhelming Local Superiority                | 0.65                 | 0.04                 | 16×                   | 100%                     | ~0%                               |
-| 3 | Economy of Force       | Minimal resources on secondary axes         | Defense in Depth with Robust Reserves         | 9.8                  | 2.4                  | 4×                    | 100%                     | ~0%                               |
+| 3 | Economy of Force       | Minimal resources on secondary axes         | Defense in Depth with Robust Reserves         | 6.0                  | 2.5                  | 2.4×                  | 100%                     | ~0%                               |
 | 4 | Offensive              | Seize/maintain initiative via attack        | Active Defense + Counteroffensive             | 1.00                 | 1.98*                | (see note)            | 100%                     | ~0%                               |
 | 5 | Unity of Command       | Single hierarchical commander               | Decentralized Command (Mission Command)       | 8.7                  | 0.10                 | 87×                   | 100%                     | ~0%                               |
 | 6 | Simplicity             | Simple, clear plans                         | Requisite Complexity with Contingencies       | >17                  | 0.25                 | 70×                   | 100%                     | ~0%                               |
@@ -713,6 +706,7 @@ The article systematically tests 10 common principles against historical cases, 
 
 **Key Observations from Benchmark Data**
 
+- **Methodological note**: Exchange ratios include both combat casualties and prisoners of war (POW) where historically significant to the outcome. Large-scale encirclements and surrenders (e.g., France 1940, Singapore 1942) represent catastrophic failure modes where enemy force was not merely defeated but removed from the strategic equation entirely. Excluding POWs would understate the decisive nature of these outcomes.
 - *Offensive note*: Alternative shows higher absolute ratio in some WW2 cases due to large-scale attrition phases, but still delivers 100% decisive outcomes at lower net strategic waste (enemy cohesion broken permanently).
 - Multiplier = Traditional ratio ÷ Alternative ratio (higher = greater waste reduction).
 - Success rate = proportion of cases achieving decisive strategic outcome (not just tactical wins or territorial gain).
