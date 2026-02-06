@@ -4,7 +4,11 @@ Warfare is fundamentally a problem of resource allocation under extreme uncertai
 
 This article tests ten commonly cited principles against historical evidence, measuring waste primarily through casualty exchange ratios (own casualties ÷ enemy casualties; lower ratio = more efficient, less waste per enemy neutralized) and decisive strategic outcome (yes/no). For each principle we propose a more adaptive alternative and benchmark both approaches across matched cases.
 
-The data pattern is consistent: rigid heuristics produce systemic failure modes and high waste; flexible, context-aware alternatives deliver decisive results at dramatically lower net cost.
+**Methodological Note on Casualty Measurement**: All casualty figures include killed and wounded unless otherwise specified. Where prisoners of war (POW) constitute a significant component of strategic outcome (e.g., mass surrenders, encirclements), they are explicitly noted and included in totals with the notation "(incl. POW)" to capture the full strategic neutralization of enemy forces. This inclusive approach reflects that encircling/capturing an army achieves the same strategic effect as destroying it in combat—removal from the strategic equation—and is essential to understanding decisive outcomes vs. prolonged attrition.
+
+**Methodological Note on Case Selection**: This analysis deliberately selects contrasting historical examples—prominent failures of rigid principle application vs. prominent successes of adaptive alternatives—to illustrate the pattern. The cases are not a random or comprehensive sample; they are chosen to demonstrate the failure modes and success patterns most clearly. The resulting statistics (e.g., success rates, improvement multipliers) reflect this illustrative sample and should not be interpreted as universal proof, but rather as evidence of systematic differences in approach effectiveness under comparable conditions.
+
+The data pattern in these selected cases is consistent: rigid heuristics produce systemic failure modes and high waste; flexible, context-aware alternatives deliver decisive results at dramatically lower net cost.
 
 ## 1. ~Concentration of Force~
 
@@ -27,7 +31,7 @@ The data pattern is consistent: rigid heuristics produce systemic failure modes 
 
 ### Benchmark Table
 
-| Battle             | Year    | Approach       | Side        | Own Cas.   | Enemy Cas.     | Ratio (own ÷ enemy) | Decisive |
+| Battle             | Year    | Approach       | Side        | Own Casualties (killed+wounded) | Enemy Casualties (killed+wounded) | Ratio (own ÷ enemy) | Decisive |
 |--------------------|---------|----------------|-------------|------------|----------------|-------|----------|
 | Somme              | 1916    | Concentration  | Allies      | ~623,000  | ~500,000      | 1.25 | No      |
 | Stalingrad         | 1942–43 | Concentration  | Axis        | ~800,000  | ~1,130,000    | 0.71 | No      |
@@ -61,10 +65,10 @@ The data pattern is consistent: rigid heuristics produce systemic failure modes 
 
 ### Benchmark Table
 
-| Battle             | Year    | Approach       | Side        | Own Cas.   | Enemy Cas.     | Ratio (own ÷ enemy) | Decisive |
+| Battle             | Year    | Approach       | Side        | Own Casualties (killed+wounded; POW where noted) | Enemy Casualties (killed+wounded; POW where noted) | Ratio (own ÷ enemy) | Decisive |
 |--------------------|---------|----------------|-------------|------------|----------------|-------|----------|
-| Barbarossa (1941)  | 1941    | Surprise       | German      | ~830,000  | ~4,000,000    | 0.21 | No      |
-| Pearl Harbor       | 1941    | Surprise       | Japan       | 64        | 2,403         | 0.03 | No (strategic) |
+| Barbarossa (1941)  | 1941    | Surprise       | German      | ~830,000  | ~4,000,000 (incl. ~3M POW)    | 0.21 | No      |
+| Pearl Harbor       | 1941    | Surprise       | Japan       | 64 killed | 2,403 killed  | 0.03 | No (strategic) |
 | Market Garden      | 1944    | Surprise       | Allies      | ~16,000   | ~9,500        | 1.7  | No      |
 | **Avg Surprise**   |         |                |             |            |                | **0.65** | **0/3** |
 | Gaugamela          | 331 BC  | Overwhelming   | Macedonian  | ~500      | ~60,000       | 0.01 | Yes     |
@@ -137,7 +141,7 @@ Soviets constructed unprecedented deep defenses (8+ belts, vast minefields) and 
 
 ### Benchmark Table: Economy of Force vs Defense in Depth with Robust Reserves
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties (killed+wounded; POW where noted) | Enemy Casualties (killed+wounded; POW where noted) | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | France (Ardennes)          | 1940    | Economy of Force              | Allies                  | ~450,000+ (incl. POW)  | ~157,000               | ~2.9           | No                 | Minimal forces bypassed                    |
 | Bulge                      | 1944–45 | Economy of Force              | Allies                  | ~85,000 (mid)          | ~90,000                | ~0.94          | Yes (delayed)      | Thinned sector penetrated                  |
@@ -213,7 +217,7 @@ Outcome: Invasions repelled, Israeli forces advanced onto enemy territory; polit
 
 ### Benchmark Table: Offensive vs Active Defense with Counteroffensive
 
-| Battle                  | Year     | Principle                     | Side Following      | Own Casualties   | Enemy Casualties | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+| Battle                  | Year     | Principle                     | Side Following      | Own Casualties (killed+wounded) | Enemy Casualties (killed+wounded) | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |-------------------------|----------|-------------------------------|---------------------|------------------|------------------|----------------|--------------------|--------------------------------------------|
 | Nivelle Offensive       | 1917     | Offensive                     | French              | ~187,000        | ~163,000        | 1.15           | No                 | Mutinies, commander sacked                 |
 | Passchendaele           | 1917     | Offensive                     | Allies              | ~275,000        | ~260,000        | 1.06           | Partial (minimal gain) | Extreme attrition for little ground        |
@@ -289,7 +293,7 @@ Outcome: Liberation of Kuwait in 100 hours of ground combat.
 
 ### Benchmark Table: Rigid Unity of Command vs Decentralized Command
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties (killed+wounded; POW where noted) | Enemy Casualties (killed+wounded; POW where noted) | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | France                     | 1940    | Rigid Unity                   | French/Allies           | ~2,260,000 (incl. POW) | ~157,000               | ~14.4          | No                 | Centralized delay → collapse               |
 | Midway                     | 1942    | Rigid Unity                   | Japanese                | ~3,057 + critical ships| ~307                   | ~10.0          | No                 | Delayed decisions → carrier loss           |
@@ -300,7 +304,7 @@ Outcome: Liberation of Kuwait in 100 hours of ground combat.
 | Gulf War Ground            | 1991    | Decentralized                 | Coalition               | ~1,500 (total)         | ~20,000–50,000 killed  | ~0.04–0.08     | Yes                | Speed and exploitation                     |
 | **Average (Decentralized)**|         |                               |                         |                         |                        | **~0.10**      | **3/3 Yes**        |                                            |
 
-**Observation**: Rigid unity cases produced extremely poor exchange ratios and zero strategic successes—waste amplified by centralized error or delay. Decentralized cases achieved ~87× better average ratios and 100% decisive outcomes. The France 1940 contrast (same battlefield, opposite doctrines) is particularly stark: one side paralyzed by waiting for orders, the other unleashed by initiative. Hypothesis confirmed—under uncertainty and friction, distributed decision-making minimizes waste far more effectively than centralized control.
+**Observation**: Rigid unity cases in this sample produced extremely poor exchange ratios and zero strategic successes—waste amplified by centralized error or delay. Decentralized cases achieved ~87× better average ratios and 100% decisive outcomes in these illustrative examples. The France 1940 contrast (same battlefield, opposite doctrines) is particularly stark: one side paralyzed by waiting for orders, the other unleashed by initiative. This sample illustrates that under uncertainty and friction, distributed decision-making can minimize waste far more effectively than centralized control.
 
 ## 6. ~Simplicity~
 
@@ -365,7 +369,7 @@ Outcome: Total air supremacy in days; ground war lasted 100 hours.
 
 ### Benchmark Table: Rigid Simplicity vs Requisite Complexity with Contingencies
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties (killed+wounded; POW where noted) | Enemy Casualties (killed+wounded; POW where noted) | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | Light Brigade              | 1854    | Rigid Simplicity              | British                 | ~278                   | negligible             | >>50           | No                 | Tactical suicide                           |
 | Market Garden              | 1944    | Rigid Simplicity              | Allies                  | ~16,000 (mid)          | ~9,500 (mid)           | ~1.7           | No                 | Single-axis failure                        |
@@ -441,7 +445,7 @@ Outcome: Iraqi forces ejected from Kuwait with minimal friendly losses.
 
 ### Benchmark Table: Rigid/Passive Security vs Risk-Based Security with Active Deception
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties (killed+wounded; POW where noted) | Enemy Casualties (killed+wounded; POW where noted) | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | France (Maginot Bypass)    | 1940    | Rigid/Passive Security        | French/Allies           | ~2,260,000 (incl. POW) | ~157,000               | ~14.4          | No                 | Static investment bypassed                 |
 | Singapore                  | 1942    | Rigid/Passive Security        | Commonwealth            | ~138,000 (mostly POW)  | ~9,800                 | ~14.1          | No                 | Wrong axis secured                         |
@@ -517,7 +521,7 @@ Outcome: Decisive victory; territorial objectives exceeded.
 
 ### Benchmark Table: Rigid Objective vs Clear Intent with Adaptive Execution
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties (killed+wounded; POW where noted) | Enemy Casualties (killed+wounded; POW where noted) | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | Gallipoli                  | 1915    | Rigid Objective               | Allies                  | ~252,000               | ~251,000               | ~1.00          | No                 | Nine months for evacuation                 |
 | Market Garden              | 1944    | Rigid Objective               | Allies                  | ~16,000 (mid)          | ~9,500 (mid)           | ~1.7           | No                 | Single corridor failed                     |
@@ -593,7 +597,7 @@ Outcome: Iraqi army in theater destroyed; Kuwait liberated in 100 hours.
 
 ### Benchmark Table: Isolated/Excessive Maneuver vs Combined Arms Maneuver for Decisive Destruction
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties (killed+wounded; POW where noted) | Enemy Casualties (killed+wounded; POW where noted) | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | Russia Invasion            | 1812    | Isolated Maneuver             | French                  | ~585,000 (mid)         | ~210,000               | ~2.79          | No                 | Logistical collapse in depth               |
 | Barbarossa (1941)          | 1941    | Isolated Maneuver             | German                  | ~830,000               | ~4,300,000 (incl. POW) | ~0.19          | No                 | Gains reversed; initiative lost            |
@@ -604,7 +608,7 @@ Outcome: Iraqi army in theater destroyed; Kuwait liberated in 100 hours.
 | Gulf War Ground            | 1991    | Combined Arms Maneuver        | Coalition               | ~400 (mid)             | ~37,500 (mid)          | ~0.01          | Yes                | Precision/logistics enabled annihilation   |
 | **Average (Combined Arms)**|         |                               |                         |                         |                        | **~0.04**      | **3/3 Yes**        |                                            |
 
-**Observation**: Isolated maneuver cases delivered mixed tactical exchange ratios but 0% decisive strategic success—waste dominated by failure to convert movement into enemy destruction (often despite favorable ratios). Combined arms maneuver cases achieved ~33× better average ratios and 100% decisive outcomes by integrating mobility with sustained combat power. Hypothesis confirmed: under real-world friction and logistical constraints, maneuver detached from synchronized destruction maximizes waste; tight integration minimizes it.
+**Observation**: Isolated maneuver cases in this sample delivered mixed tactical exchange ratios but 0% decisive strategic success—waste dominated by failure to convert movement into enemy destruction (often despite favorable ratios). Combined arms maneuver cases achieved ~33× better average ratios and 100% decisive outcomes by integrating mobility with sustained combat power. These cases illustrate that under real-world friction and logistical constraints, maneuver detached from synchronized destruction can maximize waste, while tight integration minimizes it.
 
 ## 10. ~Tempo~
 
@@ -669,7 +673,7 @@ Outcome: Republican Guard encircled/annihilated; Kuwait liberated with extraordi
 
 ### Benchmark Table: Maximum Tempo vs Disciplined Tempo Control
 
-| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties          | Enemy Casualties        | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
+| Battle / Campaign          | Year    | Principle                     | Side Following          | Own Casualties (killed+wounded; POW where noted) | Enemy Casualties (killed+wounded; POW where noted) | Exchange Ratio (own ÷ enemy) | Objective Achieved | Notes                                      |
 |----------------------------|---------|-------------------------------|-------------------------|-------------------------|-------------------------|----------------|--------------------|--------------------------------------------|
 | Market Garden              | 1944    | Maximum Tempo                 | Allies                  | ~16,000 (mid)          | ~9,500 (mid)           | ~1.7           | No                 | Rushed axis collapsed                      |
 | Spring Offensive           | 1918    | Maximum Tempo                 | German                  | ~688,000               | ~852,000               | ~0.81          | No                 | Momentum exhausted without decision        |
@@ -680,7 +684,7 @@ Outcome: Republican Guard encircled/annihilated; Kuwait liberated with extraordi
 | Desert Storm Ground        | 1991    | Disciplined Control           | Coalition               | ~250 (mid)             | ~37,500 (mid)          | ~0.01          | Yes                | Deliberate buildup → short decisive rush   |
 | **Average (Disciplined Control)**|    |                               |                         |                         |                        | **~0.09**      | **3/3 Yes**        |                                            |
 
-**Observation**: Maximum tempo cases produced unfavorable exchange ratios (>1 in two cases) and 0% decisive strategic success—waste dominated by failure to convert speed into irreversible enemy breakdown. Disciplined control cases achieved ~15× better average ratios and 100% decisive outcomes by varying pace intelligently. Hypothesis confirmed: under friction and enemy adaptation, unrelenting maximum tempo maximizes waste through incoherence; calibrated variation minimizes it while securing decision.
+**Observation**: Maximum tempo cases in this sample produced unfavorable exchange ratios (>1 in two cases) and 0% decisive strategic success—waste dominated by failure to convert speed into irreversible enemy breakdown. Disciplined control cases achieved ~15× better average ratios and 100% decisive outcomes by varying pace intelligently. These examples illustrate that under friction and enemy adaptation, unrelenting maximum tempo can maximize waste through incoherence, while calibrated variation minimizes it and enables decision.
 
 ### Warfare Principles Recap: Rigid vs Adaptive Benchmarks
 
@@ -706,11 +710,11 @@ The article systematically tests 10 common principles against historical cases, 
 
 **Key Observations from Benchmark Data**
 
-- **Methodological note**: Exchange ratios include both combat casualties and prisoners of war (POW) where historically significant to the outcome. Large-scale encirclements and surrenders (e.g., France 1940, Singapore 1942) represent catastrophic failure modes where enemy force was not merely defeated but removed from the strategic equation entirely. Excluding POWs would understate the decisive nature of these outcomes.
+- **Casualty measurement transparency**: All figures represent killed+wounded unless otherwise noted. Where prisoners of war (POW) constitute a significant strategic component, they are explicitly included and marked "(incl. POW)" to reflect total force neutralization. Large-scale encirclements and surrenders (e.g., France 1940 with ~1.9M captured, Singapore 1942 with ~130K captured) represent catastrophic failure modes where the enemy force was completely removed from the strategic equation—functionally equivalent to destruction in terms of strategic effect. This inclusive measurement prevents undercounting decisive outcomes while maintaining transparency about the composition of casualties.
 - *Offensive note*: Alternative shows higher absolute ratio in some WW2 cases due to large-scale attrition phases, but still delivers 100% decisive outcomes at lower net strategic waste (enemy cohesion broken permanently).
 - Multiplier = Traditional ratio ÷ Alternative ratio (higher = greater waste reduction).
 - Success rate = proportion of cases achieving decisive strategic outcome (not just tactical wins or territorial gain).
-- Hypothesis tested and confirmed across 30+ matched historical cases: Rigid heuristics create exploitable predictability and high waste under real friction. Adaptive, context-sensitive alternatives consistently achieve decision at dramatically lower cost (geometric mean ~17× better exchange ratio, 100% vs ~3% decisive outcomes).
+- **Selection bias acknowledgment**: This sample of 30+ cases deliberately contrasts well-documented failures of rigid approaches with well-documented successes of adaptive approaches to illustrate the pattern most clearly. The stark difference (geometric mean ~17× better exchange ratio for adaptive approaches, 100% vs ~3% decisive outcomes) reflects this deliberate selection for illustrative contrast, not a random sample of all military operations. The pattern suggests systematic differences in effectiveness, but the magnitude of differences shown here should be understood as illustrative of the failure modes and success patterns, not as precise universal measurements.
 
 This table distills the core evidence: adaptive approaches dominate by design—they treat principles as flexible tools, not dogma, directly reducing waste in lives, time, and momentum.
 
@@ -758,7 +762,7 @@ The metrics above (exchange ratio + binary decisive outcome) capture force prese
 
 **Observations from Multi-Dimensional Analysis**:  
 
-- **Hypothesis strongly confirmed and strengthened**. Adaptive approaches compress time-to-decision dramatically (often 5–10× faster) by avoiding protraction while achieving decision. Rigid cases either drag into attrition or fail outright.  
+- **Pattern reinforced across multiple dimensions**. In this illustrative sample, adaptive approaches compress time-to-decision dramatically (often 5–10× faster) by avoiding protraction while achieving decision. Rigid cases either drag into attrition or fail outright.  
 - **Logistical sustainment follows the same pattern**: Adaptive methods build in redundancy/phasing (e.g., deliberate buildup in Desert Storm, subordinate fuel management in 1940) → avoid collapse. Rigid methods create single-point failures (single road in Market Garden, deep unsupported penetration in 1812).  
 - **Combined view**: Adaptive systems minimize total waste across all three dimensions—human, temporal, material—creating compounding efficiency. A prolonged rigid operation (e.g., Somme) wastes lives daily, burns supplies indefinitely, and delays strategic effects elsewhere.
 - **Temporal dimension reveals hidden costs**: Even when exchange ratios appear acceptable (e.g., Somme 1.25), protraction multiplies total casualties and resource drain. The Somme's 4-month duration at 1.25 ratio consumed ~623,000 casualties for minimal gain; Desert Storm's 100-hour ground phase at 0.01 ratio achieved total strategic decision with ~400 casualties.
@@ -768,4 +772,4 @@ The metrics above (exchange ratio + binary decisive outcome) capture force prese
 - Time-to-decision can be era-biased (modern technology compresses naturally), but within-era comparisons (e.g., both 1940 France cases; both 1991 Desert Storm vs 1944 Market Garden tempo) control for this.  
 - Logistical scoring is qualitative but grounded in documented outcomes: "Low" = operational breakdown from supply failure; "Med" = sustained but constrained operations; "High" = no supply-driven operational limits.
 
-**Verdict**: Adding temporal and logistical dimensions eliminates the original analysis's main incompleteness. The ~17× exchange ratio improvement already suggested dominance; with time and logistics incorporated, adaptive approaches demonstrate systemic superiority across all dimensions of military efficiency. Rigid principles are not merely suboptimal—they are systematically anti-efficient under real friction, multiplying waste through protraction and logistical collapse while failing to achieve decision.
+**Verdict**: Adding temporal and logistical dimensions strengthens the illustrative pattern. The ~17× exchange ratio improvement in this sample already suggested substantial differences; with time and logistics incorporated, adaptive approaches in these selected cases demonstrate superiority across all dimensions of military efficiency. The evidence from these deliberately contrasting examples suggests that rigid principles applied inflexibly can be systematically anti-efficient under real friction, multiplying waste through protraction and logistical collapse while failing to achieve decision. While the cases here are selected for instructive contrast rather than statistical representativeness, the consistency of the pattern across diverse contexts, eras, and scales suggests the underlying dynamic is robust.
