@@ -22,3 +22,4 @@
 - [How to make a cost effective solution](notes/How-to-make-a-cost-effective-solution.md)
 - [Fake vs Real delivery](notes/Fake-vs-Real-delivery.md)
 - [Interacting with the divine](notes/Interacting-with-the-divine.md)
+- [Achieve fast Earth to Mars travel](notes/Achieve-fast-Earth-to-Mars-travel.md)
