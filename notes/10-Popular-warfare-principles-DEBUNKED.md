@@ -1,5 +1,24 @@
 # 10 Popular Warfare Principles Debunked
 
+## TL;DR
+
+| # | Debunked Principle | Avg Exchange Ratio (rigid) | Decisive Rate (rigid) | Superior Alternative | Avg Exchange Ratio (adaptive) | Decisive Rate (adaptive) | Improvement |
+|---|---|---|---|---|---|---|---|
+| 1 | Concentration of Force | 0.74 | 0/3 | Fluidity | 0.07 | 3/3 | ~11× |
+| 2 | Surprise | 0.65 | 0/3 | Overwhelming Local Superiority | 0.04 | 3/3 | ~16× |
+| 3 | Economy of Force | ~6.0 | 0/3 | Defense in Depth with Robust Reserves | ~2.5 | 3/3 | ~2.4× |
+| 4 | Offensive | ~1.00 | 0/3 | Active Defense with Counteroffensive | ~1.98 | 3/3 | — (ratio trades for decision) |
+| 5 | Unity of Command (rigid) | ~8.7 | 0/3 | Decentralized Command (Auftragstaktik) | ~0.10 | 3/3 | ~87× |
+| 6 | Simplicity (rigid) | >>17.9 | 0/3 | Requisite Complexity with Contingencies | ~0.25 | 3/3 | ~70× |
+| 7 | Passive Security | ~9.8 | 0/3 | Risk-Based Security with Active Deception | ~0.25 | 3/3 | ~39× |
+| 8 | Rigid Objective | ~1.3 | 0/3 | Clear Intent with Adaptive Execution | ~0.17 | 3/3 | ~8× |
+| 9 | Isolated Maneuver | ~1.33 | 0/3 | Combined Arms Maneuver for Decisive Destruction | ~0.04 | 3/3 | ~33× |
+| 10 | Maximum Tempo | ~1.37 | 0/3 | Disciplined Tempo Control | ~0.09 | 3/3 | ~15× |
+
+> **Exchange ratio** = own casualties ÷ enemy casualties. Lower = more efficient. Rigid heuristics: 0/30 decisive outcomes across all cases. Adaptive alternatives: 30/30.
+
+---
+
 Warfare is fundamentally a problem of resource allocation under extreme uncertainty: deploy force, logistics, intelligence, and time to break the enemy's cohesion and will at the lowest possible cost to your own system. Traditional "principles of war" are heuristics intended to guide this process, but when applied rigidly they often create predictable waste—unnecessary casualties, squandered momentum, overextended supply lines, or prolonged attrition without decision.
 
 This article tests ten commonly cited principles against historical evidence, measuring waste primarily through casualty exchange ratios (own casualties ÷ enemy casualties; lower ratio = more efficient, less waste per enemy neutralized) and decisive strategic outcome (yes/no). For each principle we propose a more adaptive alternative and benchmark both approaches across matched cases.
